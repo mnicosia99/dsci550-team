@@ -17,7 +17,7 @@ https://www.researchgate.net/profile/Ying-Yi-Chen
     Dec 2018
 
     a. Lab Size (number of students) Team B - possible approach is to scrape all PLOS one articles for matching affiliations
-    b. Publication Rate Team A
+    b. Publication Rate
     c. Other Journals Published In (does this mean what journals or number?) Team A
     d. Information about First Author including
         i. Affiliation University  Team A

@@ -1,0 +1,19 @@
+    Team A:
+        Grace
+        Jack
+        Zahin
+
+    Team B:
+        Mike
+        Jeff
+    
+    Information about First Author (?)
+        Team B: Lab Size (number of students) - possible approach is to scrape all PLOS one articles for matching affiliations
+        Team A: Publication Rate
+        Team A: Other Journals Published In (does this mean what journals or number?)
+    
+    Information about First Author including
+        Team A: Affiliation University
+        Team A: Duration of Career (Years) - Assume duration is time actively publishing
+        Team A: Highest degree obtained (e.g., “PhD”, “MS”)
+        Team B: Degree Area” (e.g., Computer Science)
