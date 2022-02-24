@@ -16,14 +16,14 @@ https://www.researchgate.net/profile/Ying-Yi-Chen
     Location
     Dec 2018
 
-    a. Lab Size (number of students)
-    b. Publication Rate
-    c. Other Journals Published In
+    a. Lab Size (number of students) Team B - possible approach is to scrape all PLOS one articles for matching affiliations
+    b. Publication Rate Team A
+    c. Other Journals Published In (does this mean what journals or number?) Team A
     d. Information about First Author including
-        i. Affiliation University
-        ii. Duration of Career (Years)
-        iii. Highest degree obtained (e.g., “PhD”, “MS”)
-        iv. Degree Area” (e.g., Computer Science)  
+        i. Affiliation University  Team A
+        ii. Duration of Career (Years) Team A - Assume duration is time actively publishing
+        iii. Highest degree obtained (e.g., “PhD”, “MS”) Team A
+        iv. Degree Area” (e.g., Computer Science)   Team B
       
     https://pubmed.ncbi.nlm.nih.gov/?term=Ying-Yi%20Chen%5BAuthor%5D&format=abstract&sort=jour&page=2
     https://www.ncbi.nlm.nih.gov/books/NBK25500/
@@ -50,8 +50,8 @@ bik_dataset_column_headers['no_action'] = 15
 
 doi_org_url = "http://www.doi.org/"
 
-min_row = 101
-max_row = 150
+min_row = 109
+max_row = 110
 
 affiliations = list()
 findings = list()
@@ -101,23 +101,23 @@ for position, line in enumerate(bf):
             url = doi_org_url + doi
             print(url)
             page = requests.get(url)
-            xpath_filter = ".//*[contains(@class, 'article_authors')]"   
             xpath_filter = ".//*[contains(@class, 'hidden-xs') and contains(@class, 'desktop-authors')]"         
-            xpath_filter = ".//*[contains(@class, 'hidden-xs')]"         
+            xpath_filter = ".//*[contains(@class, 'hidden-xs')]"    
+            xpath_filter = "//div"  
             root = fromstring(page.text)
             # div with classes loa-wrapper loa-authors hidden-xs desktop-authors  
-            divs = root.xpath(xpath_filter)
+            divs = root.xpath("//div")
             for div in divs:
                 print(etree.tostring(div, pretty_print=True))                
                 #  contains array of spans with classes accordion__closed accordion-tabbed__tab
-                spans = div[0].xpath("//span/*[contains(@class, 'accordion__closed accordion-tabbed__tab')]")
-                for span in spans:
-                    # div which has p (class author_name, name is in text) and p with ref_info in text
-                    author_div = span.xpath("//div/*[contains(@class, 'author-info accordion-tabbed__content')]")[0]
-                    author_name = author_div.xpath("//p/*[contains(@class, 'author-name')]")[0]
-                    print(author_name)
-                    ref_info = author_div.xpath("//p[not(@*)/text()")
-                    print(ref_info)
+                # spans = div[0].xpath("//span/*[contains(@class, 'accordion__closed accordion-tabbed__tab')]")
+                # for span in spans:
+                #     # div which has p (class author_name, name is in text) and p with ref_info in text
+                #     author_div = span.xpath("//div/*[contains(@class, 'author-info accordion-tabbed__content')]")[0]
+                #     author_name = author_div.xpath("//p/*[contains(@class, 'author-name')]")[0]
+                #     print(author_name)
+                #     ref_info = author_div.xpath("//p[not(@*)/text()")
+                #     print(ref_info)
             
         elif '10.1371' in doi:
             url = doi_org_url + doi
