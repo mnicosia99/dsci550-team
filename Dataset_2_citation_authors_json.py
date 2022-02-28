@@ -1,15 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[57]:
-
-
 import numpy as np
 import pandas as pd
 import bigjson
-
-
-# In[58]:
 
 
 count  = 0
@@ -22,7 +13,7 @@ references_dict = {'id':[],
                   'venue_ID':[],
                   'references':[]}
 #open file
-with open('dblp.v12.json', 'rb') as f:
+with open('xaa.json', 'rb') as f:
     #load json into j
     j = bigjson.load(f)
     #load limited number of publications 
@@ -86,26 +77,8 @@ with open('dblp.v12.json', 'rb') as f:
         count = count + 1
 
 
-# In[59]:
-
-
 data = pd.DataFrame.from_dict(references_dict)
-
-
-# In[60]:
-
 
 dropped = data.drop(columns=['id', 'title', 'venue_ID', 'references'])
 
-
-# In[61]:
-
-
 dropped.to_csv('Dataset_2_citation_papers.csv', index=False)
-
-
-# In[ ]:
-
-
-
-
