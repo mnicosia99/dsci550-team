@@ -1,1 +1,836 @@
-{"Advanced Laboratory for Plant Genetic Engineering, Advanced Technology Development Centre, Indian Institute of Technology Kharagpur, Kharagpur, India": {"lab_size": 3}, "Anesthesia Department, the Second Affiliated Hospital, School of Medicine, Xi'an Jiaotong University, Xi'an, P. R. China": {"lab_size": 7}, "Apoptosis and Proliferation Control Laboratory, Cancer Research UK, London Research Institute, London, United Kingdom": {"lab_size": 4}, "Aquatic Molecular Genetics and Biotechnology Laboratory, National Center for Genetic Engineering and Biotechnology (BIOTEC), NSTDA, Pathumthani, Thailand": {"lab_size": 1}, "Aquatic Molecular Genetics and Biotechnology Laboratory, National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Bangkok, Thailand": {"lab_size": 1}, "B2PE Laboratory (Biology & Pathology of Endocrine Pancreas), BFA Unit, Univ. Paris-Diderot, CNRS EAC4413, Paris, France": {"lab_size": 1}, "Bellvitge Biomedical Research Institute (IDIBELL), Barcelona, Spain": {"lab_size": 8}, "Biochemistry Department, University of Iowa, Iowa City, Iowa, United States of America": {"lab_size": 4}, "Bioengineering Institute, Worcester Polytechnic Institute, Worcester, Massachusetts, United States of America": {"lab_size": 2}, "Blood Transfusion Centre of Slovenia, Ljubljana, Slovenia": {"lab_size": 4}, "C.A.R.S.O. Consortium, Valenzano, Bari, Italy": {"lab_size": 4}, "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China": {"lab_size": 121}, "CENAR and Department of Molecular Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia": {"lab_size": 5}, "CNRS UMR 5203, INSERM U661, and Montpellier 1 & 2 University, Institute of Functional Genomics, Montpellier, France": {"lab_size": 4}, "Cell Isolation and Transplantation Center, Department of Surgery, Geneva University Hospitals and University of Geneva, Geneva, Switzerland": {"lab_size": 12}, "CellThera, Inc., Worcester, Massachusetts, United States of America": {"lab_size": 3}, "Center for Computational and Integrative Biology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, United States of America": {"lab_size": 16}, "Center for Genomics and Bioinformatics Research, Faculty of Science, Prince of Songkla University, Songkhla, Thailand": {"lab_size": 8}, "Center for Microbial Interface Biology, Department of Microbial Infection and Immunity, The Ohio State University, Columbus, Ohio, United States of America": {"lab_size": 6}, "Center of Excellence for Molecular Biology and Genomics of Shrimp, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, Thailand": {"lab_size": 12}, "Central Laboratory Animal Facility, Johannes Gutenberg University, Mainz, Germany": {"lab_size": 2}, "Centre for Advanced Biomedical Imaging, Department of Medicine and Institute of Child Health, University College London, London, United Kingdom": {"lab_size": 2}, "Centre for Cutaneous Research, QMUL, London, United Kingdom": {"lab_size": 2}, "Clinical Laboratory, Chung Shan Medical University Hospital, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {"lab_size": 0}, "College of Animal Science, Fujian Agriculture and Forestry University, Fuzhou, China": {"lab_size": 5}, "College of Pharmacy, College of Pharmacy, Yeungnam University, Gyeongsan 712-749, Republic of Korea": {"lab_size": 0}, "Core Facility Microarray, Max Planck Institute for Infection Biology, Berlin, Germany": {"lab_size": 3}, "Cyrus Tang Hematology Center, Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China": {"lab_size": 1}, "C\u00e1tedra de Fisiopatolog\u00eda, Facultad de Farmacia y Bioqu\u00edmica, UBA, Jun\u00edn 956, Piso 5, 1113 Buenos Aires, Argentina": {"lab_size": 0}, "Dana Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts, United States of America": {"lab_size": 1}, "Departamento de Infect\u00f3mica y Patog\u00e9nesis Molecular, Centro de Investigaci\u00f3n y de Estudios Avanzados del IPN (CINVESTAV-IPN), 07360 M\u00e9xico, DF, Mexico": {"lab_size": 0}, "Department of Animal and Poultry Sciences, Virginia Tech, Blacksburg, Virginia, United States of America": {"lab_size": 19}, "Department of Bacteriology, Laboratory of Bacterial Physiology, Oswaldo Cruz Institute, FIOCRUZ, Rio de Janeiro, Rio de Janeiro, Brazil": {"lab_size": 1}, "Department of Biochemistry and Molecular Biology, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 32}, "Department of Biochemistry and Molecular Biology, Bengbu Medical College, Bengbu, Anhui, China": {"lab_size": 5}, "Department of Biochemistry and Molecular Biology, Louisiana State University Health Sciences Center, Shreveport, Louisiana, United States of America": {"lab_size": 37}, "Department of Biochemistry, Chung Shan Medical University, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {"lab_size": 0}, "Department of Biochemistry, Institute of Medical Sciences, Banaras Hindu University, Varanasi, India": {"lab_size": 3}, "Department of Biochemistry, Institute of Natural and Applied Science, Middle East Technical University, 06800 Ankara, Turkey": {"lab_size": 0}, "Department of Biochemistry, Osmania University, Hyderabad, A.P., India": {"lab_size": 6}, "Department of Biochemistry, Vanderbilt University Medical Center, Nashville, Tennessee, United States of America": {"lab_size": 14}, "Department of Biology and Biochemistry and the Centre for Regenerative Medicine, University of Bath, Bath, United Kingdom": {"lab_size": 3}, "Department of Biology and Biotechnology, Worcester Polytechnic Institute, Worcester, Massachusetts, United States of America": {"lab_size": 13}, "Department of Biology, Pamukkale University, Kinikli Campus, 20070 Denizli, Turkey": {"lab_size": 0}, "Department of Biology, University of Rome Tor Vergata, Roma, Italy": {"lab_size": 4}, "Department of Biomedical Engineering, Worcester Polytechnic Institute, Worcester, Massachusetts, United States of America": {"lab_size": 7}, "Department of Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur, India": {"lab_size": 8}, "Department of Cardiology, Zhongda Hospital, Medical School of Southeast University, Nanjing, Jiangsu, China": {"lab_size": 29}, "Department of Cell Biology and Anatomy, School of Medicine, University of South Carolina, Columbia, South Carolina, United States of America": {"lab_size": 2}, "Department of Cell and Neurobiology, Zilkha Neurogenetic Institute, Keck School of Medicine, University of Southern California, Los Angeles, California, United States of America": {"lab_size": 1}, "Department of Chemistry and Biochemistry, San Francisco State University, San Francisco, California, United States of America": {"lab_size": 3}, "Department of Clinical Biochemistry, School of Pharmacy and Biochemistry, University of Buenos Aires, INFIBIOC-CONICET, Argentina": {"lab_size": 0}, "Department of Clinical Laboratory, Shenzhen Shajing Affiliated Hospital of Guangzhou Medical University, Shenzhen 518-104, China": {"lab_size": 0}, "Department of Comparative Physiology, Uppsala University, Uppsala, Sweden": {"lab_size": 28}, "Department of Dentistry, Chung Shan Medical University Hospital, Taichung 40201, Taiwan": {"lab_size": 0}, "Department of Developmental, Molecular and Chemical Biology, Tufts University School of Medicine, Boston, Massachusetts, United States of America": {"lab_size": 43}, "Department of Emergency Medicine, Chung Shan Medical University Hospital, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {"lab_size": 0}, "Department of Emergency Medicine, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {"lab_size": 0}, "Department of Emergency and Organ Transplantation, University of Bari, Bari, Italy": {"lab_size": 13}, "Department of Endocrinology-Diabetes-Nutrition, University Hospital Lapeyronie, Montpellier, France": {"lab_size": 1}, "Department of Gastroenterology, Justus Liebig University, Giessen, Germany": {"lab_size": 12}, "Department of Genetics, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland": {"lab_size": 4}, "Department of Genetics, Washington University School of Medicine, St. Louis, Missouri, United States of America": {"lab_size": 80}, "Department of Human and Molecular Genetics, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 12}, "Department of Integrative Biology and Pharmacology, University of Texas School of Medicine, Houston, Texas, United States of America": {"lab_size": 2}, "Department of Internal Medicine, Chung Shan Medical University Hospital, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {"lab_size": 0}, "Department of Internal Medicine, School of Medicine, University of South Carolina, Columbia, South Carolina, United States of America": {"lab_size": 1}, "Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China": {"lab_size": 7}, "Department of Laboratory Medicine, The Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China": {"lab_size": 1}, "Department of Life Science, National Chung Hsing University, 250 Kuo Kuang Road, Taichung 402, Taiwan": {"lab_size": 0}, "Department of Maxillofacial Tissue Regeneration and Research Center for Tooth & Periodontal Regeneration, School of Dentistry, Kyung Hee University, 1 Heogi-dong, Dongdaemun-gu, Seoul 130-701, Republic of Korea": {"lab_size": 0}, "Department of Medical Imaging and Radiological Sciences, Central Taiwan University of Science and Technology, Taichung 40601, Taiwan": {"lab_size": 0}, "Department of Medical Research, Chung Shan Medical University Hospital, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {"lab_size": 0}, "Department of Medical Research, Chung Shan Medical University Hospital, Taichung 40201, Taiwan": {"lab_size": 0}, "Department of Medicine, Addenbrooke's Hospital, University of Cambridge, Cambridge, United Kingdom": {"lab_size": 11}, "Department of Medicine, National Defense Medical Center, Taipei 114, Taiwan": {"lab_size": 0}, "Department of Medicine, University of Iowa, Iowa City, Iowa, United States of America": {"lab_size": 14}, "Department of Microbiology, Global Health and Emerging Pathogens Institute, Department of Medicine, Division of Infectious Diseases, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America": {"lab_size": 1}, "Department of Microbiology, Laboratory of Mycotoxins and Toxigenic Fungi, University of S\u00e3o Paulo, S\u00e3o Paulo, S\u00e3o Paulo, Brazil": {"lab_size": 5}, "Department of Molecular Biology, Max Planck Institute for Infection Biology, Berlin, Germany": {"lab_size": 87}, "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 150}, "Department of Nephrology, University of California, San Francisco, San Francisco, California, United States of America": {"lab_size": 2}, "Department of Neurology, The Agnes Ginges Center for Human Neurogenetics, Hadassah University Hospital, Jerusalem, Israel": {"lab_size": 9}, "Department of Neuroscience, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 80}, "Department of Neurosurgery, Kaohsiung Medical University Hospital, No. 100, Tzyou 1st Road, Kaohsiung 80752, Taiwan": {"lab_size": 0}, "Department of Neurosurgery, Taichung Veterans General Hospital, Taichung 40705, Taiwan": {"lab_size": 0}, "Department of Ophthalmology and of Molecular Microbiology and Genetics, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America": {"lab_size": 2}, "Department of Oral Biology and Pathology, School of Dental Medicine, Stony Brook University, Stony Brook, New York, United States of America": {"lab_size": 6}, "Department of Oral Medicine, School of Dentistry, Kyung Hee University, Heogi-dong, Dongdaemun-gu, Seoul 130-701, Republic of Korea": {"lab_size": 0}, "Department of Oral and Maxillofacial Surgery, School of Dentistry, Kyung Hee University, Heogi-dong, Dongdaemun-gu, Seoul 130-701, Republic of Korea": {"lab_size": 0}, "Department of Oral and Maxillofacial Surgery, School of Dentistry, University of Alabama at Birmingham, Birmingham, Alabama, United States of America": {"lab_size": 1}, "Department of Orthopaedics and Sports Medicine, University of Washington, Seattle, Washington, United States of America": {"lab_size": 40}, "Department of Orthopaedics, First Affiliated Hospital, Chengdu Medical College, Chengdu, People\u2019s Republic of China": {"lab_size": 1}, "Department of Orthopedics, The Center Hospital of Bengbu, Anhui, China": {"lab_size": 1}, "Department of Paediatric, Faculty of Medicine, Thammasat University (Rangsit Campus), Khlong Nueng, Khlong Luang, Pathum Thani 12121, Thailand": {"lab_size": 0}, "Department of Pathology and Experimental Therapeutics, University of Barcelona-Bellvitge Health Science Campus, Barcelona, Spain": {"lab_size": 2}, "Department of Pathology and Microbiology, University of Nebraska Medical Center, Omaha, Nebraska, United States of America": {"lab_size": 88}, "Department of Pathology and Oncology, Karmanos Cancer Institute, Wayne State University, Detroit, Michigan, United States of America": {"lab_size": 1}, "Department of Pathology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts, United States of America": {"lab_size": 26}, "Department of Pathology, Changhua Christian Hospital, Changhua 50006, Taiwan": {"lab_size": 0}, "Department of Pathology, Microbiology and Immunology, School of Medicine, University of South Carolina, Columbia, South Carolina, United States of America": {"lab_size": 16}, "Department of Pathology, Taichung Veterans General Hospital, Taichung 407, Taiwan": {"lab_size": 0}, "Department of Pathology, Texas Children's Hospital, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 1}, "Department of Pathology, Wayne State University School of Medicine, Tumor and Microenvironment Program of Barbara Ann Karmanos Cancer Institute, Detroit, Michigan, United States of America": {"lab_size": 2}, "Department of Pathophysiology, School of Pharmacy and Biochemistry, University of Buenos Aires, INFIBIOC-CONICET, Argentina": {"lab_size": 0}, "Department of Pharmacology, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia": {"lab_size": 67}, "Department of Pharmacology, Guangdong Medical College, Dongguan 523-808, China": {"lab_size": 0}, "Department of Pharmacology, National Medicines Institute, Warsaw, Poland": {"lab_size": 2}, "Department of Pharmacology, School of Pharmacy and Biochemistry, University of Buenos Aires, INFIBIOC-CONICET, Argentina": {"lab_size": 0}, "Department of Pharmacy and Pharmacology and the Centre for Regenerative Medicine, University of Bath, Bath, United Kingdom": {"lab_size": 2}, "Department of Pharmacy and Pharmacology, University of Bath, Claverton Down, Bath, United Kingdom": {"lab_size": 8}, "Department of Pharmacy, Da Chien General Hospital, Miaoli 36052, Taiwan": {"lab_size": 0}, "Department of Pharmacy, First Affiliated Hospital of Zhengzhou University, China": {"lab_size": 0}, "Department of Physical Therapy, Hung Kuang University, Taichung 43302, Taiwan": {"lab_size": 0}, "Department of Physiological Sciences II, University of Barcelona-Bellvitge Health Science Campus, Barcelona, Spain": {"lab_size": 2}, "Department of Physiology and Biophysics, University of Arkansas for Medical Sciences, Little Rock, Arkansas, United States of America": {"lab_size": 24}, "Department of Radiation Medicine, Institute of Modern physics, Chinese Academy of Sciences, Lanzhou, China": {"lab_size": 8}, "Department of Science, Biological and Environmental Sciences and Technologies, University of Salento, Lecce, Italy": {"lab_size": 2}, "Department of Smart Food and Drugs, Graduate School, Inje University, Gimhae 621-749, Republic of Korea": {"lab_size": 0}, "Department of Surgery, Faculty of Medicine, School of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan": {"lab_size": 0}, "Department of Surgery, Kaohsiung Municipal Ta Tung Hospital, Kaohsiung, Taiwan": {"lab_size": 0}, "Department of Surgery, University of Wisconsin Hospital and Clinics, Madison, Wisconsin, United States of America": {"lab_size": 12}, "Department of Traditional Chinese Medicine, Peking Union Medical College Hospital (PUMCH), Peking Union Medical College (PUMC), Chinese Academy of Medical Sciences, Beijing 100730, China": {"lab_size": 0}, "Departments of Medicine, Biochemistry and Molecular Biology, Indiana University School of Medicine, The Melvin and Bren Simon Cancer Center and the Center for Pancreatic Cancer Research, Indianapolis, Indiana, United States of America": {"lab_size": 4}, "Discipline of Microbiology and Immunology, School of Molecular and Biomedical Science, University of Adelaide, Adelaide, Australia": {"lab_size": 3}, "Division of Animal Welfare and Ethology, Justus Liebig University, Giessen, Germany": {"lab_size": 1}, "Division of Biochemistry, Department of Preclinical Sciences, Faculty of Medicine, Thammasat University (Rangsit Campus), Khlong Nueng, Khlong Luang, Pathum Thani 12121, Thailand": {"lab_size": 0}, "Division of Cardio-Vascular Medicine, Department of Internal Medicine, Kurume University School of Medicine, Fukuoka, Japan": {"lab_size": 10}, "Division of Gastroenterology, Department of Internal Medicine, Armed-Force Taichung General Hospital, Taichung 411, Taiwan": {"lab_size": 0}, "Division of Infection and Immunity, University College London, London, United Kingdom": {"lab_size": 75}, "Division of Life Sciences, College of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea": {"lab_size": 5}, "Early Mammalian Development Laboratory, Research School of Biology, College of Medicine, Biology, and Environment, Australian National University, Canberra, Australia": {"lab_size": 1}, "Faculty of Art & Sciences, Biology Department, Pamukkale University, Kinikli, 20070 Denizli, Turkey": {"lab_size": 0}, "Faculty of Medicine, Islamic Azad University, Mashhad Branch, Mashhad 19988-96953, Iran": {"lab_size": 0}, "Faculty of Pharmacy, Universiti Teknologi MARA, Puncak Alam Campus, 42300 Bandar Puncak Alam, Selangor, Malaysia": {"lab_size": 0}, "General Education Center, Central Taiwan University of Science and Technology, No. 11 Pu-tzu Lane, Pu-tzu Road, Taichung 406, Taiwan": {"lab_size": 0}, "General Surgeon Department of Cadre's Ward, the Second Affiliated Hospital, School of Medicine, Xi'an Jiaotong University, Xi'an, P. R. China": {"lab_size": 1}, "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan": {"lab_size": 70}, "Graduate Institute of Pharmaceutical Science and Technology, Central Taiwan University of Science and Technology, Taichung 40601, Taiwan": {"lab_size": 0}, "Graduate School of Chinese Academy of Sciences, Beijing, China": {"lab_size": 40}, "Henan Academy of Medical and Pharmaceutical Sciences, Zhengzhou University, Zhengzhou Henan 450052, China": {"lab_size": 0}, "Howard Hughes Medical Institute, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 43}, "Indian Institute of Science Education and Research, Kolkata, India": {"lab_size": 3}, "Inositol Signaling Group, Laboratory of Signal Transduction, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, North Carolina, United States of America": {"lab_size": 2}, "Institut Cochin, Universit\u00e9 Paris Descartes, CNRS (UMR 8104), Paris, France": {"lab_size": 71}, "Institute for Surgical Research, Philipps University of Marburg, Marburg, Germany": {"lab_size": 2}, "Institute of Andrology, Nanjing University of Chinese Medicine, No. 138 Xianlin Road, Nanjing, Jiangsu 210023, China": {"lab_size": 0}, "Institute of Biochemistry and Biotechnology, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {"lab_size": 0}, "Institute of Biochemistry and Biotechnology, Chung Shan Medical University, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {"lab_size": 0}, "Institute of Immunity & Transplantation, Division of Infection & Immunity, Royal Free Hospital, University College London, London, United Kingdom": {"lab_size": 1}, "Institute of Medical Virology, National Reference Centre for Hepatitis B and D Viruses, Justus Liebig University, Giessen, Germany": {"lab_size": 3}, "Institute of Medicine, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {"lab_size": 0}, "Institute of Medicine, Chung Shan Medical University, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {"lab_size": 0}, "Institute of Medicine, Chung Shan Medical University, Taichung 402, Taiwan": {"lab_size": 0}, "Institute of Molecular Pathology, Vienna, Austria": {"lab_size": 7}, "Institute of Oral Sciences, Chung Shan Medical University, Taichung 40201, Taiwan": {"lab_size": 0}, "Institute of Orthopedic Surgery, Xijing Hospital, Fourth Military Medical University, Xi\u2019an, People\u2019s Republic of China": {"lab_size": 14}, "Institute of Pharmacology, Toxicology and Pharmacy, Ludwig-Maximilians-University, Munich, Germany": {"lab_size": 8}, "Instituto de Biolog\u00eda Molecular y Celular de Plantas, Universidad Polit\u00e9cnica de Valencia-C.S.I.C, Ciudad Polit\u00e9cnica de la Innovaci\u00f3n, Valencia, Spain": {"lab_size": 14}, "International University of Health and Welfare, Fukuoka, Japan": {"lab_size": 3}, "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, Texas, United States of America": {"lab_size": 9}, "Key Laboratory of Environment and Genes Related to Diseases of the Education Ministry, School of Medicine, Xi'an Jiaotong University, Xi'an, P. R. China": {"lab_size": 1}, "Key Laboratory of Heavy Ion Radiation Biology and Medicine of Chinese Academy of Sciences, Lanzhou, China": {"lab_size": 15}, "Key Laboratory of Heavy Ion Radiation Medicine of Gansu Province, Lanzhou, China": {"lab_size": 15}, "Key Laboratory of Human Disease Comparative Medicine, Ministry of Health, Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences & Comparative Medical Center, Peking Union Medical College, Beijing, China": {"lab_size": 6}, "Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of Korea": {"lab_size": 5}, "Laboratory for Diabetes Cell Therapy, Institute for Research in Biotherapy, University Hospital St-Eloi, Montpellier, France": {"lab_size": 5}, "Laboratory of Experimental Medicine, Hospital Alem\u00e1n, Buenos Aires, Argentina": {"lab_size": 0}, "Lady Davis Institute for Medical Research, Jewish General Hospital, Montreal, Canada": {"lab_size": 8}, "Lanzhou University, Hospital of Stomatology, Lanzhou, China": {"lab_size": 1}, "Lung Biology Center, Diabetes Center, and California Institute for Quantitative Biosciences, University of California, San Francisco, San Francisco, California, United States of America": {"lab_size": 1}, "Mathematical Biosciences Institute, The Ohio State University, Columbus, Ohio, United States of America": {"lab_size": 17}, "Medical Nanotechnology Department, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, Tehran, Iran": {"lab_size": 0}, "Medical Technology Division, Malaysian Nuclear Agency, Bangi, 43000 Kajang, Selangor, Malaysia": {"lab_size": 0}, "National Creative Research Initiatives Center for Nuclear Receptor Signals, Hormone Research Center, School of Biological Sciences and Technology, Chonnam National University, Gwangju, Republic of Korea": {"lab_size": 9}, "National Human Genome Research Institute, National Institutes of Health, Bethesda, Maryland, United States of America": {"lab_size": 16}, "National Institute of Cancer Research, National Health Research Institutes, 35 Keyan Road, Zhunan, Miaoli 350, Taiwan": {"lab_size": 0}, "National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, United States of America": {"lab_size": 12}, "National Plant Gene Research Centre (Beijing), Beijing, China": {"lab_size": 23}, "National-Local Joint Engineering Research Center of Biodiagnostics & Biotherapy, Xi'an Jiaotong University, Xi'an, P. R. China": {"lab_size": 1}, "Nephrology Unit, Department of Medicine, Faculty of Medicine, Thammasat University (Rangsit Campus), Khlong Nueng, Khlong Luang, Pathum Thani 12121, Thailand": {"lab_size": 0}, "Neurophysiology Laboratory, Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical Center, Omaha, Nebraska, United States of America": {"lab_size": 12}, "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California, United States of America": {"lab_size": 23}, "Program in Developmental Biology, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 99}, "Program in Genetics, Sackler School of Biomedical Science, Tufts University School of Medicine, Boston, Massachusetts, United States of America": {"lab_size": 1}, "Program in Immunology, Sackler School of Biomedical Science, Tufts University School of Medicine, Boston, Massachusetts, United States of America": {"lab_size": 1}, "Program in Structural and Computational Biology and Molecular Biophysics, Baylor College of Medicine, Houston, Texas, United States of America": {"lab_size": 16}, "Program on Emerging Infectious Diseases, DUKE-NUS Graduate Medical School, Singapore": {"lab_size": 4}, "Proteomics Research Laboratory, Genome Institute, National Center for Genetic Engineering and Biotechnology (BIOTEC), NSTDA, Pathumthani, Thailand": {"lab_size": 1}, "Rajaei Cardiovascular, Medical, and Research Centre, Iran University of Medical Sciences, P.O. Box 14185-615, Tehran, Iran": {"lab_size": 0}, "Research Center of Clinical Laboratory Science, Bengbu Medical College, Bengbu, Anhui, China": {"lab_size": 1}, "Research Institute of Medical Sciences, Department of Biomedical Sciences, Chonnam National University Medical School, Gwangju, Republic of Korea": {"lab_size": 3}, "Schena Foundation, European Research Center for Kidney Diseases, Valenzano, Bari, Italy": {"lab_size": 1}, "School of Biological Sciences, University of Ulsan, Ulsan, South Korea": {"lab_size": 2}, "School of Chinese Pharmaceutical Sciences and Chinese Medicine Resources, China Medical University, Taichung 404, Taiwan": {"lab_size": 0}, "School of Dentistry, Chung Shan Medical University, Taichung 40201, Taiwan": {"lab_size": 0}, "School of Medical Laboratory and Biotechnology, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {"lab_size": 0}, "School of Medical Laboratory and Biotechnology, Chung Shan Medical University, Taichung 40201, Taiwan": {"lab_size": 0}, "School of Medicine, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {"lab_size": 0}, "School of Pharmaceutical Sciences, Zhengzhou University, China": {"lab_size": 0}, "School of Pharmacy, China Medical University, 91 Hsueh-Shih Road, Taichung 404, Taiwan": {"lab_size": 0}, "School of Pharmacy, Second Military Medical University, Shanghai, China": {"lab_size": 66}, "School of Pharmacy, Shanghai JiaoTong University, Shanghai, China": {"lab_size": 1}, "School of Pharmacy, Taipei Medical University, Taipei, Taiwan": {"lab_size": 19}, "Science for Life Laboratory, Department of Comparative Physiology, Uppsala University, Uppsala, Sweden": {"lab_size": 1}, "Section of Microbial Pathogenesis, Yale University School of Medicine, New Haven, Connecticut, United States of America": {"lab_size": 58}, "Section of Virology, Faculty of Medicine, Imperial College London, London, United Kingdom": {"lab_size": 8}, "Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America": {"lab_size": 14}, "Solomon H. Snyder Department of Neuroscience and Departments of Psychiatry and Behavioral Sciences, The Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America": {"lab_size": 2}, "State Key Laboratory for Agrobiotechnology and Key Laboratory of Crop Heterosis and Utilization (MOE), Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing, China": {"lab_size": 23}, "State Key Laboratory of Reproductive Medicine, Clinical Center of Reproductive Medicine, First Affiliated Hospital, Nanjing Medical University, Nanjing 210029, China": {"lab_size": 0}, "Stem Cell and Tissue Engineering Department, Research Center for Science and Technology in Medicine (RCSTiM), Tehran University of Medical Sciences, Tehran, Iran": {"lab_size": 0}, "Stowers Institute for Medical Research, Kansas City, Missouri, United States of America": {"lab_size": 210}, "The Cardiovascular Research Institute, Kurume University, Fukuoka, Japan": {"lab_size": 2}, "Thoracic Surgery, Key Laboratory of Carcinogenesis and Translational Research Ministry of Education, Peking University School of Oncology, Beijing Cancer Hospital & Institute, Beijing, China": {"lab_size": 7}, "Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan": {"lab_size": 0}, "University of Glasgow School of Medicine, Institute of Medical Genetics, Yorkhill Hospital, Glasgow, United Kingdom": {"lab_size": 3}, "University of Mississippi Cancer Institute, Jackson, Mississippi, United States of America": {"lab_size": 2}, "University of Neuch\u00e2tel, Faculty of Sciences, Institute of Botany, Neuch\u00e2tel, Switzerland": {"lab_size": 1}, "Virus Genomics Team, Wellcome Trust Sanger Institute, Cambridge, United Kingdom": {"lab_size": 1}, "Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan": {"lab_size": 4}, "Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom": {"lab_size": 102}, "Zhang Zhongjing College of Chinese Medicine, Nanyang Institute of Technology, China": {"lab_size": 0}}
+{
+    "Advanced Laboratory for Plant Genetic Engineering, Advanced Technology Development Centre, Indian Institute of Technology Kharagpur, Kharagpur, India": {
+      "lab_size": 3
+    },
+    "Anesthesia Department, the Second Affiliated Hospital, School of Medicine, Xi'an Jiaotong University, Xi'an, P. R. China": {
+      "lab_size": 7
+    },
+    "Apoptosis and Proliferation Control Laboratory, Cancer Research UK, London Research Institute, London, United Kingdom": {
+      "lab_size": 4
+    },
+    "Aquatic Molecular Genetics and Biotechnology Laboratory, National Center for Genetic Engineering and Biotechnology (BIOTEC), NSTDA, Pathumthani, Thailand": {
+      "lab_size": 1
+    },
+    "Aquatic Molecular Genetics and Biotechnology Laboratory, National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Bangkok, Thailand": {
+      "lab_size": 1
+    },
+    "B2PE Laboratory (Biology & Pathology of Endocrine Pancreas), BFA Unit, Univ. Paris-Diderot, CNRS EAC4413, Paris, France": {
+      "lab_size": 1
+    },
+    "Bellvitge Biomedical Research Institute (IDIBELL), Barcelona, Spain": {
+      "lab_size": 8
+    },
+    "Biochemistry Department, University of Iowa, Iowa City, Iowa, United States of America": {
+      "lab_size": 4
+    },
+    "Bioengineering Institute, Worcester Polytechnic Institute, Worcester, Massachusetts, United States of America": {
+      "lab_size": 2
+    },
+    "Blood Transfusion Centre of Slovenia, Ljubljana, Slovenia": {
+      "lab_size": 4
+    },
+    "C.A.R.S.O. Consortium, Valenzano, Bari, Italy": {
+      "lab_size": 4
+    },
+    "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China": {
+      "lab_size": 121
+    },
+    "CENAR and Department of Molecular Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia": {
+      "lab_size": 5
+    },
+    "CNRS UMR 5203, INSERM U661, and Montpellier 1 & 2 University, Institute of Functional Genomics, Montpellier, France": {
+      "lab_size": 4
+    },
+    "Cell Isolation and Transplantation Center, Department of Surgery, Geneva University Hospitals and University of Geneva, Geneva, Switzerland": {
+      "lab_size": 12
+    },
+    "CellThera, Inc., Worcester, Massachusetts, United States of America": {
+      "lab_size": 3
+    },
+    "Center for Computational and Integrative Biology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, United States of America": {
+      "lab_size": 16
+    },
+    "Center for Genomics and Bioinformatics Research, Faculty of Science, Prince of Songkla University, Songkhla, Thailand": {
+      "lab_size": 8
+    },
+    "Center for Microbial Interface Biology, Department of Microbial Infection and Immunity, The Ohio State University, Columbus, Ohio, United States of America": {
+      "lab_size": 6
+    },
+    "Center of Excellence for Molecular Biology and Genomics of Shrimp, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, Thailand": {
+      "lab_size": 12
+    },
+    "Central Laboratory Animal Facility, Johannes Gutenberg University, Mainz, Germany": {
+      "lab_size": 2
+    },
+    "Centre for Advanced Biomedical Imaging, Department of Medicine and Institute of Child Health, University College London, London, United Kingdom": {
+      "lab_size": 2
+    },
+    "Centre for Cutaneous Research, QMUL, London, United Kingdom": {
+      "lab_size": 2
+    },
+    "Clinical Laboratory, Chung Shan Medical University Hospital, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "College of Animal Science, Fujian Agriculture and Forestry University, Fuzhou, China": {
+      "lab_size": 5
+    },
+    "College of Pharmacy, College of Pharmacy, Yeungnam University, Gyeongsan 712-749, Republic of Korea": {
+      "lab_size": 0
+    },
+    "Core Facility Microarray, Max Planck Institute for Infection Biology, Berlin, Germany": {
+      "lab_size": 3
+    },
+    "Cyrus Tang Hematology Center, Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China": {
+      "lab_size": 1
+    },
+    "Cátedra de Fisiopatología, Facultad de Farmacia y Bioquímica, UBA, Junín 956, Piso 5, 1113 Buenos Aires, Argentina": {
+      "lab_size": 0
+    },
+    "Dana Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts, United States of America": {
+      "lab_size": 1
+    },
+    "Departamento de Infectómica y Patogénesis Molecular, Centro de Investigación y de Estudios Avanzados del IPN (CINVESTAV-IPN), 07360 México, DF, Mexico": {
+      "lab_size": 0
+    },
+    "Department of Animal and Poultry Sciences, Virginia Tech, Blacksburg, Virginia, United States of America": {
+      "lab_size": 19
+    },
+    "Department of Bacteriology, Laboratory of Bacterial Physiology, Oswaldo Cruz Institute, FIOCRUZ, Rio de Janeiro, Rio de Janeiro, Brazil": {
+      "lab_size": 1
+    },
+    "Department of Biochemistry and Molecular Biology, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 32
+    },
+    "Department of Biochemistry and Molecular Biology, Bengbu Medical College, Bengbu, Anhui, China": {
+      "lab_size": 5
+    },
+    "Department of Biochemistry and Molecular Biology, Louisiana State University Health Sciences Center, Shreveport, Louisiana, United States of America": {
+      "lab_size": 37
+    },
+    "Department of Biochemistry, Chung Shan Medical University, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Biochemistry, Institute of Medical Sciences, Banaras Hindu University, Varanasi, India": {
+      "lab_size": 3
+    },
+    "Department of Biochemistry, Institute of Natural and Applied Science, Middle East Technical University, 06800 Ankara, Turkey": {
+      "lab_size": 0
+    },
+    "Department of Biochemistry, Osmania University, Hyderabad, A.P., India": {
+      "lab_size": 6
+    },
+    "Department of Biochemistry, Vanderbilt University Medical Center, Nashville, Tennessee, United States of America": {
+      "lab_size": 14
+    },
+    "Department of Biology and Biochemistry and the Centre for Regenerative Medicine, University of Bath, Bath, United Kingdom": {
+      "lab_size": 3
+    },
+    "Department of Biology and Biotechnology, Worcester Polytechnic Institute, Worcester, Massachusetts, United States of America": {
+      "lab_size": 13
+    },
+    "Department of Biology, Pamukkale University, Kinikli Campus, 20070 Denizli, Turkey": {
+      "lab_size": 0
+    },
+    "Department of Biology, University of Rome Tor Vergata, Roma, Italy": {
+      "lab_size": 4
+    },
+    "Department of Biomedical Engineering, Worcester Polytechnic Institute, Worcester, Massachusetts, United States of America": {
+      "lab_size": 7
+    },
+    "Department of Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur, India": {
+      "lab_size": 8
+    },
+    "Department of Cardiology, Zhongda Hospital, Medical School of Southeast University, Nanjing, Jiangsu, China": {
+      "lab_size": 29
+    },
+    "Department of Cell Biology and Anatomy, School of Medicine, University of South Carolina, Columbia, South Carolina, United States of America": {
+      "lab_size": 2
+    },
+    "Department of Cell and Neurobiology, Zilkha Neurogenetic Institute, Keck School of Medicine, University of Southern California, Los Angeles, California, United States of America": {
+      "lab_size": 1
+    },
+    "Department of Chemistry and Biochemistry, San Francisco State University, San Francisco, California, United States of America": {
+      "lab_size": 3
+    },
+    "Department of Clinical Biochemistry, School of Pharmacy and Biochemistry, University of Buenos Aires, INFIBIOC-CONICET, Argentina": {
+      "lab_size": 0
+    },
+    "Department of Clinical Laboratory, Shenzhen Shajing Affiliated Hospital of Guangzhou Medical University, Shenzhen 518-104, China": {
+      "lab_size": 0
+    },
+    "Department of Comparative Physiology, Uppsala University, Uppsala, Sweden": {
+      "lab_size": 28
+    },
+    "Department of Dentistry, Chung Shan Medical University Hospital, Taichung 40201, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Developmental, Molecular and Chemical Biology, Tufts University School of Medicine, Boston, Massachusetts, United States of America": {
+      "lab_size": 43
+    },
+    "Department of Emergency Medicine, Chung Shan Medical University Hospital, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Emergency Medicine, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Emergency and Organ Transplantation, University of Bari, Bari, Italy": {
+      "lab_size": 13
+    },
+    "Department of Endocrinology-Diabetes-Nutrition, University Hospital Lapeyronie, Montpellier, France": {
+      "lab_size": 1
+    },
+    "Department of Gastroenterology, Justus Liebig University, Giessen, Germany": {
+      "lab_size": 12
+    },
+    "Department of Genetics, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland": {
+      "lab_size": 4
+    },
+    "Department of Genetics, Washington University School of Medicine, St. Louis, Missouri, United States of America": {
+      "lab_size": 80
+    },
+    "Department of Human and Molecular Genetics, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 12
+    },
+    "Department of Integrative Biology and Pharmacology, University of Texas School of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 2
+    },
+    "Department of Internal Medicine, Chung Shan Medical University Hospital, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Internal Medicine, School of Medicine, University of South Carolina, Columbia, South Carolina, United States of America": {
+      "lab_size": 1
+    },
+    "Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China": {
+      "lab_size": 7
+    },
+    "Department of Laboratory Medicine, The Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China": {
+      "lab_size": 1
+    },
+    "Department of Life Science, National Chung Hsing University, 250 Kuo Kuang Road, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Maxillofacial Tissue Regeneration and Research Center for Tooth & Periodontal Regeneration, School of Dentistry, Kyung Hee University, 1 Heogi-dong, Dongdaemun-gu, Seoul 130-701, Republic of Korea": {
+      "lab_size": 0
+    },
+    "Department of Medical Imaging and Radiological Sciences, Central Taiwan University of Science and Technology, Taichung 40601, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Medical Research, Chung Shan Medical University Hospital, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Medical Research, Chung Shan Medical University Hospital, Taichung 40201, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Medicine, Addenbrooke's Hospital, University of Cambridge, Cambridge, United Kingdom": {
+      "lab_size": 11
+    },
+    "Department of Medicine, National Defense Medical Center, Taipei 114, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Medicine, University of Iowa, Iowa City, Iowa, United States of America": {
+      "lab_size": 14
+    },
+    "Department of Microbiology, Global Health and Emerging Pathogens Institute, Department of Medicine, Division of Infectious Diseases, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America": {
+      "lab_size": 1
+    },
+    "Department of Microbiology, Laboratory of Mycotoxins and Toxigenic Fungi, University of São Paulo, São Paulo, São Paulo, Brazil": {
+      "lab_size": 5
+    },
+    "Department of Molecular Biology, Max Planck Institute for Infection Biology, Berlin, Germany": {
+      "lab_size": 87
+    },
+    "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 150
+    },
+    "Department of Nephrology, University of California, San Francisco, San Francisco, California, United States of America": {
+      "lab_size": 2
+    },
+    "Department of Neurology, The Agnes Ginges Center for Human Neurogenetics, Hadassah University Hospital, Jerusalem, Israel": {
+      "lab_size": 9
+    },
+    "Department of Neuroscience, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 80
+    },
+    "Department of Neurosurgery, Kaohsiung Medical University Hospital, No. 100, Tzyou 1st Road, Kaohsiung 80752, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Neurosurgery, Taichung Veterans General Hospital, Taichung 40705, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Ophthalmology and of Molecular Microbiology and Genetics, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America": {
+      "lab_size": 2
+    },
+    "Department of Oral Biology and Pathology, School of Dental Medicine, Stony Brook University, Stony Brook, New York, United States of America": {
+      "lab_size": 6
+    },
+    "Department of Oral Medicine, School of Dentistry, Kyung Hee University, Heogi-dong, Dongdaemun-gu, Seoul 130-701, Republic of Korea": {
+      "lab_size": 0
+    },
+    "Department of Oral and Maxillofacial Surgery, School of Dentistry, Kyung Hee University, Heogi-dong, Dongdaemun-gu, Seoul 130-701, Republic of Korea": {
+      "lab_size": 0
+    },
+    "Department of Oral and Maxillofacial Surgery, School of Dentistry, University of Alabama at Birmingham, Birmingham, Alabama, United States of America": {
+      "lab_size": 1
+    },
+    "Department of Orthopaedics and Sports Medicine, University of Washington, Seattle, Washington, United States of America": {
+      "lab_size": 40
+    },
+    "Department of Orthopaedics, First Affiliated Hospital, Chengdu Medical College, Chengdu, People’s Republic of China": {
+      "lab_size": 1
+    },
+    "Department of Orthopedics, The Center Hospital of Bengbu, Anhui, China": {
+      "lab_size": 1
+    },
+    "Department of Paediatric, Faculty of Medicine, Thammasat University (Rangsit Campus), Khlong Nueng, Khlong Luang, Pathum Thani 12121, Thailand": {
+      "lab_size": 0
+    },
+    "Department of Pathology and Experimental Therapeutics, University of Barcelona-Bellvitge Health Science Campus, Barcelona, Spain": {
+      "lab_size": 2
+    },
+    "Department of Pathology and Microbiology, University of Nebraska Medical Center, Omaha, Nebraska, United States of America": {
+      "lab_size": 88
+    },
+    "Department of Pathology and Oncology, Karmanos Cancer Institute, Wayne State University, Detroit, Michigan, United States of America": {
+      "lab_size": 1
+    },
+    "Department of Pathology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts, United States of America": {
+      "lab_size": 26
+    },
+    "Department of Pathology, Changhua Christian Hospital, Changhua 50006, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Pathology, Microbiology and Immunology, School of Medicine, University of South Carolina, Columbia, South Carolina, United States of America": {
+      "lab_size": 16
+    },
+    "Department of Pathology, Taichung Veterans General Hospital, Taichung 407, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Pathology, Texas Children's Hospital, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 1
+    },
+    "Department of Pathology, Wayne State University School of Medicine, Tumor and Microenvironment Program of Barbara Ann Karmanos Cancer Institute, Detroit, Michigan, United States of America": {
+      "lab_size": 2
+    },
+    "Department of Pathophysiology, School of Pharmacy and Biochemistry, University of Buenos Aires, INFIBIOC-CONICET, Argentina": {
+      "lab_size": 0
+    },
+    "Department of Pharmacology, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia": {
+      "lab_size": 67
+    },
+    "Department of Pharmacology, Guangdong Medical College, Dongguan 523-808, China": {
+      "lab_size": 0
+    },
+    "Department of Pharmacology, National Medicines Institute, Warsaw, Poland": {
+      "lab_size": 2
+    },
+    "Department of Pharmacology, School of Pharmacy and Biochemistry, University of Buenos Aires, INFIBIOC-CONICET, Argentina": {
+      "lab_size": 0
+    },
+    "Department of Pharmacy and Pharmacology and the Centre for Regenerative Medicine, University of Bath, Bath, United Kingdom": {
+      "lab_size": 2
+    },
+    "Department of Pharmacy and Pharmacology, University of Bath, Claverton Down, Bath, United Kingdom": {
+      "lab_size": 8
+    },
+    "Department of Pharmacy, Da Chien General Hospital, Miaoli 36052, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Pharmacy, First Affiliated Hospital of Zhengzhou University, China": {
+      "lab_size": 0
+    },
+    "Department of Physical Therapy, Hung Kuang University, Taichung 43302, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Physiological Sciences II, University of Barcelona-Bellvitge Health Science Campus, Barcelona, Spain": {
+      "lab_size": 2
+    },
+    "Department of Physiology and Biophysics, University of Arkansas for Medical Sciences, Little Rock, Arkansas, United States of America": {
+      "lab_size": 24
+    },
+    "Department of Radiation Medicine, Institute of Modern physics, Chinese Academy of Sciences, Lanzhou, China": {
+      "lab_size": 8
+    },
+    "Department of Science, Biological and Environmental Sciences and Technologies, University of Salento, Lecce, Italy": {
+      "lab_size": 2
+    },
+    "Department of Smart Food and Drugs, Graduate School, Inje University, Gimhae 621-749, Republic of Korea": {
+      "lab_size": 0
+    },
+    "Department of Surgery, Faculty of Medicine, School of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Surgery, Kaohsiung Municipal Ta Tung Hospital, Kaohsiung, Taiwan": {
+      "lab_size": 0
+    },
+    "Department of Surgery, University of Wisconsin Hospital and Clinics, Madison, Wisconsin, United States of America": {
+      "lab_size": 12
+    },
+    "Department of Traditional Chinese Medicine, Peking Union Medical College Hospital (PUMCH), Peking Union Medical College (PUMC), Chinese Academy of Medical Sciences, Beijing 100730, China": {
+      "lab_size": 0
+    },
+    "Departments of Medicine, Biochemistry and Molecular Biology, Indiana University School of Medicine, The Melvin and Bren Simon Cancer Center and the Center for Pancreatic Cancer Research, Indianapolis, Indiana, United States of America": {
+      "lab_size": 4
+    },
+    "Discipline of Microbiology and Immunology, School of Molecular and Biomedical Science, University of Adelaide, Adelaide, Australia": {
+      "lab_size": 3
+    },
+    "Division of Animal Welfare and Ethology, Justus Liebig University, Giessen, Germany": {
+      "lab_size": 1
+    },
+    "Division of Biochemistry, Department of Preclinical Sciences, Faculty of Medicine, Thammasat University (Rangsit Campus), Khlong Nueng, Khlong Luang, Pathum Thani 12121, Thailand": {
+      "lab_size": 0
+    },
+    "Division of Cardio-Vascular Medicine, Department of Internal Medicine, Kurume University School of Medicine, Fukuoka, Japan": {
+      "lab_size": 10
+    },
+    "Division of Gastroenterology, Department of Internal Medicine, Armed-Force Taichung General Hospital, Taichung 411, Taiwan": {
+      "lab_size": 0
+    },
+    "Division of Infection and Immunity, University College London, London, United Kingdom": {
+      "lab_size": 75
+    },
+    "Division of Life Sciences, College of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea": {
+      "lab_size": 5
+    },
+    "Early Mammalian Development Laboratory, Research School of Biology, College of Medicine, Biology, and Environment, Australian National University, Canberra, Australia": {
+      "lab_size": 1
+    },
+    "Faculty of Art & Sciences, Biology Department, Pamukkale University, Kinikli, 20070 Denizli, Turkey": {
+      "lab_size": 0
+    },
+    "Faculty of Medicine, Islamic Azad University, Mashhad Branch, Mashhad 19988-96953, Iran": {
+      "lab_size": 0
+    },
+    "Faculty of Pharmacy, Universiti Teknologi MARA, Puncak Alam Campus, 42300 Bandar Puncak Alam, Selangor, Malaysia": {
+      "lab_size": 0
+    },
+    "General Education Center, Central Taiwan University of Science and Technology, No. 11 Pu-tzu Lane, Pu-tzu Road, Taichung 406, Taiwan": {
+      "lab_size": 0
+    },
+    "General Surgeon Department of Cadre's Ward, the Second Affiliated Hospital, School of Medicine, Xi'an Jiaotong University, Xi'an, P. R. China": {
+      "lab_size": 1
+    },
+    "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan": {
+      "lab_size": 70
+    },
+    "Graduate Institute of Pharmaceutical Science and Technology, Central Taiwan University of Science and Technology, Taichung 40601, Taiwan": {
+      "lab_size": 0
+    },
+    "Graduate School of Chinese Academy of Sciences, Beijing, China": {
+      "lab_size": 40
+    },
+    "Henan Academy of Medical and Pharmaceutical Sciences, Zhengzhou University, Zhengzhou Henan 450052, China": {
+      "lab_size": 0
+    },
+    "Howard Hughes Medical Institute, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 43
+    },
+    "Indian Institute of Science Education and Research, Kolkata, India": {
+      "lab_size": 3
+    },
+    "Inositol Signaling Group, Laboratory of Signal Transduction, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, North Carolina, United States of America": {
+      "lab_size": 2
+    },
+    "Institut Cochin, Université Paris Descartes, CNRS (UMR 8104), Paris, France": {
+      "lab_size": 71
+    },
+    "Institute for Surgical Research, Philipps University of Marburg, Marburg, Germany": {
+      "lab_size": 2
+    },
+    "Institute of Andrology, Nanjing University of Chinese Medicine, No. 138 Xianlin Road, Nanjing, Jiangsu 210023, China": {
+      "lab_size": 0
+    },
+    "Institute of Biochemistry and Biotechnology, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Institute of Biochemistry and Biotechnology, Chung Shan Medical University, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Institute of Immunity & Transplantation, Division of Infection & Immunity, Royal Free Hospital, University College London, London, United Kingdom": {
+      "lab_size": 1
+    },
+    "Institute of Medical Virology, National Reference Centre for Hepatitis B and D Viruses, Justus Liebig University, Giessen, Germany": {
+      "lab_size": 3
+    },
+    "Institute of Medicine, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Institute of Medicine, Chung Shan Medical University, No. 110, Section 1, Jianguo N. Road, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Institute of Medicine, Chung Shan Medical University, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "Institute of Molecular Pathology, Vienna, Austria": {
+      "lab_size": 7
+    },
+    "Institute of Oral Sciences, Chung Shan Medical University, Taichung 40201, Taiwan": {
+      "lab_size": 0
+    },
+    "Institute of Orthopedic Surgery, Xijing Hospital, Fourth Military Medical University, Xi’an, People’s Republic of China": {
+      "lab_size": 14
+    },
+    "Institute of Pharmacology, Toxicology and Pharmacy, Ludwig-Maximilians-University, Munich, Germany": {
+      "lab_size": 8
+    },
+    "Instituto de Biología Molecular y Celular de Plantas, Universidad Politécnica de Valencia-C.S.I.C, Ciudad Politécnica de la Innovación, Valencia, Spain": {
+      "lab_size": 14
+    },
+    "International University of Health and Welfare, Fukuoka, Japan": {
+      "lab_size": 3
+    },
+    "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, Texas, United States of America": {
+      "lab_size": 9
+    },
+    "Key Laboratory of Environment and Genes Related to Diseases of the Education Ministry, School of Medicine, Xi'an Jiaotong University, Xi'an, P. R. China": {
+      "lab_size": 1
+    },
+    "Key Laboratory of Heavy Ion Radiation Biology and Medicine of Chinese Academy of Sciences, Lanzhou, China": {
+      "lab_size": 15
+    },
+    "Key Laboratory of Heavy Ion Radiation Medicine of Gansu Province, Lanzhou, China": {
+      "lab_size": 15
+    },
+    "Key Laboratory of Human Disease Comparative Medicine, Ministry of Health, Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences & Comparative Medical Center, Peking Union Medical College, Beijing, China": {
+      "lab_size": 6
+    },
+    "Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of Korea": {
+      "lab_size": 5
+    },
+    "Laboratory for Diabetes Cell Therapy, Institute for Research in Biotherapy, University Hospital St-Eloi, Montpellier, France": {
+      "lab_size": 5
+    },
+    "Laboratory of Experimental Medicine, Hospital Alemán, Buenos Aires, Argentina": {
+      "lab_size": 0
+    },
+    "Lady Davis Institute for Medical Research, Jewish General Hospital, Montreal, Canada": {
+      "lab_size": 8
+    },
+    "Lanzhou University, Hospital of Stomatology, Lanzhou, China": {
+      "lab_size": 1
+    },
+    "Lung Biology Center, Diabetes Center, and California Institute for Quantitative Biosciences, University of California, San Francisco, San Francisco, California, United States of America": {
+      "lab_size": 1
+    },
+    "Mathematical Biosciences Institute, The Ohio State University, Columbus, Ohio, United States of America": {
+      "lab_size": 17
+    },
+    "Medical Nanotechnology Department, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, Tehran, Iran": {
+      "lab_size": 0
+    },
+    "Medical Technology Division, Malaysian Nuclear Agency, Bangi, 43000 Kajang, Selangor, Malaysia": {
+      "lab_size": 0
+    },
+    "National Creative Research Initiatives Center for Nuclear Receptor Signals, Hormone Research Center, School of Biological Sciences and Technology, Chonnam National University, Gwangju, Republic of Korea": {
+      "lab_size": 9
+    },
+    "National Human Genome Research Institute, National Institutes of Health, Bethesda, Maryland, United States of America": {
+      "lab_size": 16
+    },
+    "National Institute of Cancer Research, National Health Research Institutes, 35 Keyan Road, Zhunan, Miaoli 350, Taiwan": {
+      "lab_size": 0
+    },
+    "National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, United States of America": {
+      "lab_size": 12
+    },
+    "National Plant Gene Research Centre (Beijing), Beijing, China": {
+      "lab_size": 23
+    },
+    "National-Local Joint Engineering Research Center of Biodiagnostics & Biotherapy, Xi'an Jiaotong University, Xi'an, P. R. China": {
+      "lab_size": 1
+    },
+    "Nephrology Unit, Department of Medicine, Faculty of Medicine, Thammasat University (Rangsit Campus), Khlong Nueng, Khlong Luang, Pathum Thani 12121, Thailand": {
+      "lab_size": 0
+    },
+    "Neurophysiology Laboratory, Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical Center, Omaha, Nebraska, United States of America": {
+      "lab_size": 12
+    },
+    "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California, United States of America": {
+      "lab_size": 23
+    },
+    "Program in Developmental Biology, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 99
+    },
+    "Program in Genetics, Sackler School of Biomedical Science, Tufts University School of Medicine, Boston, Massachusetts, United States of America": {
+      "lab_size": 1
+    },
+    "Program in Immunology, Sackler School of Biomedical Science, Tufts University School of Medicine, Boston, Massachusetts, United States of America": {
+      "lab_size": 1
+    },
+    "Program in Structural and Computational Biology and Molecular Biophysics, Baylor College of Medicine, Houston, Texas, United States of America": {
+      "lab_size": 16
+    },
+    "Program on Emerging Infectious Diseases, DUKE-NUS Graduate Medical School, Singapore": {
+      "lab_size": 4
+    },
+    "Proteomics Research Laboratory, Genome Institute, National Center for Genetic Engineering and Biotechnology (BIOTEC), NSTDA, Pathumthani, Thailand": {
+      "lab_size": 1
+    },
+    "Rajaei Cardiovascular, Medical, and Research Centre, Iran University of Medical Sciences, P.O. Box 14185-615, Tehran, Iran": {
+      "lab_size": 0
+    },
+    "Research Center of Clinical Laboratory Science, Bengbu Medical College, Bengbu, Anhui, China": {
+      "lab_size": 1
+    },
+    "Research Institute of Medical Sciences, Department of Biomedical Sciences, Chonnam National University Medical School, Gwangju, Republic of Korea": {
+      "lab_size": 3
+    },
+    "Schena Foundation, European Research Center for Kidney Diseases, Valenzano, Bari, Italy": {
+      "lab_size": 1
+    },
+    "School of Biological Sciences, University of Ulsan, Ulsan, South Korea": {
+      "lab_size": 2
+    },
+    "School of Chinese Pharmaceutical Sciences and Chinese Medicine Resources, China Medical University, Taichung 404, Taiwan": {
+      "lab_size": 0
+    },
+    "School of Dentistry, Chung Shan Medical University, Taichung 40201, Taiwan": {
+      "lab_size": 0
+    },
+    "School of Medical Laboratory and Biotechnology, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "School of Medical Laboratory and Biotechnology, Chung Shan Medical University, Taichung 40201, Taiwan": {
+      "lab_size": 0
+    },
+    "School of Medicine, Chung Shan Medical University, 110 Chien-Kuo N. Road, Section 1, Taichung 402, Taiwan": {
+      "lab_size": 0
+    },
+    "School of Pharmaceutical Sciences, Zhengzhou University, China": {
+      "lab_size": 0
+    },
+    "School of Pharmacy, China Medical University, 91 Hsueh-Shih Road, Taichung 404, Taiwan": {
+      "lab_size": 0
+    },
+    "School of Pharmacy, Second Military Medical University, Shanghai, China": {
+      "lab_size": 66
+    },
+    "School of Pharmacy, Shanghai JiaoTong University, Shanghai, China": {
+      "lab_size": 1
+    },
+    "School of Pharmacy, Taipei Medical University, Taipei, Taiwan": {
+      "lab_size": 19
+    },
+    "Science for Life Laboratory, Department of Comparative Physiology, Uppsala University, Uppsala, Sweden": {
+      "lab_size": 1
+    },
+    "Section of Microbial Pathogenesis, Yale University School of Medicine, New Haven, Connecticut, United States of America": {
+      "lab_size": 58
+    },
+    "Section of Virology, Faculty of Medicine, Imperial College London, London, United Kingdom": {
+      "lab_size": 8
+    },
+    "Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America": {
+      "lab_size": 14
+    },
+    "Solomon H. Snyder Department of Neuroscience and Departments of Psychiatry and Behavioral Sciences, The Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America": {
+      "lab_size": 2
+    },
+    "State Key Laboratory for Agrobiotechnology and Key Laboratory of Crop Heterosis and Utilization (MOE), Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing, China": {
+      "lab_size": 23
+    },
+    "State Key Laboratory of Reproductive Medicine, Clinical Center of Reproductive Medicine, First Affiliated Hospital, Nanjing Medical University, Nanjing 210029, China": {
+      "lab_size": 0
+    },
+    "Stem Cell and Tissue Engineering Department, Research Center for Science and Technology in Medicine (RCSTiM), Tehran University of Medical Sciences, Tehran, Iran": {
+      "lab_size": 0
+    },
+    "Stowers Institute for Medical Research, Kansas City, Missouri, United States of America": {
+      "lab_size": 210
+    },
+    "The Cardiovascular Research Institute, Kurume University, Fukuoka, Japan": {
+      "lab_size": 2
+    },
+    "Thoracic Surgery, Key Laboratory of Carcinogenesis and Translational Research Ministry of Education, Peking University School of Oncology, Beijing Cancer Hospital & Institute, Beijing, China": {
+      "lab_size": 7
+    },
+    "Tri-Service General Hospital, National Defense Medical Center, Taipei 114, Taiwan": {
+      "lab_size": 0
+    },
+    "University of Glasgow School of Medicine, Institute of Medical Genetics, Yorkhill Hospital, Glasgow, United Kingdom": {
+      "lab_size": 3
+    },
+    "University of Mississippi Cancer Institute, Jackson, Mississippi, United States of America": {
+      "lab_size": 2
+    },
+    "University of Neuchâtel, Faculty of Sciences, Institute of Botany, Neuchâtel, Switzerland": {
+      "lab_size": 1
+    },
+    "Virus Genomics Team, Wellcome Trust Sanger Institute, Cambridge, United Kingdom": {
+      "lab_size": 1
+    },
+    "Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan": {
+      "lab_size": 4
+    },
+    "Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom": {
+      "lab_size": 102
+    },
+    "Zhang Zhongjing College of Chinese Medicine, Nanyang Institute of Technology, China": {
+      "lab_size": 0
+    },
+    "Abteilung Mikrobiologie, Universität Osnabrück, Osnabrück, Germany": {
+      "lab_size": 13
+    },
+    "Australian Research Council, Centre of Excellence in Structural and Functional Genomics, Department of Microbiology, Monash University, Clayton, Victoria, Australia": {
+      "lab_size": 0
+    },
+    "Biochemistry and Molecular Biology": {
+      "lab_size": 0
+    },
+    "Case Western Reserve University, Center for Global Health and Diseases, Cleveland, Ohio, USA": {
+      "lab_size": 0
+    },
+    "College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China": {
+      "lab_size": 65
+    },
+    "Crete Veterinary Clinic, Crete, Nebraska 68333-0008": {
+      "lab_size": 0
+    },
+    "Departamento de Bioquímica y Biología Molecular, Facultad de Ciencias Químicas y Farmacéuticas, Universidad de Chile, Santiago, Chile": {
+      "lab_size": 31
+    },
+    "Department of Biochemistry and Molecular Biology, School of Medicine and Health Sciences, University of North Dakota, Grand Forks, North Dakota, USA": {
+      "lab_size": 0
+    },
+    "Department of Biochemistry, Case Western Reserve University, Cleveland, Ohio, USA": {
+      "lab_size": 0
+    },
+    "Department of Biochemistry, La Trobe University, Victoria, Australia": {
+      "lab_size": 10
+    },
+    "Department of Biologic and Materials Sciences, University of Michigan School of Dentistry": {
+      "lab_size": 0
+    },
+    "Department of Biomedical Sciences, Defense Science and Technology Laboratory, Porton Down, Salisbury, SP4 0JQ, United Kingdom": {
+      "lab_size": 0
+    },
+    "Department of Bioscience and Biotechnology": {
+      "lab_size": 0
+    },
+    "Department of Chemistry": {
+      "lab_size": 0
+    },
+    "Department of Chemistry and Institute for Biophysical Dynamics, The University of Chicago, Chicago, Illinois, USA": {
+      "lab_size": 0
+    },
+    "Department of Diagnostic and Biological Sciences, School of Dentistry, University of Minnesota, Minneapolis, Minnesota, USA": {
+      "lab_size": 0
+    },
+    "Department of Global Health, University of South Florida, Tampa, Florida, USA": {
+      "lab_size": 0
+    },
+    "Department of Infectious Diseases": {
+      "lab_size": 0
+    },
+    "Department of Microbiology and Immunology, University of Michigan School of Medicine, Ann Arbor, Michigan": {
+      "lab_size": 0
+    },
+    "Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA": {
+      "lab_size": 0
+    },
+    "Department of Microbiology, Oregon State University, Corvallis, Oregon 97331": {
+      "lab_size": 0
+    },
+    "Department of Microbiology, The University of Hong Kong": {
+      "lab_size": 0
+    },
+    "Department of Pathobiology, University of Guelph, Ontario Veterinary College, Guelph, Ontario, Canada N1G 2W1": {
+      "lab_size": 0
+    },
+    "Department of Pathology, The Saban Research Institute, Children's Hospital Los Angeles": {
+      "lab_size": 0
+    },
+    "Department of Surgery": {
+      "lab_size": 0
+    },
+    "Department of Tropical Medicine, Tulane University, School of Public Health and Tropical Medicine, New Orleans, Louisiana, USA": {
+      "lab_size": 0
+    },
+    "Department of Veterinary and Biomedical Sciences, University of Nebraska—Lincoln, Lincoln, Nebraska 68583-0907": {
+      "lab_size": 0
+    },
+    "Departments of Pediatrics": {
+      "lab_size": 0
+    },
+    "Division of High-risk Pathogen Research, Center for Infectious Diseases, National Institute of Health, 194 Tongil-Lo, Eunpyung-gu, Seoul 122-701, Korea": {
+      "lab_size": 0
+    },
+    "Division of Respiratory Medicine, Department of Medicine, United Christian Hospital": {
+      "lab_size": 0
+    },
+    "Evans BioMedical Research Center, Section of Infectious Diseases, Department of Medicine, Boston University School of Medicine, Boston, Massachusetts 02118": {
+      "lab_size": 0
+    },
+    "Graduate University of the Chinese Academy of Sciences, Beijing, China": {
+      "lab_size": 14
+    },
+    "HKU-Pasteur Research Centre, Hong Kong": {
+      "lab_size": 0
+    },
+    "Institute of Dental Research, Westmead Millennium Institute and Centre for Oral Health, Westmead Hospital, Sydney, New South Wales, Australia": {
+      "lab_size": 0
+    },
+    "Keck School of Medicine, University of Southern California, Los Angeles, California 90027": {
+      "lab_size": 0
+    },
+    "Key Lab of Animal Bacteriology, Ministry of Agriculture, Nanjing, China": {
+      "lab_size": 0
+    },
+    "Key Laboratory of Bio-Resources and Eco-Environment (Ministry of Education), College of Life Science, Sichuan University, Chengdu, Sichuan, People's Republic of China": {
+      "lab_size": 0
+    },
+    "Key Laboratory of Experimental Marine Biology, Institute of Oceanology, Chinese Academy of Sciences, Qingdao, China": {
+      "lab_size": 190
+    },
+    "Laboratoire Universitaire d'Antibiologie, Faculté de Médecine, Avenue Kennedy, 30900 Nîmes, France": {
+      "lab_size": 0
+    },
+    "Laboratoire de Bactériologie, CHU Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier cedex 5, France": {
+      "lab_size": 0
+    },
+    "Laboratoire de Bactériologie, Virologie, Parasitologie, CHU de Nîmes, Groupe Hospitalo-Universitaire de Carémeau, Place du Professeur Robert Debré, 30029 Nîmes Cedex 9, France": {
+      "lab_size": 0
+    },
+    "Lanzhou Branch, National Science Library, Chinese Academy of Sciences, Lanzhou, Gansu, China": {
+      "lab_size": 0
+    },
+    "Microbiology and Immunology, Dalhousie University, Halifax, Nova Scotia B3J 3G9, Canada": {
+      "lab_size": 0
+    },
+    "Mikrobiologisches Institut, Universitätsklinikum Erlangen, Erlangen, Germany": {
+      "lab_size": 12
+    },
+    "Mucosal and Vaccine Research Center, Minneapolis VA Medical Center, Minneapolis, Minnesota, USA": {
+      "lab_size": 0
+    },
+    "NSU Dental, Nova Southeastern University, Ft. Lauderdale, Florida": {
+      "lab_size": 0
+    },
+    "Paul G. Allen School for Global Animal Health, Washington State University, Pullman, Washington, USA": {
+      "lab_size": 0
+    },
+    "Program in Vector-Borne Diseases, Department of Veterinary Microbiology and Pathology, Washington State University, Pullman, Washington, USA": {
+      "lab_size": 0
+    },
+    "Protein Research Center for Bio-industry, Hankuk University of Foreign Studies, Yongin 449-791, Korea": {
+      "lab_size": 0
+    },
+    "School of Medical Sciences, University of Aberdeen, Institute of Medical Sciences, Foresterhill, Aberdeen, United Kingdom": {
+      "lab_size": 8
+    },
+    "Service de Médecine Interne B, CHU de Nîmes, Groupe Hospitalo-Universitaire de Carémeau, Place du Professeur Robert Debré, 30029 Nîmes Cedex 9, France": {
+      "lab_size": 0
+    },
+    "Sol Sherry Thrombosis Research Center, School of Medicine, Temple University, Philadelphia, Pennsylvania 19140": {
+      "lab_size": 0
+    },
+    "Texas Children's Cancer Center, Center for Cell & Gene Therapy, Baylor College of Medicine, Houston, Texas, USA": {
+      "lab_size": 0
+    },
+    "Unite des Toxines Microbiennes, Institut Pasteur, 75724 Paris, Cedex 15, France": {
+      "lab_size": 0
+    },
+    "Veterans Affairs Research Service, Louis B. Stokes VA Medical Center, Cleveland, Ohio, USA": {
+      "lab_size": 0
+    }
+  }
