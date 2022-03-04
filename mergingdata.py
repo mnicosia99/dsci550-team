@@ -8,31 +8,37 @@ Original file is located at
 
 Bik to CSV
 """
-
+# Load in libraries
 import pandas as pd
 import requests
 import json
 
+# Read in Bik dataset
 csvTable = pd.read_table('Bik_dataset-papers_with_endpoint_reached.tsv', sep = '\t', encoding = "ISO-8859-1")
-#pd.DataFrame(csvTable)
-
+# Select the rows with data and convert to a dataframe
 df = pd.DataFrame(csvTable[0:214])
 
 """# Lab size"""
-
+# Read in findings.json file
 findingsData = pd.read_json('findings.json')
 
+# Create empty labs list
 labs = []
+
+# Go through findings dataframe and append either the lab or a blank space
 for col in findingsData:
   try:
     labs.append(findingsData[col][1][0])
   except:
     labs.append('')
 
+# Set 'Labs' variable in our big dataframe to the filled labs list
 df['Labs'] = labs
 
+# Read in labs.json data
 labsData = pd.read_json('labs.json')
 
+# Go row by row through labsData. Join on df['Labs'] variable or leave a blank space
 index = 0
 labSizes = []
 for index in range(len(df)):
@@ -42,32 +48,39 @@ for index in range(len(df)):
   else:
     labSizes.append('')
 
+# Set 'Lab Size' variable to our created list
 df['Lab Size'] = labSizes
 
 """# Publication Rate"""
-
+# Load in authors.json data
 f = open('authors.json')
 authorsData = json.load(f)
 
+# Set nPublications to an empty list
 nPublications = []
 
+# set authors to be the 'Authors' in each row
 index = 0
 for index in range(len(df)):
   authors = df['Authors'][index]
+#split the authors on commas
   splitAuthors = authors.split(", ")
   currentPubString = ''
   for author in splitAuthors:
     try:
+        # create a string for each row containing the number of publications for corresponding authors. If none found then leave a blank
       currentPubString += str(authorsData[author]['author_info'][author]['nbr_pubs']) + ' '
     except:
       currentPubString += ' '
+  # Append the string for each row into the nPublications list
   nPublications.append(currentPubString)
-
+# Add the completed list as a 'nPublications' variable in the big dataframe
 df['nPublications'] = nPublications
 
 """# Other Journals"""
-
+# Create an empty list
 otherJournals = []
+# For each first author, find their 'published_journals' value in authorsData. Add those to the otherJournals list
 index = 0
 for index in range(len(df)):
   authors = df['Authors'][index]
@@ -80,64 +93,66 @@ for index in range(len(df)):
     except:
       currentJournalString += ' '
   otherJournals.append(currentJournalString)
-
+# Add 'Other Journals' variable to the big dataframe
 df["Other Journals"] = otherJournals
 
 """# University (first author)"""
-
+# Bring in Affiliation.json data
 f = open('Affiliation.json')
 affiliationData = json.load(f)
-
+# Create empty university list
 university = []
+# Append each university to the list
 for i in range(len(affiliationData)):
-  
   university.append(list(affiliationData[i].values())[0].strip())
-
+# Set variable 'University' to the list
 df['University'] = university
 
 """# Career Duration (first author)"""
-
+# Load in Career_Duration.json
 f = open('Career_Duration.json')
 careerData = json.load(f)
-
+# Set career lengths to an empty list
 careerLengths = []
+# Append career length data to the list
 for i in range(len(careerData)):
   careerLengths.append(list(careerData[i].values())[0])
-
+# Set 'Career Duration' variable to the careerLengths list
 df['Career Duration'] = careerLengths
 
 """# Highest Degree Obtained (pending)
 
 # Degree Area
 """
-
+# Load Degree_Area.json
 f = open('Degree_Area.json')
 degreeData = json.load(f)
-
+# Create blank list
 degreeAreas = []
+# Fill the list with the degree areas
 for i in range(len(degreeData)):
   degreeAreas.append(list(degreeData[i].values())[0])
-
+# Set 'Degree Area' variable to our list
 df["Degree Area"] = degreeAreas
 
 """# Dataset 1"""
-
+# Read in U.S. Department of Education Dataset
 with open('universityData (2).json', encoding = 'utf-8') as inputfile:
   uniData = pd.read_json(inputfile)
-
+# Rename Institution to University
 uniData = uniData.rename(columns = {'Institution':'University'})
-
+# Left join with our big dataframe on University
 df = pd.merge(df, uniData, how = "left", on =["University", "University"])
 
 """# Dataset 2"""
-
+# Read in university ranking data
 with open('universities_ranking.json', encoding = 'utf-8') as inputfile:
   rankingData = pd.read_json(inputfile)
-
+# Select our desired columns
 rankingData = rankingData[['title', 'ranking', 'students staff ratio', 'perc intl students']]
-
+# Rename title as University
 rankingData = rankingData.rename(columns = {'title':'University'})
-
+# Left join on University to our big dataframe
 df = pd.merge(df, rankingData, how = "left", on=["University", "University"])
 
 """# Dataset 3"""
