@@ -10,6 +10,8 @@ max_row =216
 affiliations = list()
 findings = list()
 
+# Organize Bik Data
+
 bik_tsv_dataset_name = "Bik_dataset-papers_with_endpoint_reached.tsv"
 bf = open(bik_tsv_dataset_name, encoding="utf-8")
 
@@ -73,6 +75,8 @@ for position, line in enumerate(bf):
         author_object = {}
         author_object[row_data[bik_dataset_column_headers['authors']]] = Duration_Of_Career
         Career_Duration.append(author_object)
+        
+#Write Data to JSON Document
 
 out_file = open("Career_Duration.json", "w")
 
