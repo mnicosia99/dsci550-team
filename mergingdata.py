@@ -10,6 +10,8 @@ Bik to CSV
 """
 
 import pandas as pd
+import requests
+import json
 
 csvTable = pd.read_table('Bik_dataset-papers_with_endpoint_reached.tsv', sep = '\t', encoding = "ISO-8859-1")
 #pd.DataFrame(csvTable)
@@ -43,8 +45,6 @@ for index in range(len(df)):
 df['Lab Size'] = labSizes
 
 """# Publication Rate"""
-
-import json
 
 f = open('authors.json')
 authorsData = json.load(f)
@@ -142,5 +142,53 @@ df = pd.merge(df, rankingData, how = "left", on=["University", "University"])
 
 """# Dataset 3"""
 
+from math import sin, cos, sqrt, atan2, radians
+key = ''#fa8ef19415fe4ffb8b9432730d61bcf8' --please minimize the use of this key
+universities = list(df["University"])
+uni_city = {}
+
+with open('citycrimestats.json') as json_file:
+    citydata = json.load(json_file)
+cities = list(citydata.keys())
+output = []
+
+for university in universities:
+    try:
+        r = requests.get("https://api.opencagedata.com/geocode/v1/json?q="+university+"&key="+key)
+        lat = r.json()['results'][0]['geometry']['lat']
+        lng = r.json()['results'][0]['geometry']['lng']
+        best = 999999
+        uni_city[university] = {'lat': lat, 'lng': lng}
+        for city in cities:
+            # approximate radius of earth in km to calculate nearst city/university
+            R = 6373.0
+            lat1 = radians(lat)
+            lon1 = radians(lng)
+            lat2 = radians(citydata[city]['city_crime_lat'])
+            lon2 = radians(citydata[city]['city_crime_lng'])
+            dlon = lon2 - lon1
+            dlat = lat2 - lat1
+            a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
+            c = 2 * atan2(sqrt(a), sqrt(1 - a))
+            distance = R * c
+            if distance < best:
+                best_city = city
+                best = distance
+        output.append({'University': university, 'near_city': best_city, 'crime_index': citydata[best_city]['crime_index'], 
+                         'safety_index': citydata[best_city]['safety_index']})
+    
+    except:
+        output.append({'University': university})
+
+citycrimestats = pd.DataFrame(output)
+
+citycrimestats = citycrimestats[['University', 'near_city', 'crime_index', 'safety_index']]
+
+df = pd.merge(df, citycrimestats, how = "left", on=["University", "University"])
+
+#backup uni_city locations to reduce API use
+with open("uni_locations.json", "w") as outfile:
+    json.dump(uni_city, outfile)
+
 # converting dataframe to tsv:
-#https://www.geeksforgeeks.org/how-to-write-pandas-dataframe-as-tsv-using-python/
+df.to_csv('merged_data.tsv', sep="\t")
