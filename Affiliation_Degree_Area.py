@@ -11,6 +11,8 @@ max_row =216
 affiliations = list()
 findings = list()
 
+#Organize Bik Dataset Data 
+
 bik_tsv_dataset_name = "Bik_dataset-papers_with_endpoint_reached.tsv"
 bf = open(bik_tsv_dataset_name, encoding="utf-8")
 
@@ -34,6 +36,7 @@ bik_dataset_column_headers['no_action'] = 15
 
 
 # for each row in the dataset, extract useful data and query url for additional data
+
 Affiliation = []
 Degree_Area = []
 
@@ -48,6 +51,7 @@ for position, line in enumerate(bf):
         citation = row_data[bik_dataset_column_headers['citation']].strip()
 
         #Find paper in PubMed
+        
         doi = row_data[bik_dataset_column_headers['doi']].strip().replace('�','-')
         if doi == '10.1016/S0169-5002(01)00212-4':
             url = 'https://pubmed.ncbi.nlm.nih.gov/11557119/'
@@ -64,7 +68,9 @@ for position, line in enumerate(bf):
             xpath_filter = './/a[@class="affiliation-link"]/@title'
             root = fromstring(page.text)
             nodes = root.xpath(xpath_filter)
-
+            
+        #Find Affiliation and Degree Area and split them up 
+        
             if nodes != []:
                 words = nodes[0].split(',')
                 for word in words:
@@ -199,13 +205,16 @@ for position, line in enumerate(bf):
                 elif url == 'https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/bcr3692':
                     school = 'University of Saskatchewan'
                     dep = 'Department of Microbiology and Immunology'
-
+        # Write data to dictionary then list 
+        
         school_dict = {}
         school_dict[row_data[bik_dataset_column_headers['authors']]] = school
         dep_dict = {}
         dep_dict[row_data[bik_dataset_column_headers['authors']]] = dep
         Affiliation.append(school_dict)
         Degree_Area.append(dep_dict)
+        
+#Write data into json files
 
 out_file = open("Affiliation.json", "w")
 json.dump(Affiliation, out_file, indent = 4)
