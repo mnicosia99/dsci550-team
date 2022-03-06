@@ -34,3 +34,9 @@ When you go to this folder using web server for chrome, and click on the html we
 #edit_distance_cluster2
 clusters.json and html webpage in here.
 When you go to this folder using web server for chrome, and click on the html webpage, visualization will open up
+
+#this converts U.S. Department of Education data to JSON
+python institutions.py --inputCSV MERGED2019_20_PP.csv --outJSON universityData.json
+
+#this combines all data outputs to a signle tsv
+python mergingdata.py --input Bik_dataset-papers_with_endpoint_reached.tsv, findings.json, labs.json, authors.json, Affiliation.json, Career_Duration.json, Degree_Area.json, degrees.json, universityData (2).json, universities_ranking.json, citycrimestats.json, "uni_locations.json --output merged_data.tsv
