@@ -45,6 +45,7 @@
 <h1 id="data-collection">Data Collection</h1>
 <h2 id="scrape_datapy">scrape_data.py</h2>
 <p>scrape_data.py is a script that will extract various data related to the Bik et, al dataset.</p>
+<p>Requirements:  lxml, alive_progress, requests_html, bs4, asyncio and pyppeteer.</p>
 <h3 id="running-scrape_datapy">Running scrape_data.py</h3>
 <p>To run scrape_data.py it must be run in a single mode (collects features for a specific subject such as author data or lab data).  See subsections below for details.</p>
 <h4 id="collecting-author-data">Collecting author data</h4>
@@ -91,9 +92,33 @@
 <p>Example:<br/></p>
 <pre><code>python3 scrape_data.py --bik_dataset --bik_dataset_start 10 -bik_dataset_end 20
 </code></pre>
+<h4 id="collect-1st-author-degree-data-from-research-gate-profiles">Collect 1st Author Degree Data from Research Gate profiles</h4>
+<p>Uses selenium to get data from searching by the research paper titles</p>
+<p>Requirements:  selenium, json, requests, chromedriver.exe (the version must match your browser, included file is 99.0.4844.51)</p>
+<p>Example:<br/></p>
+<pre><code>python degrees.py --input Bik_dataset-papers_with_endpoint_reached.tsv --out degrees.json
+</code></pre>
+<h4 id="collecting-career-duration-data">Collecting career duration data</h4>
+<p>Gathers career durations for each first author in each paper from Pubmed</p>
+<p>Requirements: requests, json, lxml</p>
+<p>Example:<br/></p>
+<pre><code>python3 Duration.py
+</code></pre>
+<h4 id="collecting-affiliation-and-degree-area-data">Collecting affiliation and degree area data</h4>
+<p>Gathers affiliation and degree area for each first author in each paper from Pubmed</p>
+<p>Requirements: requests, json, lxml</p>
+<p>Example: <br/></p>
+<pre><code>python3 Affiliation_Degree_Area.py
+</code></pre>
 <h4 id="collecting-us-department-of-education-data-data">Collecting U.S. Department of Education data data</h4>
 <p>Example:<br/></p>
 <pre><code>python institutions.py --inputCSV MERGED2019_20_PP.csv --outJSON universityData.json
+</code></pre>
+<h4 id="collecting-local-city-crime-and-safety-data">Collecting local city crime and safety data</h4>
+<p>This gathers statistics from Numbeo and saves them by city and geolocation for joining in <a href="http://mergingdata.py">mergingdata.py</a> based on the university locations</p>
+<p>Requirements:  json, requests, re, bs4</p>
+<p>Example:<br/></p>
+<pre><code>python citycrimestats.py --out citycrimestats.json
 </code></pre>
 <h4 id="combine-collected-data-witrh-bik-et-al-dataset">Combine Collected Data witrh Bik et, al dataset</h4>
 <p>This combines all data json outputs to a single tsv.</p>
