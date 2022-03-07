@@ -69,7 +69,7 @@ Example:<br/>
 #### Collecting career duration data 
 Gathers career durations for each first author in each paper from Pubmed 
 
-Requirements: requests, json, lxml, bs4
+Requirements: requests, json, lxml
 
 Example:<br/>
 
@@ -78,7 +78,7 @@ Example:<br/>
 #### Collecting affiliation and degree area data
 Gathers affiliation and degree area for each first author in each paper from Pubmed
 
-Requirements: requests, json, lxml, bs4
+Requirements: requests, json, lxml
 
 Example: <br/>
 
