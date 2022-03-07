@@ -4,6 +4,8 @@
 ## scrape_data.py
 scrape_data.py is a script that will extract various data related to the Bik et, al dataset.
 
+Requirements:  lxml, alive_progress, requests_html, bs4, asyncio and pyppeteer.
+
 ### Running scrape_data.py
 To run scrape_data.py it must be run in a single mode (collects features for a specific subject such as author data or lab data).  See subsections below for details.
 
