@@ -66,6 +66,24 @@ Example:<br/>
 
     python degrees.py --input Bik_dataset-papers_with_endpoint_reached.tsv --out degrees.json
 
+#### Collecting career duration data 
+Gathers career durations for each first author in each paper from Pubmed 
+
+Requirements: requests, json, lxml, bs4
+
+Example:<br/>
+
+    python3 Duration.py
+    
+#### Collecting affiliation and degree area data
+Gathers affiliation and degree area for each first author in each paper from Pubmed
+
+Requirements: requests, json, lxml, bs4
+
+Example: <br/>
+
+    python3 Affiliation_Degree_Area.py
+    
 #### Collecting U.S. Department of Education data data
 
 Example:<br/>
