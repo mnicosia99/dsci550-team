@@ -57,11 +57,29 @@ Example:<br/>
 
     python3 scrape_data.py --bik_dataset --bik_dataset_start 10 -bik_dataset_end 20
 
+#### Collect 1st Author Degree Data from Research Gate profiles
+Uses selenium to get data from searching by the research paper titles
+
+Requirements:  selenium, json, requests, chromedriver.exe
+
+Example:<br/>
+
+    python degrees.py --input Bik_dataset-papers_with_endpoint_reached.tsv --out degrees.json
+
 #### Collecting U.S. Department of Education data data
 
 Example:<br/>
 
     python institutions.py --inputCSV MERGED2019_20_PP.csv --outJSON universityData.json
+
+#### Collecting local city crime and safety data
+This gathers statistics from Numbeo and saves them by city and geolocation for joining in mergingdata.py based on the university locations
+
+Requirements:  json, requests, re, bs4
+
+Example:<br/>
+
+    python citycrimestats.py --out citycrimestats.json
 
 #### Combine Collected Data witrh Bik et, al dataset
 This combines all data json outputs to a single tsv.
