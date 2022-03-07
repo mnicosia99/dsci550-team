@@ -60,7 +60,7 @@ Example:<br/>
 #### Collect 1st Author Degree Data from Research Gate profiles
 Uses selenium to get data from searching by the research paper titles
 
-Requirements:  selenium, json, requests, chromedriver.exe
+Requirements:  selenium, json, requests, chromedriver.exe (the version must match your browser, included file is 99.0.4844.51)
 
 Example:<br/>
 
