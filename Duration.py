@@ -82,4 +82,4 @@ out_file = open("Career_Duration.json", "w")
 
 json.dump(Career_Duration, out_file, indent = 4)
 
-out_file.close()x
+out_file.close()
