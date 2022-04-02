@@ -1,0 +1,47 @@
+{
+    "majors": [
+        {
+            "department": "Biology",
+            "name": "Biology"
+        },
+        {
+            "department": "Chemistry",
+            "name": "Biochemistry"
+        },
+        {
+            "department": "Chemistry",
+            "name": "Chemistry"
+        },
+        {
+            "department": "Cognitive Science",
+            "name": "Cognitive Science"
+        },
+        {
+            "department": "Computer Science",
+            "name": "Computer Science"
+        },
+        {
+            "department": "Environmental Studies",
+            "name": "Environmental Studies"
+        },
+        {
+            "department": "Exercise and Sport Science",
+            "name": "Exercise and Sport Science"
+        },
+        {
+            "department": "Economics",
+            "name": "International Economics and Finance"
+        },
+        {
+            "department": "Global Science, Technology, and Society",
+            "name": "Global Science, Technology, and Society"
+        },
+        {
+            "department": "Mathematics",
+            "name": "Mathematics"
+        },
+        {
+            "department": "Physics",
+            "name": "Physics"
+        }    ]
+}
