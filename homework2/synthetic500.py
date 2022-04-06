@@ -27,4 +27,7 @@ random500 = pd.DataFrame(list(zip(listoflists[1], listoflists[2], listoflists[3]
                       listoflists[27], listoflists[28], listoflists[29], listoflists[30], listoflists[31], listoflists[32], 
                       listoflists[33], listoflists[34])), columns = df.columns[1:35])
 
-random500.to_csv('random500data.csv')
+realAndFakePapers = pd.concat([random500,df])
+new = realAndFakePapers.drop(['Unnamed: 0'], axis=1)
+
+new.to_csv('realAndFakePapers.csv')
