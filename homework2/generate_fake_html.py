@@ -9,12 +9,12 @@ import time
 from datetime import datetime, timedelta
 import requests
 import base64
-from working.fakedata import create_authors, get_random_school, get_random_department, get_date
+from utilities.fakedata import create_authors, get_random_school, get_random_department, get_date
 from ttp import ttp
 
 sys.path.append('../')
-from lm.modeling import GroverConfig, sample
-from sample.encoder import get_encoder, _tokenize_article_pieces, extract_generated_target
+from grover.lm.modeling import GroverConfig, sample
+from grover.sample.encoder import get_encoder, _tokenize_article_pieces, extract_generated_target
 import random
 
 def generate_html_from_article_text(article_title, article_text, author_list, publish_date, university, department, image_url=None, caption = ""):    
@@ -138,14 +138,14 @@ def create_fake(article, sess, encoder, tokens, probs, count):
 
     print(f" - Generated fake article titled '{article_title}'")
     article_title = article_title.replace(" ", "-")
-    filename = "/content/gdrive/My Drive/Articles/generated_fake-" + str(count) + ".html"
+    filename = "articles-generated/html/generated_fake-" + str(count) + ".html"
     with open(filename, 'w' ) as f:
         f.write(article_text)
     count += 1
     
 model_type = "mega"
 
-model_dir = os.path.join('/content/gdrive/MyDrive/grover-fork2/grover/models', model_type)
+model_dir = os.path.join('grover/models', model_type)
 if not os.path.exists(model_dir):
     os.makedirs(model_dir)
 
@@ -162,8 +162,8 @@ for ext in ['data-00000-of-00001', 'index', 'meta']:
     
 articles = list()
 
-for filename in os.listdir("/content/gdrive/MyDrive/grover-fork2/grover/working/inputs/json"):
-    fn = os.path.join("/content/gdrive/MyDrive/grover-fork2/grover/working/inputs/json/", filename)
+for filename in os.listdir("articles-input/json"):
+    fn = os.path.join("articles-input/json/", filename)
     # checking if it is a file
     if os.path.isfile(fn) and ".jsonl" not in fn:
         try:
@@ -176,8 +176,8 @@ for filename in os.listdir("/content/gdrive/MyDrive/grover-fork2/grover/working/
             f.close()
 
 # Load the pre-trained "huge" Grover model with 1.5 billion params
-model_config_fn = '/content/gdrive/MyDrive/grover-fork2/grover/lm/configs/mega.json'
-model_ckpt = '/content/gdrive/MyDrive/grover-fork2/grover/models/mega/model.ckpt'
+model_config_fn = 'grover/lm/configs/mega.json'
+model_ckpt = 'grover/models/mega/model.ckpt'
 encoder = get_encoder()
 news_config = GroverConfig.from_json_file(model_config_fn)
 
