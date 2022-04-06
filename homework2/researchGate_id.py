@@ -1,2 +1,2 @@
-user = 'jeffgadd@usc.edu'
-password = 'h*v9bbpkyzZ,=d'
+user = '[insert]'
+password = '[insert]'
