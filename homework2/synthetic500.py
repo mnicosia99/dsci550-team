@@ -11,14 +11,17 @@ import pandas as pd
 import numpy as np
 from pandas.core.common import random_state
 
+# Load in the Bik tsv from Homework 1
 df = pd.read_csv("merged_data.tsv", sep="\t", header=0)
 
+# Randomly select from the dataframe's columns
 np.random.seed(509)
 listoflists = []
 for col in df.columns:
   lst = np.random.choice(df[col],500)
   listoflists.append(list(lst))
 
+# Zip the column lists together into a dataframe of auto-generated paper data
 random500 = pd.DataFrame(list(zip(listoflists[1], listoflists[2], listoflists[3], listoflists[4], 
                       listoflists[5], listoflists[6], listoflists[7], listoflists[8], listoflists[9], 
                       listoflists[10], listoflists[11], listoflists[12], listoflists[13], listoflists[14], 
@@ -27,6 +30,7 @@ random500 = pd.DataFrame(list(zip(listoflists[1], listoflists[2], listoflists[3]
                       listoflists[27], listoflists[28], listoflists[29], listoflists[30], listoflists[31], listoflists[32], 
                       listoflists[33], listoflists[34])), columns = df.columns[1:35])
 
+# Concatinate the first dataframe to the auto-generated dataframe
 realAndFakePapers = pd.concat([random500,df])
 new = realAndFakePapers.drop(['Unnamed: 0'], axis=1)
 
