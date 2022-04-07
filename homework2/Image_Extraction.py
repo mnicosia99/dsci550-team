@@ -17,12 +17,12 @@ for file in os.listdir('Extracted_Text'):
             if meta["title"][:10] in content['text']:
                 new[meta["title"]] = file.replace('.json', '.pdf')
 
-out_file = open("filemap", "w")
+out_file = open("filemap.json", "w")
 json.dump(new, out_file, indent=4)
 out_file.close()
 
 #Access paper in filemap to name new directory
-filemap = open('filemap')
+filemap = open('filemap.json')
 m = json.load(filemap)
 
 #Loop through papers
