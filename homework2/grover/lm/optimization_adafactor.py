@@ -181,7 +181,7 @@ class AdaFactorOptimizer(tf.compat.v1.train.Optimizer):
                 assignments.append(vr.assign(next_vr, use_locking=self.use_locking))
                 assignments.append(vc.assign(next_vc, use_locking=self.use_locking))
             else:
-                v = tf.get_variable(
+                v = tf.compat.v1.get_variable(
                     name=param_name + "/adafactor_v",
                     shape=shape_list,
                     dtype=tf.float32,
@@ -190,7 +190,7 @@ class AdaFactorOptimizer(tf.compat.v1.train.Optimizer):
                 next_v = decay_rate * v + (1 - decay_rate) * grad_squared
 
                 assignments.append(v.assign(next_v, use_locking=self.use_locking))
-                update = grad * tf.rsqrt(next_v + self.epsilon1)
+                update = grad * tf.math.rsqrt(next_v + self.epsilon1)
 
             clipping_denom = tf.maximum(1.0, reduce_rms(update) / self.clipping_rate)
             update /= clipping_denom
