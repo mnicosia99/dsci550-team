@@ -12,6 +12,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import StaleElementReferenceException
 
+import undetected_chromedriver as uc
+
 #get bik title and doi for search and joins
 bik_dataset_column_headers = dict()
 bik_dataset_column_headers['title'] = 1
