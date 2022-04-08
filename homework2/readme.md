@@ -16,9 +16,55 @@ Folders:
             3) creation of pdfs
             4) creasting fake names, universitirs, etc.
 
-Files:
+#### Generate Fake Paper (as HTML)
     generate_fake_html.py
-        script to run grover to create fake papers as html from the Bik articles as json
+
+    Description - This script reads the information extracted from the Bik papers and generates fake text and fake titles.  The output is a formatted html file with generated text, image and captions.  The falsified text and titles were generated using Grover and some of the code was adapted from an example on creating a fake news website (https://medium.com/swlh/how-to-create-a-fake-news-site-with-machine-learning-and-gatsby-js-e68da94256d6).  
+    
+    Inputs - The script reads the extracted Bik information stored as json files in the articles-input/json folder.  Each file is expected to contain the data about a single paper and there can be any number of json files in the directory.  The script also uses the generated images stored in a Google Drive and the generated cations from the articles-input/image-captions.json file.
+    
+    Outputs - The script will generate html files for each generated paper and store the files in the articles-generated/html folder.
+    
+    Exection - This script was run using a Google Colab GPU runtime.
+    Google Colab Code:
+    <code><i>
+        from google.colab import drive
+        drive.mount('/content/gdrive', force_remount=True)
+        %cd /content/gdrive/MyDrive/dsci550
+        !git clone https://github.com/mnicosia99/grover.git /content/gdrive/MyDrive/dsci550/grover
+        %cd grover
+        !python3 -m pip install regex jsonlines pdfkit faker
+        %tensorflow_version 1.x
+        !python3 /content/gdrive/MyDrive/dsci550/grover/generate_fake_html.py
+    </i></code>
+
+    Requirements: tensorflow
+
+#### Generate Fake Paper PDF
+    utilities/create_pdf.py
+
+    Description - This script reads the html files generated and creates pdf for each.  
+    
+    Inputs - The script reads the generated html files in articles-generated/html.       Each file is expected to contain a single generated paper in html format.
+    
+    Outputs - The script will generate pdf files for each generated paper and store the files in the articles-generated/pdfs folder.
+    
+    Execution - This script can be run from command line with no arguments after installing the pdfkit module.
+
+    Requirements: pdfkit
+
+#### Generate Fake Paper Metadata
+    utilities/fakedata.py
+
+    Description - This script creates fake names and dates and random universities and departments for use in creating the fake papers.
+
+    Inputs - The script reads the universities.json and majors.json to randomly create a university and department.
+
+    Outputs - The functions return data requested.  Nothing is written to disk/file.
+
+    Execution - This script can be run from command line with no arguments after installing the faker module.
+
+    Requirements: faker
 
 #### Downloading the PDFs for all the Research Papers
 This code was used to successfully download all of the PDF for the papers. It will save them in your default folder for downloads and it will output file_locations.json to list the file name for each DOI and missed_doi.json to list any documents that were not found successfully after the many attempts made by the program. It also uses Undetectable Chromedriver to evade cloud flare bot detection and this will require a current chrome driver to be used.
