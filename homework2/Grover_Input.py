@@ -2,7 +2,6 @@
 import os
 import json
 import requests
-import json
 from lxml import etree
 from lxml.html.soupparser import fromstring
 
