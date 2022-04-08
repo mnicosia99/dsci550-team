@@ -66,6 +66,24 @@ Folders:
 
     Requirements: faker
 
+#### Utility Scripts
+    utilities/<script_name>.py
+
+    There were various other utility scripts created that do things such as upload/download from Google Drive and create jsonl format for falsification testing.
+
+#### Create jsonl File
+    utilities/create_jsonl.py
+
+    Description - This script creates a jsonl file from all the json files.  
+    
+    Inputs - The script reads all the json files in a given directory.
+
+    Outputs - The script will create a single jsonl file.
+
+    Execution - This script can be run from command line with no arguments after installing the faker module.
+
+    Requirements: None
+
 #### Downloading the PDFs for all the Research Papers
 This code was used to successfully download all of the PDF for the papers. It will save them in your default folder for downloads and it will output file_locations.json to list the file name for each DOI and missed_doi.json to list any documents that were not found successfully after the many attempts made by the program. It also uses Undetectable Chromedriver to evade cloud flare bot detection and this will require a current chrome driver to be used.
 
