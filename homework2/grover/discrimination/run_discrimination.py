@@ -24,10 +24,10 @@ import tensorflow as tf
 # import tensorflow.compat.v1 as tf
 from tensorflow.python.lib.io import file_io
 
-from grover.mod.lm.dataloader import classification_convert_examples_to_features, classification_input_fn_builder
-from grover.mod.lm.modeling import classification_model_fn_builder, GroverConfig
-from grover.mod.lm.utils import _save_np
-from grover.mod.sample.encoder import get_encoder
+from grover.lm.dataloader import classification_convert_examples_to_features, classification_input_fn_builder
+from grover.lm.modeling import classification_model_fn_builder, GroverConfig
+from grover.lm.utils import _save_np
+from grover.sample.encoder import get_encoder
 
 flags = tf.compat.v1.flags
 
