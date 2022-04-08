@@ -4,13 +4,24 @@ import requests
 import tensorflow as tf
 import numpy as np
 import sys
-import feedparser
-import time
-from datetime import datetime, timedelta
 import requests
-import base64
 from utilities.fakedata import create_authors, get_random_school, get_random_department, get_date
 from ttp import ttp
+
+"""
+    This script will use grover to generate 2-3 fake articles for each Bik article.
+    The total number of articles generated will be 500.
+    From the generated articles it will create html containing:
+        - fake titles
+        - fake text
+        - fake images   
+        - fake captions
+        
+    The grover used is an adaptation from https://github.com/rowanz/grover
+    - the adaptation was due to some differences fopund when running based on tensorflow 1.X and 2.X
+
+    Dependencies: ttp, tensorflow, numpy
+"""
 
 sys.path.append('../')
 from grover.lm.modeling import GroverConfig, sample

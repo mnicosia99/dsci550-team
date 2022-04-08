@@ -1,5 +1,11 @@
 import json, os
 
+"""
+    This script will create a jsonl file from all jksopn files contained in a given directory.
+    
+    Alternatively, it can be used to augment json to add attribiutes needed for running 
+    falsification tests.    
+"""
 SCRIPT_PATH = os.path.realpath(__file__).replace("/create_jsonl.py", "")
 
 input_path = SCRIPT_PATH + os.sep + "inputs"
@@ -19,6 +25,7 @@ generated_jsonl_file_name = "generated_fake-all.jsonl"
 #     jsonl.write(json.dumps(data).replace("\n", " ")  + "\n")
 # jsonl.close()
 
+#  this block checks for dupliactes before addding to the jsonl file
 lines = list()
 jsonl_dupes = open(input_path + os.sep + input_jsonl_dupes_file_name, "r")
 for line in jsonl_dupes:

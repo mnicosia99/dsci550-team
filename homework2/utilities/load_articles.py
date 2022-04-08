@@ -1,6 +1,12 @@
 import os, zipfile
 from gdrive_utils import get_gdrive_service, download_files_from_gdrive
 
+"""
+    This script will download a zip file from a Google drive and unzip the files locally.
+    
+    Dependencies: zipfile
+
+"""
 SCRIPT_PATH = os.path.realpath(__file__).replace("/load_articles.py", "")
 
 #  shared Articles folder id: 1pNqtXT2mVBnHm1t9gUuD9tFoY4k3Eb2r

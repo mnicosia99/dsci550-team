@@ -1,8 +1,11 @@
-import json, os, pdfkit
+import json, os
 from gdrive_utils import download_files_from_gdrive, write_to_gdrive, get_gdrive_service
 
 SCRIPT_PATH = os.path.realpath(__file__).replace("/create_json.py", "")
-    
+"""
+    This script will read a generated html file to create a json file containing the 
+    details of a generated paper.
+"""    
 def create_json(source_extension, input_dir, output_dir):
     # all_papers = list()
     for filename in os.listdir(input_dir):
@@ -39,14 +42,5 @@ def create_json(source_extension, input_dir, output_dir):
             jsonFile.write(jsonString)
             jsonFile.close()
 
-
-# parent = "1_9eRWu2AYMNx8WAUCCkBIbIKPa0KW0pe"
 extension = "html"
-# source_parent = "1zMiu93_g16guGlj1BEhyVVOyPCEhQx2_"
-# service, drive = get_gdrive_service()
-
-# download_files_from_gdrive(service, drive, parent, extension, SCRIPT_PATH + os.sep + extension + os.sep)
 create_json(extension, SCRIPT_PATH + os.sep + extension + os.sep, SCRIPT_PATH + os.sep + "generated" + os.sep)
-# write_to_gdrive(drive, source_parent, SCRIPT_PATH + os.sep + "generated" + os.sep + "pdfs" + os.sep)
-
-# add_captions()

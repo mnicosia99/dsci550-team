@@ -16,7 +16,14 @@ from pydrive2.drive import GoogleDrive
 from pydrive2.auth import GoogleAuth
 
 SCRIPT_PATH = os.path.realpath(__file__).replace("/gdrive_utils.py", "")
+"""
+    This script provides variopus utilities to download and upload files from Google Drive.
+    
+    To use this script you will need to privide your pown credentials files 
+    which are not incl;uded in this repository.
 
+    Dependencies: google, google_drive_downloader, pydrive2, googleapiclient
+"""
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly',
           'https://www.googleapis.com/auth/drive.file']

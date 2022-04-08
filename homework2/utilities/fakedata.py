@@ -6,7 +6,13 @@ from datetime import timedelta
 from datetime import datetime
 
 SCRIPT_PATH = os.path.realpath(__file__).replace("/fakedata.py", "")
+"""
+    This script provides various methods to fake data including names and dates
+    and also provides methods to retiurn random university names and majors from an existing list.
+    
+    Dependencies: faker
 
+"""
 def get_number_authors():
     return random.randint(1, 5)
 
