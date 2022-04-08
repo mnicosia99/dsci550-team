@@ -66,3 +66,10 @@ Example: <br/>
     
 #### DCGAN generated images
 Celebrity dataset was used as input into DCGAN to generate images for our falsified pdfs. These images can be found in the following Google Drive in the folder called DCGAN_Images: https://drive.google.com/drive/u/2/folders/15vVU--6hbwyU-oTz_b-I2k9JJbhjaMJQ
+
+#### Combining the original Bik papers with the falsified data
+This code loads in the tsv from assignment 1 and appends 500 randomly generated paper data for Grover to guess on.
+
+Example: <br/>
+    
+    python3 synthetic500.py
