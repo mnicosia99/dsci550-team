@@ -43,7 +43,7 @@ Example: <br/>
     python3 Text_Extraction.py
     
 #### Creating input JSON files for Grover Input
-This code combines data from the Bik dataset, scraped data from Pubmed, and the extracted text output from Text_Extraction.py to create input JSON files for Grover input that contain metadata for each paper. 
+This code combines data from the Bik dataset, scraped data from Pubmed, and the extracted text output from Text_Extraction.py to create input JSON files for Grover that contain text and metadata for each paper. 
 
 Requirements: os, json, requests, lxml, bs4
 
