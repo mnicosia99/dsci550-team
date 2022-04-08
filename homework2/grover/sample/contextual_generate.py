@@ -4,8 +4,8 @@ import sys
 import json
 
 sys.path.append('../')
-from lm.modeling import GroverModel, GroverConfig, _top_p_sample, sample
-from sample.encoder import get_encoder, format_context, _tokenize_article_pieces, extract_generated_target
+from grover.lm.modeling import GroverModel, GroverConfig, _top_p_sample, sample
+from grover.sample.encoder import get_encoder, format_context, _tokenize_article_pieces, extract_generated_target
 from tqdm import tqdm
 
 import argparse
