@@ -911,7 +911,7 @@ def classification_model_fn_builder(config: GroverConfig, init_checkpoint, learn
                                                          prefix='training/'),
                     scaffold_fn=scaffold_fn)
             else:
-                output_spec = tf.compat.v1.tpu.TPUEstimatorSpec(
+                output_spec = tf.compat.v1.estimator.tpu.TPUEstimatorSpec(
                     mode=mode,
                     loss=total_loss,
                     train_op=train_op,
