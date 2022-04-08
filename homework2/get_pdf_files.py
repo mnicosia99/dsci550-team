@@ -4,6 +4,7 @@ import os
 import glob
 import time
 import researchGate_id
+#You must add your own login in researchGate_id.py
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -11,6 +12,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import StaleElementReferenceException
+
+import undetected_chromedriver as uc
 
 #get bik title and doi for search and joins
 bik_dataset_column_headers = dict()
