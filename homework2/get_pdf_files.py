@@ -4,6 +4,7 @@ import os
 import glob
 import time
 import researchGate_id
+#You must add your own login in researchGate_id.py
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
