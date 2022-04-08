@@ -20,6 +20,15 @@ Files:
     generate_fake_html.py
         script to run grover to create fake papers as html from the Bik articles as json
 
+#### Downloading the PDFs for all the Research Papers
+This code was used to successfully download all of the PDF for the papers. It will save them in your default folder for downloads and it will output file_locations.json to list the file name for each DOI and missed_doi.json to list any documents that were not found successfully after the many attempts made by the program. It also uses Undetectable Chromedriver to evade cloud flare bot detection and this will require a current chrome driver to be used.
+
+Requirements: os, requests, json, glob, time, selenium, undetected_chromedriver, chromedriver.exe, researchGate_id.py
+Additional Requirements: researchGate_id.py must be edited to add a valid user name and password (You will receive 1 email to notify you that your account was accessed but I have had no issue of the account being banned - even without undetected_chromedriver). The included chromedriver.exe is version 100.0.4896.60 and it may need to be updated if it becomes too old or does not match your version of Google Chrome.
+
+Example: <br/>
+
+    python3 get_pdf_files.py
 
 #### Extracting text from downloaded pdfs using Tika
 This code uses Tika to extract the content/text from each of the downloaded pdfs of the papers. 
