@@ -2,11 +2,9 @@ import os
 import json
 import requests
 import tensorflow as tf
-import numpy as np
 import sys
 import requests
 from utilities.fakedata import create_authors, get_random_school, get_random_department, get_date
-from ttp import ttp
 
 """
     This script will use grover to generate 2-3 fake articles for each Bik article.
@@ -20,19 +18,14 @@ from ttp import ttp
     The grover used is an adaptation from https://github.com/rowanz/grover
     - the adaptation was due to some differences fopund when running based on tensorflow 1.X and 2.X
 
-    Dependencies: ttp, tensorflow, numpy
+    Dependencies: tensorflow
 """
 
 sys.path.append('../')
 from grover.lm.modeling import GroverConfig, sample
 from grover.sample.encoder import get_encoder, _tokenize_article_pieces, extract_generated_target
-import random
 
 def generate_html_from_article_text(article_title, article_text, author_list, publish_date, university, department, image_url=None, caption = ""):    
-    # parse the article text
-    p = ttp.Parser()
-    result = p.parse(article_text)
-    article_text = result.html
     image = None
     
     #  split article on newlines
@@ -46,20 +39,13 @@ def generate_html_from_article_text(article_title, article_text, author_list, pu
     article_text = "<p>".join(new_lines)
     
     print(article_text)
-    
-    # if an image url exists, add it to the returned html
-    # <figure>
-    #    <img src="http://mnicosia.tech/images/samples_5_100.png"/>
-    #    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-    # </figure>
+
+    # add image and caption    
     if image_url is not None:
         image = "<figure><img src=\"" + image_url + "\"/><figcaption>" + caption + "</figcaption></figure>"
     
     #  create html from article text
 
-    # body { margin: 20px; text-align: center; } h1 {color: green; } img { float: left; margin: 5px; } p { text-align: justify; font-size: 25px; }
-    # <div class="square"><div> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190808143838/logsm.png" alt="Longtail boat in Thailand"></div><p></p></div>
-    
     style = " hr.solid { border-top: 3px solid #bbb;} figure { display: inline-block; border: 0px dotted gray; margin: 20px;text-align: center; } figure img { vertical-align: top; }"
     article_title = "<h1>" + article_title + "</h1>\n"
     authors = "<p>Authors: "
@@ -128,21 +114,17 @@ def create_fake(article, sess, encoder, tokens, probs, count):
     article['text'] = generate_article_attribute(sess, encoder, tokens, probs, article, target="article")
     # Generate a fake title that fits the generated paper text
     article['title'] = generate_article_attribute(sess, encoder, tokens, probs, article, target="title")
-    # Generate a fake abstract that fits the generated paper text
-    # article['summary'] = generate_article_attribute(sess, encoder, tokens, probs, article, target="title")
 
     article_title = article['title']
     article_text = article['text']
     
     # <img src="http://mnicosia.tech/images/samples_5_100.png"/>
     article_image_url = "http://mnicosia.tech/images/samples_5_" + str(count) + ".png"
-    # article_summary = article['summary']
 
     authors = create_authors()
     university = get_random_school()
     department = get_random_department()
     publish_date = get_date(365 * 2, 365 * 8)
-    # caption = TODO
     caption = "Test Caption"
     article_text = generate_html_from_article_text(
         article_title, article_text, authors, publish_date, university, department, article_image_url, caption)
