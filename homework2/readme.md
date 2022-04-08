@@ -131,6 +131,11 @@ Example: <br/>
 #### DCGAN generated images
 Celebrity dataset was used as input into DCGAN to generate images for our falsified pdfs. These images can be found in the following Google Drive in the folder called DCGAN_Images: https://drive.google.com/drive/u/2/folders/15vVU--6hbwyU-oTz_b-I2k9JJbhjaMJQ
 
+#### Caption Generation
+Caption Generation completed by downloading docker and adding images to a single public url link. https://zahin-roja.imgbb.com/
+Upon which each of the captions for 500 images were run through a link: localhost:8764/inception/v3/caption/image?url="INSERT IMAGE URL HERE"
+The captions then generated for each were added into a json file with the name of the image as key and the caption that it generated as value
+
 #### Combining the original Bik papers with the falsified data
 This code loads in the tsv from assignment 1 and appends 500 randomly generated paper data for Grover to guess on.
 
