@@ -1,0 +1,36 @@
+{
+    "gpes": [
+        {
+            "name": "Los Angeles",
+            "date": "2022-3-30"
+        },
+        {
+            "name": "Chicago",
+            "date": "2022-4-2"
+        },
+        {
+            "name": "NYC",
+            "date": "2022-3-31"
+        },
+        {
+            "name": "Paris",
+            "date": "2022-4-3"
+        },
+        {
+            "name": "Chicago",
+            "date": "2022-4-4"
+        },
+        {
+            "name": "New York City",
+            "date": "2022-4-2"
+        },
+        {
+            "name": "Russia",
+            "date": "2022-4-2"
+        },
+        {
+            "name": "Paris",
+            "date": "2022-4-3"
+        }
+    ]
+}
