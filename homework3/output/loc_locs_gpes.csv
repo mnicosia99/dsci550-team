@@ -1,0 +1,127 @@
+ID,Date,Label,Latitude,Longitude,Count,Type
+South Sudan,2022-3-03,South Sudan,7.8699431,29.6667897,1,MentionType.PRIMARY
+Sakhalin Island,2022-3-04,Сахалин, Дальневосточный федеральный округ, Россия,50.15947595,143.02644118600944,1,MentionType.PRIMARY
+North,2022-3-04,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+Golfo del Pevero,2022-3-05,Spiaggia del Grande Pevero, Golfo Pevero, Alzachèna/Arzachena, Nord-Est Sardegna, Sardigna/Sardegna, Italia,41.1124716,9.545156914408707,1,MentionType.PRIMARY
+Aegean Sea,2022-3-05,Αιγαίον Πέλαγος / Ege Denizi,38.0580504,25.721561172355706,1,MentionType.PRIMARY
+North Aegean,2022-3-05,Aegean, 30, Φιλικής Εταιρείας, Κάτω Χαλάνδρι, Δήμος Χαλανδρίου, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 15232, Ελλάς,38.0156307,23.7922225,1,MentionType.PRIMARY
+Stryzhen River,2022-3-02,Stryzhen River,None,None,1,MentionType.PRIMARY
+Hauptbahnhof,2022-3-04,München Hauptbahnhof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80335, Deutschland,48.1407138,11.556312490222421,2,MentionType.PRIMARY
+Minuteman Ill,2022-3-02,MinuteMan, 205, North Main Street, Wauconda, Lake County, Illinois, 60084, United States,42.26097555,-88.14322530552641,1,MentionType.PRIMARY
+Black Sea Fleet,2022-3-20,Black Sea Fleet,None,None,1,MentionType.PRIMARY
+North Atlantic Treaty,2022-3-20,North Atlantic Treaty,None,None,1,MentionType.PRIMARY
+North and South,2022-3-27,North and South, Coronado Court, Madison, Dane County, Wisconsin, 53705, United States,43.0612749,-89.4959479,1,MentionType.PRIMARY
+Capitol Hill,2022-3-27,Capitol Hill, Washington, District of Columbia, 20215, United States,38.8898027,-77.0094179,1,MentionType.PRIMARY
+Kamyanka,2022-3-29,Кам’янка, Чоповицька селищна громада, Коростенський район, Житомирська область, 11646, Україна,50.933617,29.096962,1,MentionType.PRIMARY
+South,2022-3-04,대한민국,36.638392,127.6961188,2,MentionType.PRIMARY
+Southern Military District,2022-3-17,Южный военный округ, Южный федеральный округ, Россия,46.21767845,43.649393284364756,1,MentionType.PRIMARY
+North-Atlantic,2022-3-19,North Atlantic, Topsail Road, Karwood Estates, Paradise, Newfoundland, Newfoundland and Labrador, A1L 1H6, Canada,47.53302265,-52.85507125647568,1,MentionType.PRIMARY
+Babyn Yar Holocaust Memorial Center,2022-3-26,Babyn Yar Holocaust Memorial Center,None,None,1,MentionType.PRIMARY
+Gulf Coast,2022-3-07,Gulf Coast, Collier County, Florida, 34110-6206, United States,26.301135,-81.797742,1,MentionType.PRIMARY
+Zhytomyr-Kyiv,2022-3-07,Київське шосе, Мар'янівка, Корольовський район, Житомир, Житомирська міська громада, Житомирський район, Житомирська область, 10001, Україна,50.2727385,28.7035041,1,MentionType.PRIMARY
+Getty Images,2022-3-07,Getty Images, 101, Bayham Street, London Borough of Camden, London, Greater London, England, NW1 0AG, United Kingdom,51.5381559,-0.1407803467608193,1,MentionType.PRIMARY
+Bay Area,2022-3-09,San Francisco Bay Area, San Francisco, California, 94110, United States,37.7884969,-122.3558473,1,MentionType.PRIMARY
+Tania,2022-3-09,Tânia, Ribeirão das Neves, Região Geográfica Imediata de Belo Horizonte, Região Metropolitana de Belo Horizonte, Região Geográfica Intermediária de Belo Horizonte, Minas Gerais, Região Sudeste, 33805-270, Brasil,-19.7713574,-44.0825108,1,MentionType.PRIMARY
+Mediterranean,2022-3-31,Mediterranean, İskele, Κύπρος - Kıbrıs,35.255701349999995,33.904011953206904,1,MentionType.PRIMARY
+East Coast,2022-3-31,Gisborne, New Zealand / Aotearoa,-38.1532287,178.1367523749267,1,MentionType.PRIMARY
+Exclusion Zone,2022-3-31,Зона відчуження Чорнобильської АЕС, Київська область, Україна,51.30769145,29.901420415763113,1,MentionType.PRIMARY
+Lafayette Park,2022-3-30,Lafayette Park, Detroit, Wayne County, Michigan, 48226-2926, United States,42.3398647,-83.0348037,1,MentionType.PRIMARY
+Eastern Operational Zone,2022-3-30,Eastern Operational Zone,None,None,1,MentionType.PRIMARY
+Sea of Okhotsk,2022-3-01,Sea of Okhotsk,55.0,150.0,1,MentionType.PRIMARY
+East Room,2022-3-29,East Room (University of Cambridge), Trinity Lane, Newnham, Cambridge, Cambridgeshire, East of England, England, CB2 1TN, United Kingdom,52.2051327,0.11691,2,MentionType.PRIMARY
+Babyn Yar Holocaust,2022-3-01,Babyn Yar Holocaust,None,None,1,MentionType.PRIMARY
+South Eastern Ukraine,2022-3-06,Ambassade van Oekraïne, 78, Zeestraat, Archipelbuurt, Centrum, Den Haag, Zuid-Holland, Nederland, 2518AD, Nederland,52.0858389,4.3017198,1,MentionType.PRIMARY
+North West,2022-3-06,North West, South Africa,-26.1347819,25.6546729,1,MentionType.PRIMARY
+Kharkiv,2022-3-24,Харків, Харківська міська громада, Харківський район, Харківська область, Україна,49.9923181,36.2310146,1,MentionType.PRIMARY
+Podilskyi District,2022-3-20,Подільський район, Київ, Україна,50.4895574,30.42850354868418,2,MentionType.PRIMARY
+South America,2022-3-23,South America,-21.0002179,-61.0006565,1,MentionType.PRIMARY
+South America’s,2022-3-23,South America, Summer Walkway, Slimbridge, Stroud, Gloucestershire, South West England, England, GL2 7BT, United Kingdom,51.739188049999996,-2.4097819856390736,1,MentionType.PRIMARY
+Balkans,2022-3-23,Balkans, Бългaрия,41.77863335,23.814655401592667,1,MentionType.PRIMARY
+South Ukraine,2022-3-29,Юг, 9, Радгоспна вулиця, РТС, Судак, Судакский городской совет, Автономна Республіка Крим, 2980000, Україна,44.8583395,34.9723794,3,MentionType.PRIMARY
+Opposition Bloc,2022-3-13,Opposition Bloc,None,None,1,MentionType.PRIMARY
+Russian Naval,2022-3-13,Russian Naval,None,None,1,MentionType.PRIMARY
+Pripyat River,2022-3-13,Прип’ять, 225557, Беларусь,52.1365595,27.372054,1,MentionType.PRIMARY
+High North and,2022-3-13,High North, Dover, Carriacou and Petite Martinique, Grenada,12.5076837,-61.4405652,1,MentionType.PRIMARY
+North and Baltic Sea,2022-3-13,North and Baltic Sea,None,None,1,MentionType.PRIMARY
+North America,2022-3-14,North America,51.0000002,-109.0,1,MentionType.PRIMARY
+Pacific Ocean,2022-3-14,Pacific Ocean,-0.703107,-120.9375,1,MentionType.PRIMARY
+Irpin River,2022-3-21,Irpin River, Маяковського вулиця, Ірпінь, Ірпінська міська громада, Бучанський район, Київська область, 08200-08289, Україна,50.509925,30.2583788,3,MentionType.PRIMARY
+green agenda,2022-3-22,Agenda 21 Architects, 2-4, Sebastian Street, Saint Luke's, Clerkenwell, London, Greater London, England, EC1V 0JA, United Kingdom,51.5269463,-0.1010194222009646,1,MentionType.PRIMARY
+Embassy,2022-3-02,Embassy, Kampala, Central Region, 2831, Uganda,0.2999133,32.5939103,2,MentionType.PRIMARY
+Black Sea Navy,2022-3-25,Black Sea Navy,None,None,1,MentionType.PRIMARY
+Bucharest,2022-3-15,Municipiul București, România,44.4361414,26.1027202,2,MentionType.PRIMARY
+Central and Eastern Europe,2022-3-03,Europe, Θεοτόκη Νικηφόρου, Κέρκυρα, Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων, Περιφερειακή Ενότητα Κέρκυρας, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 49100, Ελλάς,39.6242727,19.9237448,1,MentionType.PRIMARY
+Gulf kingdom,2022-3-03,Kingdom Hall of Jehovah's Witnesses, Hiritano Highway, Kerema, Gulf, Southern Region, Papua Niugini,-7.9647933,145.77663804669754,1,MentionType.PRIMARY
+North Sea,2022-3-04,North Sea / Nordsee / Noordzee / Nordsøen / Nordsjøen / Mer du Nord,56.74123355,2.8911717166880475,1,MentionType.PRIMARY
+Latin America’s,2022-3-02,Latin America’s,None,None,2,MentionType.PRIMARY
+Far East,2022-3-05,Far East, Zone 3, Jorquelleh, Bong County, Liberia,7.00194225,-9.468326367917118,1,MentionType.PRIMARY
+Northwest Territories,2022-3-02,Northwest Territories, Canada,65.0000004,-118.0,1,MentionType.PRIMARY
+Dnieper River,2022-3-11,Dnieper, 247095, Беларусь,51.9191343,30.8243039,9,MentionType.PRIMARY
+Indian Ocean,2022-3-02,Indian Ocean,-9.9999999,69.9999999,1,MentionType.PRIMARY
+Straits,2022-3-18,Straits, Carteret County, North Carolina, 28528, United States,34.729051,-76.5710368,1,MentionType.PRIMARY
+Mediterranean Sea,2022-3-29,Mediterranean Sea,35.0000035,19.9999957,3,MentionType.PRIMARY
+Western Europe,2022-3-08,Europe, Cape Town Ward 40, City of Cape Town, Western Cape, 7490, South Africa,-33.9797952,18.5816802,2,MentionType.PRIMARY
+Danube River,2022-3-27,Danube, 11332, Србија,45.1758803,20.2060379,1,MentionType.PRIMARY
+Sumy,2022-3-11,Суми, Сумська міська громада, Сумський район, Сумська область, Україна,50.90007875,34.809040734367024,1,MentionType.PRIMARY
+Ramy Allahoum,2022-3-16,Ramy Allahoum,None,None,1,MentionType.PRIMARY
+Mars,2022-3-03,Mars, Tournon-sur-Rhône, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07320, France,45.022172,4.3221548,2,MentionType.PRIMARY
+Fastern Furone,2022-3-17,Fastern Furone,None,None,1,MentionType.PRIMARY
+Eastern #,2022-3-17,المنطقة الشرقية, السعودية,23.3036077,50.1258804,1,MentionType.PRIMARY
+Sviatoshyn district,2022-3-19,Святошин, Перемоги проспект, Авіамістечко, Святошин, Святошинський район, 03115, Україна,50.4576865,30.3883951,2,MentionType.PRIMARY
+National Stadium,2022-3-19,国家体育场, 慧忠路, 大屯街道, 朝阳区, 北京市, 100012, 中国,39.99152275,116.39028241977488,1,MentionType.PRIMARY
+Northern Territories,2022-3-20,Northern, DehCho Drive, Fort Providence, South Slave Region, Northwest Territories, X0E 0L0, Canada,61.3521936,-117.652164,2,MentionType.PRIMARY
+Siberia,2022-3-20,Сибирь, Богучанский район, Красноярский край, Сибирский федеральный округ, Россия,60.0,100.0,4,MentionType.PRIMARY
+Arctic,2022-3-22,Arctic, Town of Masonville, Delaware County, New York, United States,42.1856379,-75.4143448,2,MentionType.PRIMARY
+The Suez Canal,2022-3-30,Suez Canal, The Rocks, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia,-33.8595729,151.2083094,1,MentionType.PRIMARY
+Gan Europe,2022-3-01,Gan, Place de l'Europe, Saint-Pierre, Surgères, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17700, France,46.1068872,-0.7519873,1,MentionType.PRIMARY
+Gulf,2022-3-26,Gulf County, Florida, United States,29.9665252,-85.2175889,3,MentionType.PRIMARY
+Gulf Arab,2022-3-02,Gulf Arab,None,None,2,MentionType.PRIMARY
+Tahanaca,2022-3-01,Tahanaca,None,None,1,MentionType.PRIMARY
+Central Europe,2022-3-06,Central Europe, Muskogee County, Oklahoma, 74423, United States,35.670119,-95.167241,1,MentionType.PRIMARY
+Brest,2022-3-06,Brest, Finistère, Bretagne, France métropolitaine, 29200, France,48.3905283,-4.4860088,1,MentionType.PRIMARY
+Horenka,2022-3-06,Горенка, Гостомельська селищна громада, Бучанський район, Київська область, Україна,50.5595665,30.3122576,1,MentionType.PRIMARY
+Pacific,2022-3-24,Pacific, King County, Washington, United States,47.2640129,-122.2485492,1,MentionType.PRIMARY
+Near Eastern,2022-3-24,North Eastern Avenue, Westminster/St. Philip Neri, Near Eastside, Indianapolis, Marion County, Indiana, 46201, United States,39.771732,-86.117621,1,MentionType.PRIMARY
+Tweet,2022-3-26,Tweet, 33, Avenida Sá da Bandeira, Sé Nova, Alta, Sé Nova, Santa Cruz, Almedina e São Bartolomeu, Coimbra, 3000-351, Portugal,40.2116978,-8.4234878,3,MentionType.PRIMARY
+Zelenskyy,2022-3-04,Plazuela de Volodimir Zelensky, Piovera, Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España,40.45216845,-3.6388035907436485,3,MentionType.PRIMARY
+East,2022-3-04,Est, Burkina Faso,12.2527495,0.8736106,5,MentionType.PRIMARY
+Yamal-Europe,2022-3-14,Yamal - Europe, Kaszewiec, gmina Różan, powiat makowski, województwo mazowieckie, 06-231, Polska,52.9211614,21.4245165,1,MentionType.PRIMARY
+Bug River,2022-3-14,Bug, 224018, Беларусь,51.5347566,23.5646822,1,MentionType.PRIMARY
+Sea of,2022-3-14,Of, Trabzon, Karadeniz Bölgesi, 61830, Türkiye,40.881735899999995,40.27544376928809,1,MentionType.PRIMARY
+Desna River,2022-3-24,Desná, Olomoucký kraj, Střední Morava, 78813, Česko,50.031511,17.0599634,2,MentionType.PRIMARY
+Baltic Sea,2022-3-04,Baltijas jūra / Baltijos jūra / Itämeri / Läänemeri / Morze Bałtyckie / Östersjön / Østersøen / Ostsee / Балтийское море,56.0,18.0,3,MentionType.PRIMARY
+Asia,2022-3-26,Asia,51.2086975,89.2343748,7,MentionType.PRIMARY
+Eastern Military District,2022-3-16,Восточный военный округ, Дальневосточный федеральный округ, Россия,59.3334319,137.38882719604007,2,MentionType.PRIMARY
+Kuril Islands,2022-3-25,Курильские острова, Сахалинская область, Дальневосточный федеральный округ, Россия,50.3840378,155.83221429055388,1,MentionType.PRIMARY
+Peninsula,2022-3-26,The Peninsula Paris, 19, Avenue Kléber, Quartier de Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France,48.870745,2.2933072,4,MentionType.PRIMARY
+Hawi apTunepucTu,2022-3-16,Hawi apTunepucTu,None,None,1,MentionType.PRIMARY
+Whidbey Island,2022-3-28,Whidbey Island, Island County, Washington, United States,48.15814255,-122.59742939440014,2,MentionType.PRIMARY
+Eastern Europe,2022-3-04,Источен СР, Северна Македонија,41.836891800000004,22.52384962142576,11,MentionType.PRIMARY
+‘Asia Again: A,2022-3-17,‘Asia Again: A,None,None,1,MentionType.PRIMARY
+Chernihiv,2022-3-19,Чернігівська область, Україна,51.272593,31.7417235,1,MentionType.PRIMARY
+Central Asia,2022-3-24,Central Asia, классический маршрут, Чон-Алайский район, Ошская область, Кыргызстан,39.4009215,72.8676621,3,MentionType.PRIMARY
+Azov Sea,2022-3-20,Азовське море,46.196729,36.73570655151333,20,MentionType.PRIMARY
+Eastern Ukraine,2022-3-27,Embassy of Ukraine - Consular Section, 331, Metcalfe Street, Golden Triangle, Centretown, Somerset, (Old) Ottawa, Ottawa, Eastern Ontario, Ontario, K2P 1R7, Canada,45.4145561,-75.68987321346154,2,MentionType.PRIMARY
+Zaporizhzhia Oblast,2022-3-27,Запоріжжя, Запорізька міська громада, Запорізький район, Запорізька область, 69037, Україна,47.8507859,35.1182867,2,MentionType.PRIMARY
+Russia Wer,2022-3-26,Russia Wer,None,None,1,MentionType.PRIMARY
+Northern Ukraine,2022-3-25,Північний, Генічеськ, Генічеська міська громада, Генічеський район, Херсонська область, 75500-75509, Україна,46.188509,34.7984866,2,MentionType.PRIMARY
+Latin America,2022-3-02,Breakfast in America, Rue des Écoles, Quartier Saint-Victor, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France,48.84774885,2.351138358927914,4,MentionType.PRIMARY
+Middle East,2022-3-18,Middle East, Baltimore, Maryland, United States,39.3014159,-76.5888477,18,MentionType.PRIMARY
+Southeast Asia,2022-3-30,Asia, Riemannstraße, Zentrum-Süd, Zentrum-Südost, Mitte, Leipzig, Sachsen, Deutschland,51.3305381,12.3786243,3,MentionType.PRIMARY
+Africa,2022-3-28,Africa,11.5024338,17.7578122,14,MentionType.PRIMARY
+Crimean Peninsula,2022-3-02,Крымский полуостров, Україна,45.28350435,34.20081877526554,3,MentionType.PRIMARY
+world mai economic,2022-3-24,world mai economic,None,None,1,MentionType.PRIMARY
+Podil,2022-3-21,Поділ, Подільський район, Київ, 04070, Україна,50.469128,30.516624,2,MentionType.PRIMARY
+Western Ukraine,2022-3-08,Western, 264, Шевченка бульвар, Калиновий, Придніпровський район, Черкаси, Черкаська міська громада, Черкаський район, Черкаська область, 18000-18499, Україна,49.4393787,32.0674722,2,MentionType.PRIMARY
+Atlantic,2022-3-15,Atlantic, Cass County, Iowa, 50022, United States,41.403691,-95.0138705,1,MentionType.PRIMARY
+Russia-1,2022-3-15,Кировско-Выборгская линия (Линия 1), округ Пискарёвка, Санкт-Петербург, Северо-Западный федеральный округ, 195273, Россия,59.9980504,30.3651594,1,MentionType.PRIMARY
+MiGs,2022-3-18,Migs, Iloilo R-2 Road, San Miguel Town Proper, San Miguel, Iloilo, Western Visayas, 5025, Philippines,10.7774862,122.4606751,2,MentionType.PRIMARY
+Vasykkv,2022-3-12,Vasykkv,None,None,1,MentionType.PRIMARY
+Defeat America,2022-3-21,Defeat America,None,None,2,MentionType.PRIMARY
+Earth,2022-3-03,Earth, Lamb County, Texas, 79301, United States,34.2331373,-102.4107493,2,MentionType.PRIMARY
+Americas,2022-3-17,Americas, Chapultepec, Estado de México, 52145, México,19.1982908,-99.5486812,2,MentionType.PRIMARY
+West,2022-3-03,Western, West Kenya, Kenya,0.5090396,34.5731341,55,MentionType.PRIMARY
+Europe,2022-3-03,Ōu,51.0,10.0,79,MentionType.PRIMARY
+Snake Island,2022-3-25,Snake Island, Tarrant County, Texas, 76135, United States,32.8090171,-97.4880769,1,MentionType.PRIMARY
+Black Sea,2022-3-03,Black Sea,43.87280435,33.99381558677739,61,MentionType.PRIMARY
+Allies,2022-3-05,Allies, 7, 薬師あいロード商店街, 新井, 中野区, 東京都, 165-0026, 日本,35.7127141,139.6672335,6,MentionType.PRIMARY
