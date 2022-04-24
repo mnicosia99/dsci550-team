@@ -39,6 +39,8 @@ python token_text.py
     Requirements: python libraries
         spacy, os, json
 
+Note: Please update the input and output directories in each .py file according to where the input files are located and where you want output file saved
+
 #### Plot Distributions from NER 
 
 #### Geolocation
