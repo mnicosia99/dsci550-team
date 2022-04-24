@@ -23,16 +23,19 @@ Folders:
 
 Code to run split Images:
 python test_longcat.py
+    
     Requirements: python libraries
         __future__, PIL, math,os
 
 Code to extract text: 
 python extract_text.py
+     
      Requirements: python libraries
            PIL, pytesseract, os
 
 Code to tokenize text:
 python token_text.py
+    
     Requirements: python libraries
         spacy, os, json
 
