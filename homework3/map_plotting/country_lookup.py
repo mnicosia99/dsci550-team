@@ -3,11 +3,20 @@ import random
 from iso3166 import countries
 from geopy.geocoders import Nominatim
 
+"""
+    This script privides some utilities relation to locations.
+"""
+
+# This map was created to address differences in how the same country was 
+# listed in the output of the NER.
 country_map = {}
 country_map["United States"] = "United States of America"
 country_map["England"] = "United Kingdom"
 country_map["Russia"] = "Russian Federation"
 
+# This map was created to address typos as well as different spellings for cities.
+# Different spellings are primarily for Ukrainian towns and villages that could not 
+# be looked up in the geopy library.
 mapping = {}
 mapping["Zhytomir"] = "Zhytomyr"
 mapping["Zaporiznznia"] = "Zaporizhzhia"
@@ -57,12 +66,14 @@ mapping["Brusyn"] = "Donetsk Oblast"
 mapping["Ukrainian"] = "Ukraine"
 mapping["Kostyantynivka"] = "Donetsk Oblast"
 
+# returns city mappings
 def get_mapping(entry):
     if entry in mapping:
         return mapping[entry]
     else:
         return entry
-    
+
+# Checks if a value is the name of a country
 def is_country(value):  
     if value in country_map:
         value = country_map[value]
@@ -76,7 +87,8 @@ def is_country(value):
             f = True
 
     return f
-    
+
+# Use geopy library to look up a location for a given name   
 def get_country_location(name):  
     nbr = random.randint(0, 999)
     geolocator = Nominatim(user_agent="dsci550-hw3-" + str(nbr), timeout=None)

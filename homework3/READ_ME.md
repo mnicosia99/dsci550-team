@@ -10,6 +10,9 @@ Folders:
     
     Final Images after OCR using Tesseract per day of month:
     Longcat_2000px_images 
+    map_plotting - Contains the code that pasred the NER results for LOC and GPE references and looked up 
+                   geolocation data and plotted on map including the number of times a reference was made 
+                   per day.
     
     Text Extraction for three news sources into .txt formats per day of month:
     aljazeera_text
@@ -44,3 +47,45 @@ Note: Please update the input and output directories in each .py file according 
 #### Plot Distributions from NER 
 
 #### Geolocation
+
+Code to geoparse LOC and GPE in a preprocess stage:
+    
+    map_plotting/get_location_data.py
+
+    Requirements: json, os, string
+
+    Output:  Creates a locations json file in the map_plotting/input directory
+
+Code to process location data and sum counts per day for countries:
+    
+    map_plotting/collect_data_countries.py
+
+    Requirements: json, os
+
+    Inputs:  A locations json file in the map_plotting/input directory
+
+    Output:  Creates a countries csv file in the map_plotting/output directory
+
+Code to process location data and sum counts per day for Ukrainian cities:
+    
+    map_plotting/collect_data_ukraine.py
+
+    Requirements: json, os
+
+    Inputs:  A locations json file in the map_plotting/input directory
+
+    Output:  Creates a ukraine csv file in the map_plotting/output directory
+
+Location utilities used for location lookups and identification if a NER key is a country:
+    
+    map_plotting/country_lookup.py
+
+    Requirements: random, iso3166, geopy
+
+Mapping utility to display geolocated data on a map using plotly:
+    
+    map_plotting/map_plot.py
+
+    Requirements: plotly, pandas
+
+    Inputs:  A csv json file in the map_plotting/output directory containing lat/long, date, country and label data.

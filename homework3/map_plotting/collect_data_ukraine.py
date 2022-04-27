@@ -23,10 +23,11 @@ subfolders.remove("/Users/mikenicosia/Documents/School/USC/DSCI550/homework3/map
 fw = open("output/collected_data_ukraine.csv", "w")
 date_map = {}
 
-# The lookup table only has country so it is skipping cities it seems for Ukraine
+# Load the preprocessed locations
 loc_file = open("input/locations.json")
 locations = json.load(loc_file)          
 
+# for each NER/LOC look up the location and keep a sum per day for each city in Ukraine
 for subfolder in subfolders:
     date_subfolders = [ f.path for f in os.scandir(subfolder) if f.is_dir() ]
     for date_subfolder in date_subfolders:
@@ -48,6 +49,7 @@ for subfolder in subfolders:
                         if not ner_entry in locations:
                             continue
                         location = locations[ner_entry]
+                        # For all locations in Ukraine, sum up all times the city was mentioned each day
                         if not location is None:
                             if "country" in location:
                                 if "Ukraine" == location["country"] or "Україна" in location["country"]:
@@ -59,10 +61,12 @@ for subfolder in subfolders:
                                     ukraine_data[ner_entry] = mention
                         date_map[date] = ukraine_data
                             
+# Write the csv file for each country for each day
 fw.write("Country,Date,Label,Latitude,Longitude,Count,Type\n")
 for date in date_map:
     for country in date_map[date]:
         fw.write(date_map[date][country].as_csv() + "\n")
 fw.close()
 
+# Display the csv data on the map
 display_on_map(os.path.realpath(fw.name))

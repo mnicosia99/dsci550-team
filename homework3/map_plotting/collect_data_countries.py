@@ -22,9 +22,11 @@ subfolders.remove("/Users/mikenicosia/Documents/School/USC/DSCI550/homework3/map
 fw = open("output/collected_data_countries.csv", "w")
 date_map = {}
 
+# Load the preprocessed locations
 loc_file = open("input/locations.json")
 locations = json.load(loc_file)          
 
+# for each NER/LOC look up the location and keep a sum per day for each country
 for subfolder in subfolders:
     date_subfolders = [ f.path for f in os.scandir(subfolder) if f.is_dir() ]
     for date_subfolder in date_subfolders:
@@ -46,6 +48,7 @@ for subfolder in subfolders:
                                 country_data = date_map[date]
                                 del date_map[date]
                             inc = 0
+                            # For all locations, look up the country and sum up all times a country was mentioned each day
                             if "country" in location:
                                 if location["country"] in locations:
                                     location = locations[location["country"]];
@@ -64,11 +67,13 @@ for subfolder in subfolders:
                                 mention.count = inc + 1
                                 country_data[ner_entry] = mention
                                 date_map[date] = country_data
-                            
+
+# Write the csv file for each country for each day
 fw.write("Country,Date,Label,Latitude,Longitude,Count,Type\n")
 for date in date_map:
     for country in date_map[date]:
         fw.write(date_map[date][country].as_csv() + "\n")
 fw.close()
 
+# Display the csv data on the map
 display_on_map(os.path.realpath(fw.name))                      
