@@ -1,0 +1,1418 @@
+Country,Date,Label,Latitude,Longitude,Count,Type
+South Sudan,2022-3-03,South Sudan,7.8699431,29.6667897,1,MentionType.PRIMARY
+Venezuela,2022-3-03,Venezuela,8.0018709,-66.1109318,1,MentionType.PRIMARY
+Kenya,2022-3-03,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+سوريا,2022-3-03,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+India,2022-3-03,India,22.3511148,78.6677428,1,MentionType.PRIMARY
+Djibouti جيبوتي,2022-3-03,Djibouti جيبوتي,11.8145966,42.8453061,1,MentionType.PRIMARY
+Slovensko,2022-3-03,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Europe,2022-3-03,Europe,51.0,10.0,3,MentionType.PRIMARY
+Canada,2022-3-03,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+Suomi / Finland,2022-3-03,Suomi / Finland,63.2467777,25.9209164,1,MentionType.PRIMARY
+România,2022-3-03,România,45.9852129,24.6859225,4,MentionType.PRIMARY
+Србија,2022-3-03,Србија,44.1534121,20.55144,2,MentionType.PRIMARY
+Österreich,2022-3-03,Österreich,47.59397,14.12456,2,MentionType.PRIMARY
+日本,2022-3-03,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+Italia,2022-3-03,Italia,42.6384261,12.674297,3,MentionType.PRIMARY
+France,2022-3-03,France,46.603354,1.8883335,4,MentionType.PRIMARY
+Deutschland,2022-3-03,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+中国,2022-3-03,中国,35.000074,104.999927,3,MentionType.PRIMARY
+Magyarország,2022-3-03,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Ελλάς,2022-3-03,Ελλάς,38.9953683,21.9877132,2,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-03,België / Belgique / Belgien,50.6402809,4.6667145,1,MentionType.PRIMARY
+Nederland,2022-3-03,Nederland,52.15517,5.38721,2,MentionType.PRIMARY
+Australia,2022-3-03,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+United Kingdom,2022-3-03,United Kingdom,54.7023545,-3.2765753,5,MentionType.PRIMARY
+Danmark,2022-3-03,Danmark,55.670249,10.3333283,1,MentionType.PRIMARY
+Sverige,2022-3-03,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Россия,2022-3-03,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+Black Sea,2022-3-03,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-03,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+United States,2022-3-03,United States,39.7837304,-100.445882,12,MentionType.PRIMARY
+Lietuva,2022-3-03,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Беларусь,2022-3-03,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+Україна,2022-3-03,Україна,49.4871968,31.2718321,16,MentionType.PRIMARY
+Ghana,2022-3-03,Ghana,8.0300284,-1.0800271,1,MentionType.PRIMARY
+Cuba,2022-3-03,Cuba,23.0131338,-80.8328748,1,MentionType.PRIMARY
+Česko,2022-3-03,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Κύπρος - Kıbrıs,2022-3-03,Κύπρος - Kıbrıs,34.9823018,33.1451285,1,MentionType.PRIMARY
+السعودية,2022-3-03,السعودية,25.6242618,42.3528328,4,MentionType.PRIMARY
+Papua Niugini,2022-3-03,Papua Niugini,-5.6816069,144.2489081,1,MentionType.PRIMARY
+Polska,2022-3-03,Polska,52.215933,19.134422,3,MentionType.PRIMARY
+Sénégal,2022-3-03,Sénégal,14.4750607,-14.4529612,1,MentionType.PRIMARY
+ශ්‍රී ලංකාව இலங்கை,2022-3-03,ශ්‍රී ලංකාව இலங்கை,7.5554942,80.7137847,1,MentionType.PRIMARY
+Slovensko,2022-3-04,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Moldova,2022-3-04,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+Azərbaycan,2022-3-04,Azərbaycan,40.3936294,47.7872508,2,MentionType.PRIMARY
+Panamá,2022-3-04,Panamá,8.559559,-81.1308434,1,MentionType.PRIMARY
+Кыргызстан,2022-3-04,Кыргызстан,41.5089324,74.724091,1,MentionType.PRIMARY
+Nederland,2022-3-04,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Bosna i Hercegovina / Босна и Херцеговина,2022-3-04,Bosna i Hercegovina / Босна и Херцеговина,44.3053476,17.5961467,1,MentionType.PRIMARY
+ليبيا,2022-3-04,ليبيا,26.8234472,18.1236723,1,MentionType.PRIMARY
+România,2022-3-04,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Burkina Faso,2022-3-04,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-04,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+대한민국,2022-3-04,대한민국,36.638392,127.6961188,2,MentionType.PRIMARY
+Северна Македонија,2022-3-04,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+中国,2022-3-04,中国,35.000074,104.999927,3,MentionType.PRIMARY
+საქართველო,2022-3-04,საქართველო,41.6809707,44.0287382,1,MentionType.PRIMARY
+Česko,2022-3-04,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Österreich,2022-3-04,Österreich,47.59397,14.12456,2,MentionType.PRIMARY
+Беларусь,2022-3-04,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+India,2022-3-04,India,22.3511148,78.6677428,1,MentionType.PRIMARY
+ایران,2022-3-04,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+سوريا,2022-3-04,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+España,2022-3-04,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+ישראל,2022-3-04,ישראל,31.5313113,34.8667654,2,MentionType.PRIMARY
+United Kingdom,2022-3-04,United Kingdom,54.7023545,-3.2765753,9,MentionType.PRIMARY
+France,2022-3-04,France,46.603354,1.8883335,6,MentionType.PRIMARY
+Deutschland,2022-3-04,Deutschland,51.0834196,10.4234469,8,MentionType.PRIMARY
+North Sea,2022-3-04,North Sea,56.74123355,2.8911717166880475,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-04,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+Europe,2022-3-04,Europe,51.0,10.0,2,MentionType.PRIMARY
+Polska,2022-3-04,Polska,52.215933,19.134422,3,MentionType.PRIMARY
+Kenya,2022-3-04,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-04,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+Nigeria,2022-3-04,Nigeria,9.6000359,7.9999721,1,MentionType.PRIMARY
+مصر,2022-3-04,مصر,26.2540493,29.2675469,1,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-04,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,1,MentionType.PRIMARY
+Türkiye,2022-3-04,Türkiye,38.9597594,34.9249653,2,MentionType.PRIMARY
+Bénin,2022-3-04,Bénin,9.5293472,2.2584408,1,MentionType.PRIMARY
+قطر,2022-3-04,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر,2022-3-04,Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر,28.0000272,2.9999825,1,MentionType.PRIMARY
+Россия,2022-3-04,Россия,64.6863136,97.7453061,9,MentionType.PRIMARY
+Baltic Sea,2022-3-04,Baltic Sea,56.0,18.0,1,MentionType.PRIMARY
+Danmark,2022-3-04,Danmark,55.670249,10.3333283,1,MentionType.PRIMARY
+Eesti,2022-3-04,Eesti,58.7523778,25.3319078,2,MentionType.PRIMARY
+Suomi / Finland,2022-3-04,Suomi / Finland,63.2467777,25.9209164,2,MentionType.PRIMARY
+Ísland,2022-3-04,Ísland,64.9841821,-18.1059013,1,MentionType.PRIMARY
+Latvija,2022-3-04,Latvija,56.8406494,24.7537645,2,MentionType.PRIMARY
+Norge,2022-3-04,Norge,60.5000209,9.0999715,2,MentionType.PRIMARY
+Sverige,2022-3-04,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-04,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+日本,2022-3-04,日本,36.5748441,139.2394179,4,MentionType.PRIMARY
+Colombia,2022-3-04,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Singapore,2022-3-04,Singapore,1.357107,103.8194992,2,MentionType.PRIMARY
+Україна,2022-3-04,Україна,49.4871968,31.2718321,11,MentionType.PRIMARY
+Brasil,2022-3-04,Brasil,-10.3333333,-53.2,2,MentionType.PRIMARY
+Тоҷикистон,2022-3-04,Тоҷикистон,38.6281733,70.8156541,1,MentionType.PRIMARY
+Magyarország,2022-3-04,Magyarország,47.1817585,19.5060937,4,MentionType.PRIMARY
+Бългaрия,2022-3-04,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+United States,2022-3-04,United States,39.7837304,-100.445882,25,MentionType.PRIMARY
+Lietuva,2022-3-04,Lietuva,55.3500003,23.7499997,3,MentionType.PRIMARY
+Portugal,2022-3-04,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+Kenya,2022-3-05,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+South Africa,2022-3-05,South Africa,-28.8166236,24.991639,2,MentionType.PRIMARY
+日本,2022-3-05,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+Italia,2022-3-05,Italia,42.6384261,12.674297,5,MentionType.PRIMARY
+Aegean Sea,2022-3-05,Aegean Sea,38.0580504,25.721561172355706,1,MentionType.PRIMARY
+Ελλάς,2022-3-05,Ελλάς,38.9953683,21.9877132,1,MentionType.PRIMARY
+الأردن,2022-3-05,الأردن,31.1667049,36.941628,1,MentionType.PRIMARY
+Lietuva,2022-3-05,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+ישראל,2022-3-05,ישראל,31.5313113,34.8667654,3,MentionType.PRIMARY
+Deutschland,2022-3-05,Deutschland,51.0834196,10.4234469,4,MentionType.PRIMARY
+ایران,2022-3-05,ایران,32.6475314,54.5643516,2,MentionType.PRIMARY
+Europe,2022-3-05,Europe,51.0,10.0,2,MentionType.PRIMARY
+España,2022-3-05,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-05,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+Türkiye,2022-3-05,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Moldova,2022-3-05,Moldova,47.2879608,28.5670941,2,MentionType.PRIMARY
+Česko,2022-3-05,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Civitas Vaticana - Città del Vaticano,2022-3-05,Civitas Vaticana - Città del Vaticano,41.903411,12.4528527,1,MentionType.PRIMARY
+România,2022-3-05,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-05,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+Black Sea,2022-3-05,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+Liberia,2022-3-05,Liberia,5.7499721,-9.3658524,1,MentionType.PRIMARY
+United Kingdom,2022-3-05,United Kingdom,54.7023545,-3.2765753,7,MentionType.PRIMARY
+Россия,2022-3-05,Россия,64.6863136,97.7453061,12,MentionType.PRIMARY
+سوريا,2022-3-05,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+中国,2022-3-05,中国,35.000074,104.999927,4,MentionType.PRIMARY
+France,2022-3-05,France,46.603354,1.8883335,4,MentionType.PRIMARY
+Venezuela,2022-3-05,Venezuela,8.0018709,-66.1109318,2,MentionType.PRIMARY
+Chile,2022-3-05,Chile,-31.7613365,-71.3187697,2,MentionType.PRIMARY
+Беларусь,2022-3-05,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Polska,2022-3-05,Polska,52.215933,19.134422,8,MentionType.PRIMARY
+Canada,2022-3-05,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+Africa,2022-3-05,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+مصر,2022-3-05,مصر,26.2540493,29.2675469,2,MentionType.PRIMARY
+اليمن,2022-3-05,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+Nigeria,2022-3-05,Nigeria,9.6000359,7.9999721,1,MentionType.PRIMARY
+Україна,2022-3-05,Україна,49.4871968,31.2718321,17,MentionType.PRIMARY
+Honduras,2022-3-05,Honduras,15.2572432,-86.0755145,1,MentionType.PRIMARY
+United States,2022-3-05,United States,39.7837304,-100.445882,14,MentionType.PRIMARY
+臺灣,2022-3-05,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+대한민국,2022-3-02,대한민국,36.638392,127.6961188,3,MentionType.PRIMARY
+Uganda,2022-3-02,Uganda,1.5333554,32.2166578,1,MentionType.PRIMARY
+Cuba,2022-3-02,Cuba,23.0131338,-80.8328748,1,MentionType.PRIMARY
+Nicaragua,2022-3-02,Nicaragua,12.6090157,-85.2936911,1,MentionType.PRIMARY
+Venezuela,2022-3-02,Venezuela,8.0018709,-66.1109318,1,MentionType.PRIMARY
+Bolivia,2022-3-02,Bolivia,-17.0568696,-64.9912286,1,MentionType.PRIMARY
+El Salvador,2022-3-02,El Salvador,13.8000382,-88.9140683,2,MentionType.PRIMARY
+México,2022-3-02,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+Brasil,2022-3-02,Brasil,-10.3333333,-53.2,1,MentionType.PRIMARY
+Sverige,2022-3-02,Sverige,59.6749712,14.5208584,2,MentionType.PRIMARY
+Sénégal,2022-3-02,Sénégal,14.4750607,-14.4529612,1,MentionType.PRIMARY
+Europe,2022-3-02,Europe,51.0,10.0,2,MentionType.PRIMARY
+Canada,2022-3-02,Canada,61.0666922,-107.991707,3,MentionType.PRIMARY
+Polska,2022-3-02,Polska,52.215933,19.134422,2,MentionType.PRIMARY
+سوريا,2022-3-02,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+اليمن,2022-3-02,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+ኢትዮጵያ,2022-3-02,ኢትዮጵያ,10.2116702,38.6521203,1,MentionType.PRIMARY
+Latvija,2022-3-02,Latvija,56.8406494,24.7537645,2,MentionType.PRIMARY
+Lietuva,2022-3-02,Lietuva,55.3500003,23.7499997,2,MentionType.PRIMARY
+Eesti,2022-3-02,Eesti,58.7523778,25.3319078,2,MentionType.PRIMARY
+Andorra,2022-3-02,Andorra,42.5407167,1.5732033,1,MentionType.PRIMARY
+France,2022-3-02,France,46.603354,1.8883335,3,MentionType.PRIMARY
+Deutschland,2022-3-02,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-02,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+Brunei,2022-3-02,Brunei,4.4137155,114.5653908,1,MentionType.PRIMARY
+ព្រះរាជាណាចក្រ​កម្ពុជា,2022-3-02,ព្រះរាជាណាចក្រ​កម្ពុជា,13.5066394,104.869423,1,MentionType.PRIMARY
+Indonesia,2022-3-02,Indonesia,-2.4833826,117.8902853,1,MentionType.PRIMARY
+ປະເທດລາວ,2022-3-02,ປະເທດລາວ,20.0171109,103.378253,1,MentionType.PRIMARY
+Malaysia,2022-3-02,Malaysia,4.5693754,102.2656823,1,MentionType.PRIMARY
+မြန်မာ,2022-3-02,မြန်မာ,17.1750495,95.9999652,1,MentionType.PRIMARY
+Pilipinas / Philippines,2022-3-02,Pilipinas / Philippines,12.7503486,122.7312101,1,MentionType.PRIMARY
+Singapore,2022-3-02,Singapore,1.357107,103.8194992,1,MentionType.PRIMARY
+ประเทศไทย,2022-3-02,ประเทศไทย,14.8971921,100.83273,1,MentionType.PRIMARY
+Việt Nam,2022-3-02,Việt Nam,13.2904027,108.4265113,1,MentionType.PRIMARY
+Kenya,2022-3-02,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+United Kingdom,2022-3-02,United Kingdom,54.7023545,-3.2765753,7,MentionType.PRIMARY
+Portugal,2022-3-02,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+العراق,2022-3-02,العراق,33.0955793,44.1749775,1,MentionType.PRIMARY
+ليبيا,2022-3-02,ليبيا,26.8234472,18.1236723,1,MentionType.PRIMARY
+Беларусь,2022-3-02,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Black  Sea,2022-3-02,Black  Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+中国,2022-3-02,中国,35.000074,104.999927,4,MentionType.PRIMARY
+Magyarország,2022-3-02,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Nederland,2022-3-02,Nederland,52.15517,5.38721,2,MentionType.PRIMARY
+Azov Sea,2022-3-02,Azov Sea,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Black Sea,2022-3-02,Black Sea,43.87280435,33.99381558677739,3,MentionType.PRIMARY
+Nepal,2022-3-02,Nepal,28.31079015,83.71627050465048,1,MentionType.PRIMARY
+India,2022-3-02,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+United States,2022-3-02,United States,39.7837304,-100.445882,21,MentionType.PRIMARY
+日本,2022-3-02,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+România,2022-3-02,România,45.9852129,24.6859225,4,MentionType.PRIMARY
+Россия,2022-3-02,Россия,64.6863136,97.7453061,7,MentionType.PRIMARY
+Indian Ocean,2022-3-02,Indian Ocean,-9.9999999,69.9999999,1,MentionType.PRIMARY
+Україна,2022-3-02,Україна,49.4871968,31.2718321,16,MentionType.PRIMARY
+سوريا,2022-3-11,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Česko,2022-3-11,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Kenya,2022-3-11,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+España,2022-3-11,España,39.3260685,-4.8379791,2,MentionType.PRIMARY
+日本,2022-3-11,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+Hrvatska,2022-3-11,Hrvatska,45.5643442,17.0118954,1,MentionType.PRIMARY
+România,2022-3-11,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Magyarország,2022-3-11,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+Black Sea,2022-3-11,Black Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+قطر,2022-3-11,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+France,2022-3-11,France,46.603354,1.8883335,4,MentionType.PRIMARY
+Italia,2022-3-11,Italia,42.6384261,12.674297,4,MentionType.PRIMARY
+Europe,2022-3-11,Europe,51.0,10.0,2,MentionType.PRIMARY
+Nederland,2022-3-11,Nederland,52.15517,5.38721,2,MentionType.PRIMARY
+Moldova,2022-3-11,Moldova,47.2879608,28.5670941,4,MentionType.PRIMARY
+Беларусь,2022-3-11,Беларусь,53.4250605,27.6971358,5,MentionType.PRIMARY
+Polska,2022-3-11,Polska,52.215933,19.134422,3,MentionType.PRIMARY
+Canada,2022-3-11,Canada,61.0666922,-107.991707,3,MentionType.PRIMARY
+United States,2022-3-11,United States,39.7837304,-100.445882,12,MentionType.PRIMARY
+ישראל,2022-3-11,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+Россия,2022-3-11,Россия,64.6863136,97.7453061,5,MentionType.PRIMARY
+Türkiye,2022-3-11,Türkiye,38.9597594,34.9249653,1,MentionType.PRIMARY
+Deutschland,2022-3-11,Deutschland,51.0834196,10.4234469,7,MentionType.PRIMARY
+Guatemala,2022-3-11,Guatemala,15.687100699999998,-90.12265453178017,1,MentionType.PRIMARY
+United Kingdom,2022-3-11,United Kingdom,54.7023545,-3.2765753,5,MentionType.PRIMARY
+Україна,2022-3-11,Україна,49.4871968,31.2718321,35,MentionType.PRIMARY
+대한민국,2022-3-11,대한민국,36.638392,127.6961188,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-11,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-11,België / Belgique / Belgien,50.6402809,4.6667145,1,MentionType.PRIMARY
+Slovensko,2022-3-11,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Portugal,2022-3-11,Portugal,40.0332629,-7.8896263,3,MentionType.PRIMARY
+México,2022-3-11,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+تونس,2022-3-11,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-11,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+Հայաստան,2022-3-10,Հայաստան,40.7696272,44.6736646,1,MentionType.PRIMARY
+Mali,2022-3-10,Mali,16.3700359,-2.2900239,1,MentionType.PRIMARY
+Κύπρος - Kıbrıs,2022-3-10,Κύπρος - Kıbrıs,34.9823018,33.1451285,1,MentionType.PRIMARY
+Kosova / Kosovo,2022-3-10,Kosova / Kosovo,42.5869578,20.9021231,1,MentionType.PRIMARY
+South Sudan,2022-3-10,South Sudan,7.8699431,29.6667897,1,MentionType.PRIMARY
+السودان,2022-3-10,السودان,14.5844444,29.4917691,2,MentionType.PRIMARY
+Zambia,2022-3-10,Zambia,-14.5189121,27.5589884,1,MentionType.PRIMARY
+South Africa,2022-3-10,South Africa,-28.8166236,24.991639,1,MentionType.PRIMARY
+México,2022-3-10,México,23.6585116,-102.0077097,2,MentionType.PRIMARY
+India,2022-3-10,India,22.3511148,78.6677428,1,MentionType.PRIMARY
+Portugal,2022-3-10,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+中国,2022-3-10,中国,35.000074,104.999927,3,MentionType.PRIMARY
+Suomi / Finland,2022-3-10,Suomi / Finland,63.2467777,25.9209164,1,MentionType.PRIMARY
+Беларусь,2022-3-10,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Kenya,2022-3-10,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+Moldova,2022-3-10,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+Black Sea,2022-3-10,Black Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+سوريا,2022-3-10,سوريا,34.6401861,39.0494106,3,MentionType.PRIMARY
+Türkiye,2022-3-10,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Europe,2022-3-10,Europe,51.0,10.0,2,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-10,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+France,2022-3-10,France,46.603354,1.8883335,4,MentionType.PRIMARY
+Россия,2022-3-10,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+Česko,2022-3-10,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+United States,2022-3-10,United States,39.7837304,-100.445882,19,MentionType.PRIMARY
+Slovensko,2022-3-10,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Deutschland,2022-3-10,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+România,2022-3-10,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+Северна Македонија,2022-3-10,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+Polska,2022-3-10,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+Magyarország,2022-3-10,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+السعودية,2022-3-10,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+Singapore,2022-3-10,Singapore,1.357107,103.8194992,1,MentionType.PRIMARY
+Azov Sea,2022-3-10,Azov Sea,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Қазақстан,2022-3-10,Қазақстан,47.2286086,65.2093197,1,MentionType.PRIMARY
+United Kingdom,2022-3-10,United Kingdom,54.7023545,-3.2765753,5,MentionType.PRIMARY
+Україна,2022-3-10,Україна,49.4871968,31.2718321,24,MentionType.PRIMARY
+Colombia,2022-3-10,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+العراق,2022-3-10,العراق,33.0955793,44.1749775,1,MentionType.PRIMARY
+Australia,2022-3-07,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+Nederland,2022-3-07,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Canada,2022-3-07,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+Burkina Faso,2022-3-07,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+السعودية,2022-3-07,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+Venezuela,2022-3-07,Venezuela,8.0018709,-66.1109318,1,MentionType.PRIMARY
+ایران,2022-3-07,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+México,2022-3-07,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+سوريا,2022-3-07,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-07,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Česko,2022-3-07,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Ελλάς,2022-3-07,Ελλάς,38.9953683,21.9877132,2,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-07,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Nigeria,2022-3-07,Nigeria,9.6000359,7.9999721,1,MentionType.PRIMARY
+Polska,2022-3-07,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+Norge,2022-3-07,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+Беларусь,2022-3-07,Беларусь,53.4250605,27.6971358,4,MentionType.PRIMARY
+Italia,2022-3-07,Italia,42.6384261,12.674297,1,MentionType.PRIMARY
+日本,2022-3-07,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+India,2022-3-07,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+Europe,2022-3-07,Europe,51.0,10.0,2,MentionType.PRIMARY
+France,2022-3-07,France,46.603354,1.8883335,3,MentionType.PRIMARY
+Colombia,2022-3-07,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Moldova,2022-3-07,Moldova,47.2879608,28.5670941,3,MentionType.PRIMARY
+România,2022-3-07,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+United States,2022-3-07,United States,39.7837304,-100.445882,22,MentionType.PRIMARY
+Россия,2022-3-07,Россия,64.6863136,97.7453061,6,MentionType.PRIMARY
+Latvija,2022-3-07,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+Magyarország,2022-3-07,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+中国,2022-3-07,中国,35.000074,104.999927,4,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-07,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,2,MentionType.PRIMARY
+Kenya,2022-3-07,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+대한민국,2022-3-07,대한민국,36.638392,127.6961188,1,MentionType.PRIMARY
+Portugal,2022-3-07,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+Türkiye,2022-3-07,Türkiye,38.9597594,34.9249653,1,MentionType.PRIMARY
+Deutschland,2022-3-07,Deutschland,51.0834196,10.4234469,4,MentionType.PRIMARY
+Sverige,2022-3-07,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+United Kingdom,2022-3-07,United Kingdom,54.7023545,-3.2765753,11,MentionType.PRIMARY
+Danmark,2022-3-07,Danmark,55.670249,10.3333283,1,MentionType.PRIMARY
+Lietuva,2022-3-07,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Ísland,2022-3-07,Ísland,64.9841821,-18.1059013,1,MentionType.PRIMARY
+Україна,2022-3-07,Україна,49.4871968,31.2718321,19,MentionType.PRIMARY
+Nederland,2022-3-09,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Oʻzbekiston,2022-3-09,Oʻzbekiston,41.32373,63.9528098,1,MentionType.PRIMARY
+Brasil,2022-3-09,Brasil,-10.3333333,-53.2,1,MentionType.PRIMARY
+Moldova,2022-3-09,Moldova,47.2879608,28.5670941,2,MentionType.PRIMARY
+India,2022-3-09,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+Česko,2022-3-09,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Europe,2022-3-09,Europe,51.0,10.0,2,MentionType.PRIMARY
+România,2022-3-09,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+Italia,2022-3-09,Italia,42.6384261,12.674297,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-09,België / Belgique / Belgien,50.6402809,4.6667145,1,MentionType.PRIMARY
+Magyarország,2022-3-09,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Slovensko,2022-3-09,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+中国,2022-3-09,中国,35.000074,104.999927,3,MentionType.PRIMARY
+France,2022-3-09,France,46.603354,1.8883335,3,MentionType.PRIMARY
+Polska,2022-3-09,Polska,52.215933,19.134422,4,MentionType.PRIMARY
+السعودية,2022-3-09,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+Беларусь,2022-3-09,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+Україна,2022-3-09,Україна,49.4871968,31.2718321,20,MentionType.PRIMARY
+Slovenija,2022-3-09,Slovenija,45.8133113,14.4808369,1,MentionType.PRIMARY
+España,2022-3-09,España,39.3260685,-4.8379791,3,MentionType.PRIMARY
+Lietuva,2022-3-09,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Kenya,2022-3-09,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+Suomi / Finland,2022-3-09,Suomi / Finland,63.2467777,25.9209164,1,MentionType.PRIMARY
+United Kingdom,2022-3-09,United Kingdom,54.7023545,-3.2765753,9,MentionType.PRIMARY
+Africa,2022-3-09,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Burkina Faso,2022-3-09,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+Deutschland,2022-3-09,Deutschland,51.0834196,10.4234469,3,MentionType.PRIMARY
+United States,2022-3-09,United States,39.7837304,-100.445882,17,MentionType.PRIMARY
+Россия,2022-3-09,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+Türkiye,2022-3-09,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Palestinian Territory,2022-3-08,Palestinian Territory,32.4618837,35.297566,1,MentionType.PRIMARY
+Moldova,2022-3-08,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+日本,2022-3-08,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+Africa,2022-3-08,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Venezuela,2022-3-08,Venezuela,8.0018709,-66.1109318,2,MentionType.PRIMARY
+South Africa,2022-3-08,South Africa,-28.8166236,24.991639,1,MentionType.PRIMARY
+Australia,2022-3-08,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+ایران,2022-3-08,ایران,32.6475314,54.5643516,2,MentionType.PRIMARY
+Norge,2022-3-08,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+Sverige,2022-3-08,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+ישראל,2022-3-08,ישראל,31.5313113,34.8667654,2,MentionType.PRIMARY
+中国,2022-3-08,中国,35.000074,104.999927,5,MentionType.PRIMARY
+Türkiye,2022-3-08,Türkiye,38.9597594,34.9249653,2,MentionType.PRIMARY
+Italia,2022-3-08,Italia,42.6384261,12.674297,1,MentionType.PRIMARY
+Հայաստան,2022-3-08,Հայաստան,40.7696272,44.6736646,1,MentionType.PRIMARY
+Қазақстан,2022-3-08,Қазақстан,47.2286086,65.2093197,1,MentionType.PRIMARY
+Тоҷикистон,2022-3-08,Тоҷикистон,38.6281733,70.8156541,1,MentionType.PRIMARY
+Việt Nam,2022-3-08,Việt Nam,13.2904027,108.4265113,1,MentionType.PRIMARY
+Кыргызстан,2022-3-08,Кыргызстан,41.5089324,74.724091,1,MentionType.PRIMARY
+Portugal,2022-3-08,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+Беларусь,2022-3-08,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+Europe,2022-3-08,Europe,51.0,10.0,2,MentionType.PRIMARY
+Chile,2022-3-08,Chile,-31.7613365,-71.3187697,1,MentionType.PRIMARY
+مصر,2022-3-08,مصر,26.2540493,29.2675469,1,MentionType.PRIMARY
+España,2022-3-08,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+Black Sea,2022-3-08,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+Polska,2022-3-08,Polska,52.215933,19.134422,4,MentionType.PRIMARY
+Россия,2022-3-08,Россия,64.6863136,97.7453061,5,MentionType.PRIMARY
+Kenya,2022-3-08,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+France,2022-3-08,France,46.603354,1.8883335,4,MentionType.PRIMARY
+ประเทศไทย,2022-3-08,ประเทศไทย,14.8971921,100.83273,2,MentionType.PRIMARY
+Magyarország,2022-3-08,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+Canada,2022-3-08,Canada,61.0666922,-107.991707,4,MentionType.PRIMARY
+Deutschland,2022-3-08,Deutschland,51.0834196,10.4234469,4,MentionType.PRIMARY
+Slovensko,2022-3-08,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Nederland,2022-3-08,Nederland,52.15517,5.38721,4,MentionType.PRIMARY
+România,2022-3-08,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+Česko,2022-3-08,Česko,49.8167003,15.4749544,3,MentionType.PRIMARY
+Україна,2022-3-08,Україна,49.4871968,31.2718321,19,MentionType.PRIMARY
+United Kingdom,2022-3-08,United Kingdom,54.7023545,-3.2765753,11,MentionType.PRIMARY
+Österreich,2022-3-08,Österreich,47.59397,14.12456,1,MentionType.PRIMARY
+ශ්‍රී ලංකාව இலங்கை,2022-3-08,ශ්‍රී ලංකාව இலங்கை,7.5554942,80.7137847,1,MentionType.PRIMARY
+سوريا,2022-3-08,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+United States,2022-3-08,United States,39.7837304,-100.445882,32,MentionType.PRIMARY
+México,2022-3-01,México,23.6585116,-102.0077097,2,MentionType.PRIMARY
+日本,2022-3-01,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+Latvija,2022-3-01,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+Lietuva,2022-3-01,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Eesti,2022-3-01,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+Sea Of Okhotsk,2022-3-01,Sea Of Okhotsk,55.0,150.0,1,MentionType.PRIMARY
+Burkina Faso,2022-3-01,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+Asia,2022-3-01,Asia,51.2086975,89.2343748,1,MentionType.PRIMARY
+Brasil,2022-3-01,Brasil,-10.3333333,-53.2,3,MentionType.PRIMARY
+Australia,2022-3-01,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+Indonesia,2022-3-01,Indonesia,-2.4833826,117.8902853,1,MentionType.PRIMARY
+Bénin,2022-3-01,Bénin,9.5293472,2.2584408,1,MentionType.PRIMARY
+Moldova,2022-3-01,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+افغانستان,2022-3-01,افغانستان,33.7680065,66.2385139,2,MentionType.PRIMARY
+España,2022-3-01,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+Baltic Sea,2022-3-01,Baltic Sea,56.0,18.0,1,MentionType.PRIMARY
+Sverige,2022-3-01,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Azov Sea,2022-3-01,Azov Sea,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Polska,2022-3-01,Polska,52.215933,19.134422,3,MentionType.PRIMARY
+Česko,2022-3-01,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Бългaрия,2022-3-01,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+Slovensko,2022-3-01,Slovensko,48.7411522,19.4528646,2,MentionType.PRIMARY
+România,2022-3-01,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+ኤርትራ Eritrea إرتريا,2022-3-01,ኤርትራ Eritrea إرتريا,15.9500319,37.9999668,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-01,조선민주주의인민공화국,40.3736611,127.0870417,2,MentionType.PRIMARY
+سوريا,2022-3-01,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+India,2022-3-01,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+United Kingdom,2022-3-01,United Kingdom,54.7023545,-3.2765753,6,MentionType.PRIMARY
+中国,2022-3-01,中国,35.000074,104.999927,2,MentionType.PRIMARY
+Angola,2022-3-01,Angola,-11.8775768,17.5691241,1,MentionType.PRIMARY
+Беларусь,2022-3-01,Беларусь,53.4250605,27.6971358,4,MentionType.PRIMARY
+Black Sea,2022-3-01,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+الإمارات العربية المتحدة,2022-3-01,الإمارات العربية المتحدة,24.0002488,53.9994829,2,MentionType.PRIMARY
+العراق,2022-3-01,العراق,33.0955793,44.1749775,1,MentionType.PRIMARY
+France,2022-3-01,France,46.603354,1.8883335,2,MentionType.PRIMARY
+پاکستان,2022-3-01,پاکستان,30.3308401,71.247499,1,MentionType.PRIMARY
+ישראל,2022-3-01,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+Россия,2022-3-01,Россия,64.6863136,97.7453061,9,MentionType.PRIMARY
+Türkiye,2022-3-01,Türkiye,38.9597594,34.9249653,2,MentionType.PRIMARY
+Europe,2022-3-01,Europe,51.0,10.0,2,MentionType.PRIMARY
+Deutschland,2022-3-01,Deutschland,51.0834196,10.4234469,3,MentionType.PRIMARY
+臺灣,2022-3-01,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-01,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,2,MentionType.PRIMARY
+Canada,2022-3-01,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+Україна,2022-3-01,Україна,49.4871968,31.2718321,11,MentionType.PRIMARY
+United States,2022-3-01,United States,39.7837304,-100.445882,23,MentionType.PRIMARY
+Nederland,2022-3-01,Nederland,52.15517,5.38721,2,MentionType.PRIMARY
+Kenya,2022-3-01,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+Portugal,2022-3-01,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-01,België / Belgique / Belgien,50.6402809,4.6667145,3,MentionType.PRIMARY
+Magyarország,2022-3-01,Magyarország,47.1817585,19.5060937,4,MentionType.PRIMARY
+India,2022-3-06,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+Nederland,2022-3-06,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Србија,2022-3-06,Србија,44.1534121,20.55144,1,MentionType.PRIMARY
+Қазақстан,2022-3-06,Қазақстан,47.2286086,65.2093197,1,MentionType.PRIMARY
+Chile,2022-3-06,Chile,-31.7613365,-71.3187697,1,MentionType.PRIMARY
+ישראל,2022-3-06,ישראל,31.5313113,34.8667654,2,MentionType.PRIMARY
+South Africa,2022-3-06,South Africa,-28.8166236,24.991639,2,MentionType.PRIMARY
+Cayman Islands,2022-3-06,Cayman Islands,19.703182249999998,-79.9174627243246,1,MentionType.PRIMARY
+Северна Македонија,2022-3-06,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر,2022-3-06,Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر,28.0000272,2.9999825,1,MentionType.PRIMARY
+Africa,2022-3-06,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Europe,2022-3-06,Europe,51.0,10.0,2,MentionType.PRIMARY
+Latvija,2022-3-06,Latvija,56.8406494,24.7537645,3,MentionType.PRIMARY
+Deutschland,2022-3-06,Deutschland,51.0834196,10.4234469,2,MentionType.PRIMARY
+Éire / Ireland,2022-3-06,Éire / Ireland,52.865196,-7.9794599,2,MentionType.PRIMARY
+Moldova,2022-3-06,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+Lietuva,2022-3-06,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Canada,2022-3-06,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+United Kingdom,2022-3-06,United Kingdom,54.7023545,-3.2765753,6,MentionType.PRIMARY
+Colombia,2022-3-06,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Black Sea,2022-3-06,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+قطر,2022-3-06,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Türkiye,2022-3-06,Türkiye,38.9597594,34.9249653,2,MentionType.PRIMARY
+Россия,2022-3-06,Россия,64.6863136,97.7453061,7,MentionType.PRIMARY
+Eesti,2022-3-06,Eesti,58.7523778,25.3319078,3,MentionType.PRIMARY
+Беларусь,2022-3-06,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+中国,2022-3-06,中国,35.000074,104.999927,5,MentionType.PRIMARY
+日本,2022-3-06,日本,36.5748441,139.2394179,3,MentionType.PRIMARY
+Australia,2022-3-06,Australia,-24.7761086,134.755,3,MentionType.PRIMARY
+대한민국,2022-3-06,대한민국,36.638392,127.6961188,3,MentionType.PRIMARY
+France,2022-3-06,France,46.603354,1.8883335,8,MentionType.PRIMARY
+Sea Of Azov,2022-3-06,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Česko,2022-3-06,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Polska,2022-3-06,Polska,52.215933,19.134422,4,MentionType.PRIMARY
+Україна,2022-3-06,Україна,49.4871968,31.2718321,20,MentionType.PRIMARY
+Kenya,2022-3-06,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+Honduras,2022-3-06,Honduras,15.2572432,-86.0755145,1,MentionType.PRIMARY
+United States,2022-3-06,United States,39.7837304,-100.445882,11,MentionType.PRIMARY
+Nederland,2022-3-20,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Azov Sea,2022-3-20,Azov Sea,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Madagasikara,2022-3-20,Madagasikara,-18.9249604,46.4416422,1,MentionType.PRIMARY
+Бългaрия,2022-3-20,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+Lietuva,2022-3-20,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-20,België / Belgique / Belgien,50.6402809,4.6667145,3,MentionType.PRIMARY
+India,2022-3-20,India,22.3511148,78.6677428,1,MentionType.PRIMARY
+Türkiye,2022-3-20,Türkiye,38.9597594,34.9249653,4,MentionType.PRIMARY
+France,2022-3-20,France,46.603354,1.8883335,1,MentionType.PRIMARY
+România,2022-3-20,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+Portugal,2022-3-20,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+日本,2022-3-20,日本,36.5748441,139.2394179,3,MentionType.PRIMARY
+Sverige,2022-3-20,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Eesti,2022-3-20,Eesti,58.7523778,25.3319078,2,MentionType.PRIMARY
+Bolivia,2022-3-20,Bolivia,-17.0568696,-64.9912286,1,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-20,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Italia,2022-3-20,Italia,42.6384261,12.674297,1,MentionType.PRIMARY
+الإمارات العربية المتحدة,2022-3-20,الإمارات العربية المتحدة,24.0002488,53.9994829,2,MentionType.PRIMARY
+تونس,2022-3-20,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-20,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+قطر,2022-3-20,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Ecuador,2022-3-20,Ecuador,-1.3397668,-79.3666965,1,MentionType.PRIMARY
+臺灣,2022-3-20,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+Україна,2022-3-20,Україна,49.4871968,31.2718321,30,MentionType.PRIMARY
+Česko,2022-3-20,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Europe,2022-3-20,Europe,51.0,10.0,3,MentionType.PRIMARY
+ישראל,2022-3-20,ישראל,31.5313113,34.8667654,3,MentionType.PRIMARY
+Беларусь,2022-3-20,Беларусь,53.4250605,27.6971358,1,MentionType.PRIMARY
+Deutschland,2022-3-20,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+United Kingdom,2022-3-20,United Kingdom,54.7023545,-3.2765753,5,MentionType.PRIMARY
+Россия,2022-3-20,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+Black Sea,2022-3-20,Black Sea,43.87280435,33.99381558677739,3,MentionType.PRIMARY
+中国,2022-3-20,中国,35.000074,104.999927,4,MentionType.PRIMARY
+United States,2022-3-20,United States,39.7837304,-100.445882,21,MentionType.PRIMARY
+Polska,2022-3-20,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-18,New Zealand / Aotearoa,-41.5000831,172.8344077,2,MentionType.PRIMARY
+Europe,2022-3-18,Europe,51.0,10.0,2,MentionType.PRIMARY
+Nepal,2022-3-18,Nepal,28.31079015,83.71627050465048,1,MentionType.PRIMARY
+Mediterranean Sea,2022-3-18,Mediterranean Sea,35.0000035,19.9999957,1,MentionType.PRIMARY
+Australia,2022-3-18,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+Colombia,2022-3-18,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Česko,2022-3-18,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Norge,2022-3-18,Norge,60.5000209,9.0999715,5,MentionType.PRIMARY
+Madagasikara,2022-3-18,Madagasikara,-18.9249604,46.4416422,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-18,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+Sea Of Azov,2022-3-18,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+الإمارات العربية المتحدة,2022-3-18,الإمارات العربية المتحدة,24.0002488,53.9994829,1,MentionType.PRIMARY
+السعودية,2022-3-18,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+México,2022-3-18,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+تونس,2022-3-18,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-18,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+قطر,2022-3-18,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Ecuador,2022-3-18,Ecuador,-1.3397668,-79.3666965,1,MentionType.PRIMARY
+Pilipinas / Philippines,2022-3-18,Pilipinas / Philippines,12.7503486,122.7312101,1,MentionType.PRIMARY
+Nederland,2022-3-18,Nederland,52.15517,5.38721,3,MentionType.PRIMARY
+臺灣,2022-3-18,臺灣,23.9739374,120.9820179,3,MentionType.PRIMARY
+日本,2022-3-18,日本,36.5748441,139.2394179,4,MentionType.PRIMARY
+سوريا,2022-3-18,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+United States,2022-3-18,United States,39.7837304,-100.445882,27,MentionType.PRIMARY
+中国,2022-3-18,中国,35.000074,104.999927,8,MentionType.PRIMARY
+France,2022-3-18,France,46.603354,1.8883335,5,MentionType.PRIMARY
+Kenya,2022-3-18,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-18,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,2,MentionType.PRIMARY
+Slovensko,2022-3-18,Slovensko,48.7411522,19.4528646,2,MentionType.PRIMARY
+Canada,2022-3-18,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+Беларусь,2022-3-18,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Sverige,2022-3-18,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Россия,2022-3-18,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+Бългaрия,2022-3-18,Бългaрия,42.6073975,25.4856617,3,MentionType.PRIMARY
+Magyarország,2022-3-18,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Polska,2022-3-18,Polska,52.215933,19.134422,8,MentionType.PRIMARY
+Türkiye,2022-3-18,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Deutschland,2022-3-18,Deutschland,51.0834196,10.4234469,6,MentionType.PRIMARY
+Latvija,2022-3-18,Latvija,56.8406494,24.7537645,3,MentionType.PRIMARY
+Eesti,2022-3-18,Eesti,58.7523778,25.3319078,2,MentionType.PRIMARY
+Lietuva,2022-3-18,Lietuva,55.3500003,23.7499997,2,MentionType.PRIMARY
+United Kingdom,2022-3-18,United Kingdom,54.7023545,-3.2765753,8,MentionType.PRIMARY
+Black Sea,2022-3-18,Black Sea,43.87280435,33.99381558677739,3,MentionType.PRIMARY
+India,2022-3-18,India,22.3511148,78.6677428,6,MentionType.PRIMARY
+Україна,2022-3-18,Україна,49.4871968,31.2718321,24,MentionType.PRIMARY
+대한민국,2022-3-27,대한민국,36.638392,127.6961188,2,MentionType.PRIMARY
+ایران,2022-3-27,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+Eesti,2022-3-27,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+India,2022-3-27,India,22.3511148,78.6677428,1,MentionType.PRIMARY
+Pilipinas / Philippines,2022-3-27,Pilipinas / Philippines,12.7503486,122.7312101,1,MentionType.PRIMARY
+Österreich,2022-3-27,Österreich,47.59397,14.12456,1,MentionType.PRIMARY
+ليبيا,2022-3-27,ليبيا,26.8234472,18.1236723,1,MentionType.PRIMARY
+سوريا,2022-3-27,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+South Africa,2022-3-27,South Africa,-28.8166236,24.991639,1,MentionType.PRIMARY
+United Kingdom,2022-3-27,United Kingdom,54.7023545,-3.2765753,3,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-27,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+Бългaрия,2022-3-27,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+España,2022-3-27,España,39.3260685,-4.8379791,2,MentionType.PRIMARY
+Ελλάς,2022-3-27,Ελλάς,38.9953683,21.9877132,1,MentionType.PRIMARY
+Italia,2022-3-27,Italia,42.6384261,12.674297,1,MentionType.PRIMARY
+Portugal,2022-3-27,Portugal,40.0332629,-7.8896263,3,MentionType.PRIMARY
+Беларусь,2022-3-27,Беларусь,53.4250605,27.6971358,1,MentionType.PRIMARY
+Bolivia,2022-3-27,Bolivia,-17.0568696,-64.9912286,1,MentionType.PRIMARY
+日本,2022-3-27,日本,36.5748441,139.2394179,3,MentionType.PRIMARY
+România,2022-3-27,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+Magyarország,2022-3-27,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Black Sea,2022-3-27,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+قطر,2022-3-27,قطر,25.3336984,51.2295295,3,MentionType.PRIMARY
+中国,2022-3-27,中国,35.000074,104.999927,4,MentionType.PRIMARY
+Србија,2022-3-27,Србија,44.1534121,20.55144,1,MentionType.PRIMARY
+السعودية,2022-3-27,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+Deutschland,2022-3-27,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+Kenya,2022-3-27,Kenya,1.4419683,38.4313975,3,MentionType.PRIMARY
+Česko,2022-3-27,Česko,49.8167003,15.4749544,3,MentionType.PRIMARY
+Canada,2022-3-27,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+Türkiye,2022-3-27,Türkiye,38.9597594,34.9249653,7,MentionType.PRIMARY
+France,2022-3-27,France,46.603354,1.8883335,4,MentionType.PRIMARY
+Suomi / Finland,2022-3-27,Suomi / Finland,63.2467777,25.9209164,2,MentionType.PRIMARY
+Россия,2022-3-27,Россия,64.6863136,97.7453061,13,MentionType.PRIMARY
+Polska,2022-3-27,Polska,52.215933,19.134422,6,MentionType.PRIMARY
+ישראל,2022-3-27,ישראל,31.5313113,34.8667654,3,MentionType.PRIMARY
+Nederland,2022-3-27,Nederland,52.15517,5.38721,2,MentionType.PRIMARY
+Moldova,2022-3-27,Moldova,47.2879608,28.5670941,2,MentionType.PRIMARY
+Europe,2022-3-27,Europe,51.0,10.0,3,MentionType.PRIMARY
+United States,2022-3-27,United States,39.7837304,-100.445882,20,MentionType.PRIMARY
+Україна,2022-3-27,Україна,49.4871968,31.2718321,23,MentionType.PRIMARY
+Canada,2022-3-29,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+ישראל,2022-3-29,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+Slovensko,2022-3-29,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Mediterranean Sea,2022-3-29,Mediterranean Sea,35.0000035,19.9999957,1,MentionType.PRIMARY
+Беларусь,2022-3-29,Беларусь,53.4250605,27.6971358,1,MentionType.PRIMARY
+Colombia,2022-3-29,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Северна Македонија,2022-3-29,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-29,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+اليمن,2022-3-29,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+سوريا,2022-3-29,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+မြန်မာ,2022-3-29,မြန်မာ,17.1750495,95.9999652,2,MentionType.PRIMARY
+السودان,2022-3-29,السودان,14.5844444,29.4917691,1,MentionType.PRIMARY
+Ayiti,2022-3-29,Ayiti,19.1399952,-72.3570972,1,MentionType.PRIMARY
+Österreich,2022-3-29,Österreich,47.59397,14.12456,1,MentionType.PRIMARY
+Norge,2022-3-29,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+Eesti,2022-3-29,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+افغانستان,2022-3-29,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+Australia,2022-3-29,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+قطر,2022-3-29,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Бългaрия,2022-3-29,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+Burkina Faso,2022-3-29,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+Rwanda,2022-3-29,Rwanda,-1.9646631,30.0644358,1,MentionType.PRIMARY
+Bosna i Hercegovina / Босна и Херцеговина,2022-3-29,Bosna i Hercegovina / Босна и Херцеговина,44.3053476,17.5961467,1,MentionType.PRIMARY
+India,2022-3-29,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+中国,2022-3-29,中国,35.000074,104.999927,5,MentionType.PRIMARY
+Kenya,2022-3-29,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+Palestinian Territory,2022-3-29,Palestinian Territory,31.462420950000002,34.262716572130714,1,MentionType.PRIMARY
+Africa,2022-3-29,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+France,2022-3-29,France,46.603354,1.8883335,6,MentionType.PRIMARY
+Éire / Ireland,2022-3-29,Éire / Ireland,52.865196,-7.9794599,4,MentionType.PRIMARY
+România,2022-3-29,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+Česko,2022-3-29,Česko,49.8167003,15.4749544,5,MentionType.PRIMARY
+Deutschland,2022-3-29,Deutschland,51.0834196,10.4234469,4,MentionType.PRIMARY
+Singapore,2022-3-29,Singapore,1.357107,103.8194992,2,MentionType.PRIMARY
+Italia,2022-3-29,Italia,42.6384261,12.674297,2,MentionType.PRIMARY
+Россия,2022-3-29,Россия,64.6863136,97.7453061,12,MentionType.PRIMARY
+Κύπρος - Kıbrıs,2022-3-29,Κύπρος - Kıbrıs,34.9823018,33.1451285,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-29,België / Belgique / Belgien,50.6402809,4.6667145,6,MentionType.PRIMARY
+Suomi / Finland,2022-3-29,Suomi / Finland,63.2467777,25.9209164,2,MentionType.PRIMARY
+日本,2022-3-29,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+대한민국,2022-3-29,대한민국,36.638392,127.6961188,1,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-29,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Sverige,2022-3-29,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-29,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,2,MentionType.PRIMARY
+Türkiye,2022-3-29,Türkiye,38.9597594,34.9249653,7,MentionType.PRIMARY
+United States,2022-3-29,United States,39.7837304,-100.445882,19,MentionType.PRIMARY
+Danmark,2022-3-29,Danmark,55.670249,10.3333283,2,MentionType.PRIMARY
+Black Sea,2022-3-29,Black Sea,43.87280435,33.99381558677739,4,MentionType.PRIMARY
+United Kingdom,2022-3-29,United Kingdom,54.7023545,-3.2765753,11,MentionType.PRIMARY
+Lietuva,2022-3-29,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Україна,2022-3-29,Україна,49.4871968,31.2718321,45,MentionType.PRIMARY
+Europe,2022-3-29,Europe,51.0,10.0,3,MentionType.PRIMARY
+Polska,2022-3-29,Polska,52.215933,19.134422,6,MentionType.PRIMARY
+Հայաստան,2022-3-16,Հայաստան,40.7696272,44.6736646,1,MentionType.PRIMARY
+Indonesia,2022-3-16,Indonesia,-2.4833826,117.8902853,1,MentionType.PRIMARY
+Ελλάς,2022-3-16,Ελλάς,38.9953683,21.9877132,1,MentionType.PRIMARY
+Slovensko,2022-3-16,Slovensko,48.7411522,19.4528646,2,MentionType.PRIMARY
+Norge,2022-3-16,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-16,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+Australia,2022-3-16,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+قطر,2022-3-16,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Бългaрия,2022-3-16,Бългaрия,42.6073975,25.4856617,2,MentionType.PRIMARY
+대한민국,2022-3-16,대한민국,36.638392,127.6961188,1,MentionType.PRIMARY
+Portugal,2022-3-16,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+Magyarország,2022-3-16,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Беларусь,2022-3-16,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+Africa,2022-3-16,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+India,2022-3-16,India,22.3511148,78.6677428,1,MentionType.PRIMARY
+Kenya,2022-3-16,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+اليمن,2022-3-16,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+ایران,2022-3-16,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+Panamá,2022-3-16,Panamá,8.559559,-81.1308434,1,MentionType.PRIMARY
+Black Sea,2022-3-16,Black Sea,43.87280435,33.99381558677739,4,MentionType.PRIMARY
+افغانستان,2022-3-16,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+Shqipëria,2022-3-16,Shqipëria,41.000028,19.9999619,1,MentionType.PRIMARY
+中国,2022-3-16,中国,35.000074,104.999927,2,MentionType.PRIMARY
+Canada,2022-3-16,Canada,61.0666922,-107.991707,3,MentionType.PRIMARY
+Sverige,2022-3-16,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+日本,2022-3-16,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+Россия,2022-3-16,Россия,64.6863136,97.7453061,10,MentionType.PRIMARY
+Latvija,2022-3-16,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+România,2022-3-16,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+Europe,2022-3-16,Europe,51.0,10.0,2,MentionType.PRIMARY
+Polska,2022-3-16,Polska,52.215933,19.134422,4,MentionType.PRIMARY
+Slovenija,2022-3-16,Slovenija,45.8133113,14.4808369,1,MentionType.PRIMARY
+Česko,2022-3-16,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Eesti,2022-3-16,Eesti,58.7523778,25.3319078,2,MentionType.PRIMARY
+Україна,2022-3-16,Україна,49.4871968,31.2718321,22,MentionType.PRIMARY
+سوريا,2022-3-16,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+France,2022-3-16,France,46.603354,1.8883335,6,MentionType.PRIMARY
+Nederland,2022-3-16,Nederland,52.15517,5.38721,5,MentionType.PRIMARY
+United Kingdom,2022-3-16,United Kingdom,54.7023545,-3.2765753,9,MentionType.PRIMARY
+Türkiye,2022-3-16,Türkiye,38.9597594,34.9249653,2,MentionType.PRIMARY
+España,2022-3-16,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+臺灣,2022-3-16,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+Italia,2022-3-16,Italia,42.6384261,12.674297,2,MentionType.PRIMARY
+Deutschland,2022-3-16,Deutschland,51.0834196,10.4234469,9,MentionType.PRIMARY
+United States,2022-3-16,United States,39.7837304,-100.445882,23,MentionType.PRIMARY
+Nederland,2022-3-28,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Azərbaycan,2022-3-28,Azərbaycan,40.3936294,47.7872508,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-28,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+سوريا,2022-3-28,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Тоҷикистон,2022-3-28,Тоҷикистон,38.6281733,70.8156541,1,MentionType.PRIMARY
+Беларусь,2022-3-28,Беларусь,53.4250605,27.6971358,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-28,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+Burkina Faso,2022-3-28,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+Ελλάς,2022-3-28,Ελλάς,38.9953683,21.9877132,1,MentionType.PRIMARY
+Canada,2022-3-28,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-28,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,1,MentionType.PRIMARY
+Africa,2022-3-28,Africa,11.5024338,17.7578122,2,MentionType.PRIMARY
+France,2022-3-28,France,46.603354,1.8883335,2,MentionType.PRIMARY
+Asia,2022-3-28,Asia,51.2086975,89.2343748,1,MentionType.PRIMARY
+Shqipëria,2022-3-28,Shqipëria,41.000028,19.9999619,1,MentionType.PRIMARY
+Norge,2022-3-28,Norge,60.5000209,9.0999715,2,MentionType.PRIMARY
+Crna Gora / Црна Гора,2022-3-28,Crna Gora / Црна Гора,42.9868853,19.5180992,1,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-28,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Sverige,2022-3-28,Sverige,59.6749712,14.5208584,4,MentionType.PRIMARY
+Saint Kitts and Nevis,2022-3-28,Saint Kitts and Nevis,17.250512,-62.6725973,1,MentionType.PRIMARY
+Europe,2022-3-28,Europe,51.0,10.0,3,MentionType.PRIMARY
+Australia,2022-3-28,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+قطر,2022-3-28,قطر,25.3336984,51.2295295,2,MentionType.PRIMARY
+عمان,2022-3-28,عمان,21.0000287,57.0036901,1,MentionType.PRIMARY
+Бългaрия,2022-3-28,Бългaрия,42.6073975,25.4856617,2,MentionType.PRIMARY
+Eesti,2022-3-28,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+Latvija,2022-3-28,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+Lietuva,2022-3-28,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Österreich,2022-3-28,Österreich,47.59397,14.12456,2,MentionType.PRIMARY
+Black Sea,2022-3-28,Black Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+Côte d’Ivoire,2022-3-28,Côte d’Ivoire,6.4929499,-6.582576,1,MentionType.PRIMARY
+日本,2022-3-28,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+العراق,2022-3-28,العراق,33.0955793,44.1749775,1,MentionType.PRIMARY
+Северна Македонија,2022-3-28,Северна Македонија,41.6171214,21.7168387,2,MentionType.PRIMARY
+España,2022-3-28,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+Lëtzebuerg,2022-3-28,Lëtzebuerg,49.8158683,6.1296751,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-28,België / Belgique / Belgien,50.6402809,4.6667145,3,MentionType.PRIMARY
+ایران,2022-3-28,ایران,32.6475314,54.5643516,2,MentionType.PRIMARY
+اليمن,2022-3-28,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+تونس,2022-3-28,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+臺灣,2022-3-28,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+Türkiye,2022-3-28,Türkiye,38.9597594,34.9249653,5,MentionType.PRIMARY
+Deutschland,2022-3-28,Deutschland,51.0834196,10.4234469,7,MentionType.PRIMARY
+Polska,2022-3-28,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+Kenya,2022-3-28,Kenya,1.4419683,38.4313975,3,MentionType.PRIMARY
+Portugal,2022-3-28,Portugal,40.0332629,-7.8896263,3,MentionType.PRIMARY
+Србија,2022-3-28,Србија,44.1534121,20.55144,2,MentionType.PRIMARY
+United States,2022-3-28,United States,39.7837304,-100.445882,19,MentionType.PRIMARY
+Italia,2022-3-28,Italia,42.6384261,12.674297,3,MentionType.PRIMARY
+Россия,2022-3-28,Россия,64.6863136,97.7453061,9,MentionType.PRIMARY
+Slovenija,2022-3-28,Slovenija,45.8133113,14.4808369,1,MentionType.PRIMARY
+Česko,2022-3-28,Česko,49.8167003,15.4749544,6,MentionType.PRIMARY
+中国,2022-3-28,中国,35.000074,104.999927,5,MentionType.PRIMARY
+United Kingdom,2022-3-28,United Kingdom,54.7023545,-3.2765753,13,MentionType.PRIMARY
+Україна,2022-3-28,Україна,49.4871968,31.2718321,27,MentionType.PRIMARY
+India,2022-3-28,India,22.3511148,78.6677428,3,MentionType.PRIMARY
+대한민국,2022-3-28,대한민국,36.638392,127.6961188,4,MentionType.PRIMARY
+대한민국,2022-3-17,대한민국,36.638392,127.6961188,2,MentionType.PRIMARY
+România,2022-3-17,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+العراق,2022-3-17,العراق,33.0955793,44.1749775,1,MentionType.PRIMARY
+افغانستان,2022-3-17,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+ኢትዮጵያ,2022-3-17,ኢትዮጵያ,10.2116702,38.6521203,1,MentionType.PRIMARY
+اليمن,2022-3-17,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+ישראל,2022-3-17,ישראל,31.5313113,34.8667654,4,MentionType.PRIMARY
+México,2022-3-17,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-17,België / Belgique / Belgien,50.6402809,4.6667145,1,MentionType.PRIMARY
+ایران,2022-3-17,ایران,32.6475314,54.5643516,2,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-17,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+Africa,2022-3-17,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Sverige,2022-3-17,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Österreich,2022-3-17,Österreich,47.59397,14.12456,1,MentionType.PRIMARY
+سوريا,2022-3-17,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+Shqipëria,2022-3-17,Shqipëria,41.000028,19.9999619,1,MentionType.PRIMARY
+Бългaрия,2022-3-17,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+Madagasikara,2022-3-17,Madagasikara,-18.9249604,46.4416422,1,MentionType.PRIMARY
+Nigeria,2022-3-17,Nigeria,9.6000359,7.9999721,1,MentionType.PRIMARY
+السودان,2022-3-17,السودان,14.5844444,29.4917691,3,MentionType.PRIMARY
+日本,2022-3-17,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+Latvija,2022-3-17,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-17,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Éire / Ireland,2022-3-17,Éire / Ireland,52.865196,-7.9794599,2,MentionType.PRIMARY
+Black Sea,2022-3-17,Black Sea,43.87280435,33.99381558677739,3,MentionType.PRIMARY
+Colombia,2022-3-17,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Κύπρος - Kıbrıs,2022-3-17,Κύπρος - Kıbrıs,34.9823018,33.1451285,1,MentionType.PRIMARY
+Australia,2022-3-17,Australia,-24.7761086,134.755,5,MentionType.PRIMARY
+السعودية,2022-3-17,السعودية,25.6242618,42.3528328,2,MentionType.PRIMARY
+الأردن,2022-3-17,الأردن,31.1667049,36.941628,1,MentionType.PRIMARY
+Canada,2022-3-17,Canada,61.0666922,-107.991707,3,MentionType.PRIMARY
+বাংলাদেশ,2022-3-17,বাংলাদেশ,24.4769288,90.2934413,1,MentionType.PRIMARY
+Kenya,2022-3-17,Kenya,1.4419683,38.4313975,3,MentionType.PRIMARY
+Беларусь,2022-3-17,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+中国,2022-3-17,中国,35.000074,104.999927,6,MentionType.PRIMARY
+Europe,2022-3-17,Europe,51.0,10.0,3,MentionType.PRIMARY
+Italia,2022-3-17,Italia,42.6384261,12.674297,3,MentionType.PRIMARY
+Россия,2022-3-17,Россия,64.6863136,97.7453061,11,MentionType.PRIMARY
+Slovensko,2022-3-17,Slovensko,48.7411522,19.4528646,4,MentionType.PRIMARY
+Северна Македонија,2022-3-17,Северна Македонија,41.6171214,21.7168387,2,MentionType.PRIMARY
+Oʻzbekiston,2022-3-17,Oʻzbekiston,41.32373,63.9528098,1,MentionType.PRIMARY
+Lietuva,2022-3-17,Lietuva,55.3500003,23.7499997,2,MentionType.PRIMARY
+France,2022-3-17,France,46.603354,1.8883335,3,MentionType.PRIMARY
+Nederland,2022-3-17,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Norge,2022-3-17,Norge,60.5000209,9.0999715,2,MentionType.PRIMARY
+Portugal,2022-3-17,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+United Kingdom,2022-3-17,United Kingdom,54.7023545,-3.2765753,10,MentionType.PRIMARY
+Deutschland,2022-3-17,Deutschland,51.0834196,10.4234469,11,MentionType.PRIMARY
+España,2022-3-17,España,39.3260685,-4.8379791,2,MentionType.PRIMARY
+Slovenija,2022-3-17,Slovenija,45.8133113,14.4808369,1,MentionType.PRIMARY
+Eesti,2022-3-17,Eesti,58.7523778,25.3319078,2,MentionType.PRIMARY
+Nepal,2022-3-17,Nepal,26.4682942,87.2863365,1,MentionType.PRIMARY
+United States,2022-3-17,United States,39.7837304,-100.445882,37,MentionType.PRIMARY
+Türkiye,2022-3-17,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-17,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+Česko,2022-3-17,Česko,49.8167003,15.4749544,3,MentionType.PRIMARY
+Polska,2022-3-17,Polska,52.215933,19.134422,6,MentionType.PRIMARY
+Україна,2022-3-17,Україна,49.4871968,31.2718321,33,MentionType.PRIMARY
+日本,2022-3-19,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+Canada,2022-3-19,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-19,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+Česko,2022-3-19,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+الإمارات العربية المتحدة,2022-3-19,الإمارات العربية المتحدة,24.0002488,53.9994829,1,MentionType.PRIMARY
+România,2022-3-19,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Moldova,2022-3-19,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+ישראל,2022-3-19,ישראל,31.5313113,34.8667654,3,MentionType.PRIMARY
+قطر,2022-3-19,قطر,25.3336984,51.2295295,2,MentionType.PRIMARY
+Türkiye,2022-3-19,Türkiye,38.9597594,34.9249653,6,MentionType.PRIMARY
+Civitas Vaticana - Città del Vaticano,2022-3-19,Civitas Vaticana - Città del Vaticano,41.903411,12.4528527,1,MentionType.PRIMARY
+Italia,2022-3-19,Italia,42.6384261,12.674297,3,MentionType.PRIMARY
+Беларусь,2022-3-19,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+Australia,2022-3-19,Australia,-24.7761086,134.755,2,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-19,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,3,MentionType.PRIMARY
+Cuba,2022-3-19,Cuba,23.0131338,-80.8328748,1,MentionType.PRIMARY
+العراق,2022-3-19,العراق,33.0955793,44.1749775,1,MentionType.PRIMARY
+سوريا,2022-3-19,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+افغانستان,2022-3-19,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+تونس,2022-3-19,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-19,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+Ecuador,2022-3-19,Ecuador,-1.3397668,-79.3666965,1,MentionType.PRIMARY
+臺灣,2022-3-19,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+中国,2022-3-19,中国,35.000074,104.999927,8,MentionType.PRIMARY
+Deutschland,2022-3-19,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+United States,2022-3-19,United States,39.7837304,-100.445882,20,MentionType.PRIMARY
+Kenya,2022-3-19,Kenya,1.4419683,38.4313975,3,MentionType.PRIMARY
+France,2022-3-19,France,46.603354,1.8883335,3,MentionType.PRIMARY
+Europe,2022-3-19,Europe,51.0,10.0,3,MentionType.PRIMARY
+Polska,2022-3-19,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+Кыргызстан,2022-3-19,Кыргызстан,41.5089324,74.724091,1,MentionType.PRIMARY
+Lëtzebuerg,2022-3-19,Lëtzebuerg,49.8158683,6.1296751,2,MentionType.PRIMARY
+India,2022-3-19,India,22.3511148,78.6677428,3,MentionType.PRIMARY
+Россия,2022-3-19,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+Azov Sea,2022-3-19,Azov Sea,46.196729,36.73570655151333,2,MentionType.PRIMARY
+Бългaрия,2022-3-19,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+Madagasikara,2022-3-19,Madagasikara,-18.9249604,46.4416422,1,MentionType.PRIMARY
+Қазақстан,2022-3-19,Қазақстан,47.2286086,65.2093197,1,MentionType.PRIMARY
+United Kingdom,2022-3-19,United Kingdom,54.7023545,-3.2765753,10,MentionType.PRIMARY
+Україна,2022-3-19,Україна,49.4871968,31.2718321,28,MentionType.PRIMARY
+Liechtenstein,2022-3-19,Liechtenstein,47.1416307,9.5531527,1,MentionType.PRIMARY
+Black Sea,2022-3-19,Black Sea,43.87280435,33.99381558677739,5,MentionType.PRIMARY
+Ayiti,2022-3-26,Ayiti,19.1399952,-72.3570972,1,MentionType.PRIMARY
+Asia,2022-3-26,Asia,51.2086975,89.2343748,1,MentionType.PRIMARY
+Suomi / Finland,2022-3-26,Suomi / Finland,63.2467777,25.9209164,1,MentionType.PRIMARY
+Lietuva,2022-3-26,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Türkiye,2022-3-26,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Kenya,2022-3-26,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+Беларусь,2022-3-26,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Civitas Vaticana - Città del Vaticano,2022-3-26,Civitas Vaticana - Città del Vaticano,41.903411,12.4528527,1,MentionType.PRIMARY
+Italia,2022-3-26,Italia,42.6384261,12.674297,1,MentionType.PRIMARY
+Portugal,2022-3-26,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+France,2022-3-26,France,46.603354,1.8883335,4,MentionType.PRIMARY
+ישראל,2022-3-26,ישראל,31.5313113,34.8667654,2,MentionType.PRIMARY
+سوريا,2022-3-26,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+ليبيا,2022-3-26,ليبيا,26.8234472,18.1236723,1,MentionType.PRIMARY
+España,2022-3-26,España,39.3260685,-4.8379791,2,MentionType.PRIMARY
+Black Sea,2022-3-26,Black Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+Slovensko,2022-3-26,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+România,2022-3-26,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+Éire / Ireland,2022-3-26,Éire / Ireland,52.865196,-7.9794599,1,MentionType.PRIMARY
+Danmark,2022-3-26,Danmark,55.670249,10.3333283,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-26,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+الإمارات العربية المتحدة,2022-3-26,الإمارات العربية المتحدة,24.0002488,53.9994829,1,MentionType.PRIMARY
+United Kingdom,2022-3-26,United Kingdom,54.7023545,-3.2765753,8,MentionType.PRIMARY
+پاکستان,2022-3-26,پاکستان,30.3308401,71.247499,1,MentionType.PRIMARY
+Česko,2022-3-26,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Chile,2022-3-26,Chile,-31.7613365,-71.3187697,2,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-26,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+Polska,2022-3-26,Polska,52.215933,19.134422,6,MentionType.PRIMARY
+Canada,2022-3-26,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+中国,2022-3-26,中国,35.000074,104.999927,3,MentionType.PRIMARY
+Europe,2022-3-26,Europe,51.0,10.0,4,MentionType.PRIMARY
+Colombia,2022-3-26,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Россия,2022-3-26,Россия,64.6863136,97.7453061,12,MentionType.PRIMARY
+日本,2022-3-26,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+قطر,2022-3-26,قطر,25.3336984,51.2295295,4,MentionType.PRIMARY
+Magyarország,2022-3-26,Magyarország,47.1817585,19.5060937,4,MentionType.PRIMARY
+Україна,2022-3-26,Україна,49.4871968,31.2718321,16,MentionType.PRIMARY
+Deutschland,2022-3-26,Deutschland,51.0834196,10.4234469,7,MentionType.PRIMARY
+Nederland,2022-3-26,Nederland,52.15517,5.38721,2,MentionType.PRIMARY
+United States,2022-3-26,United States,39.7837304,-100.445882,15,MentionType.PRIMARY
+Lietuva,2022-3-21,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Ghana,2022-3-21,Ghana,8.0300284,-1.0800271,1,MentionType.PRIMARY
+Nigeria,2022-3-21,Nigeria,9.6000359,7.9999721,1,MentionType.PRIMARY
+Burkina Faso,2022-3-21,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+Беларусь,2022-3-21,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Kenya,2022-3-21,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+Türkiye,2022-3-21,Türkiye,38.9597594,34.9249653,2,MentionType.PRIMARY
+Magyarország,2022-3-21,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+România,2022-3-21,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-21,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-21,조선민주주의인민공화국,40.3736611,127.0870417,2,MentionType.PRIMARY
+France,2022-3-21,France,46.603354,1.8883335,6,MentionType.PRIMARY
+لبنان,2022-3-21,لبنان,33.8750629,35.843409,1,MentionType.PRIMARY
+مصر,2022-3-21,مصر,26.2540493,29.2675469,1,MentionType.PRIMARY
+اليمن,2022-3-21,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+Тоҷикистон,2022-3-21,Тоҷикистон,38.6281733,70.8156541,1,MentionType.PRIMARY
+日本,2022-3-21,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+Österreich,2022-3-21,Österreich,47.59397,14.12456,1,MentionType.PRIMARY
+Canada,2022-3-21,Canada,61.0666922,-107.991707,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-21,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+México,2022-3-21,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+South Africa,2022-3-21,South Africa,-28.8166236,24.991639,2,MentionType.PRIMARY
+Black Sea,2022-3-21,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+ایران,2022-3-21,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+السعودية,2022-3-21,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+الإمارات العربية المتحدة,2022-3-21,الإمارات العربية المتحدة,24.0002488,53.9994829,2,MentionType.PRIMARY
+تونس,2022-3-21,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+قطر,2022-3-21,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Ecuador,2022-3-21,Ecuador,-1.3397668,-79.3666965,1,MentionType.PRIMARY
+臺灣,2022-3-21,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+Россия,2022-3-21,Россия,64.6863136,97.7453061,7,MentionType.PRIMARY
+Deutschland,2022-3-21,Deutschland,51.0834196,10.4234469,10,MentionType.PRIMARY
+Nederland,2022-3-21,Nederland,52.15517,5.38721,3,MentionType.PRIMARY
+افغانستان,2022-3-21,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+سوريا,2022-3-21,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Portugal,2022-3-21,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+ישראל,2022-3-21,ישראל,31.5313113,34.8667654,3,MentionType.PRIMARY
+Бългaрия,2022-3-21,Бългaрия,42.6073975,25.4856617,2,MentionType.PRIMARY
+Slovensko,2022-3-21,Slovensko,48.7411522,19.4528646,2,MentionType.PRIMARY
+Italia,2022-3-21,Italia,42.6384261,12.674297,3,MentionType.PRIMARY
+Europe,2022-3-21,Europe,51.0,10.0,3,MentionType.PRIMARY
+Latvija,2022-3-21,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+United States,2022-3-21,United States,39.7837304,-100.445882,23,MentionType.PRIMARY
+India,2022-3-21,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+Slovenija,2022-3-21,Slovenija,45.8133113,14.4808369,1,MentionType.PRIMARY
+Česko,2022-3-21,Česko,49.8167003,15.4749544,4,MentionType.PRIMARY
+United Kingdom,2022-3-21,United Kingdom,54.7023545,-3.2765753,11,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-21,België / Belgique / Belgien,50.6402809,4.6667145,4,MentionType.PRIMARY
+Polska,2022-3-21,Polska,52.215933,19.134422,6,MentionType.PRIMARY
+Україна,2022-3-21,Україна,49.4871968,31.2718321,48,MentionType.PRIMARY
+中国,2022-3-21,中国,35.000074,104.999927,2,MentionType.PRIMARY
+Česko,2022-3-31,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Κύπρος - Kıbrıs,2022-3-31,Κύπρος - Kıbrıs,34.9823018,33.1451285,1,MentionType.PRIMARY
+Mediterranean Sea,2022-3-31,Mediterranean Sea,35.0000035,19.9999957,1,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-31,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Nederland,2022-3-31,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Ελλάς,2022-3-31,Ελλάς,38.9953683,21.9877132,2,MentionType.PRIMARY
+Portugal,2022-3-31,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+Беларусь,2022-3-31,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+India,2022-3-31,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+افغانستان,2022-3-31,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+Kenya,2022-3-31,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+Moldova,2022-3-31,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+România,2022-3-31,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+Deutschland,2022-3-31,Deutschland,51.0834196,10.4234469,4,MentionType.PRIMARY
+Europe,2022-3-31,Europe,51.0,10.0,2,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-31,België / Belgique / Belgien,50.6402809,4.6667145,3,MentionType.PRIMARY
+United Kingdom,2022-3-31,United Kingdom,54.7023545,-3.2765753,7,MentionType.PRIMARY
+سوريا,2022-3-31,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-31,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,1,MentionType.PRIMARY
+Africa,2022-3-31,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Australia,2022-3-31,Australia,-24.7761086,134.755,3,MentionType.PRIMARY
+Türkiye,2022-3-31,Türkiye,38.9597594,34.9249653,4,MentionType.PRIMARY
+France,2022-3-31,France,46.603354,1.8883335,5,MentionType.PRIMARY
+中国,2022-3-31,中国,35.000074,104.999927,2,MentionType.PRIMARY
+Polska,2022-3-31,Polska,52.215933,19.134422,2,MentionType.PRIMARY
+Україна,2022-3-31,Україна,49.4871968,31.2718321,16,MentionType.PRIMARY
+Norge,2022-3-31,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+Россия,2022-3-31,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+United States,2022-3-31,United States,39.7837304,-100.445882,16,MentionType.PRIMARY
+Nederland,2022-3-30,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Kenya,2022-3-30,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+سوريا,2022-3-30,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Қазақстан,2022-3-30,Қазақстан,47.2286086,65.2093197,1,MentionType.PRIMARY
+Lëtzebuerg,2022-3-30,Lëtzebuerg,49.8158683,6.1296751,1,MentionType.PRIMARY
+Eesti,2022-3-30,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+Северна Македонија,2022-3-30,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+Moldova,2022-3-30,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+Österreich,2022-3-30,Österreich,47.59397,14.12456,2,MentionType.PRIMARY
+Canada,2022-3-30,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+Black Sea,2022-3-30,Black Sea,43.87280435,33.99381558677739,2,MentionType.PRIMARY
+Europe,2022-3-30,Europe,51.0,10.0,2,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-30,België / Belgique / Belgien,50.6402809,4.6667145,2,MentionType.PRIMARY
+قطر,2022-3-30,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Lietuva,2022-3-30,Lietuva,55.3500003,23.7499997,2,MentionType.PRIMARY
+Latvija,2022-3-30,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+Norge,2022-3-30,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+Кыргызстан,2022-3-30,Кыргызстан,41.5089324,74.724091,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-30,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,2,MentionType.PRIMARY
+Asia,2022-3-30,Asia,51.2086975,89.2343748,1,MentionType.PRIMARY
+საქართველო,2022-3-30,საქართველო,41.6809707,44.0287382,1,MentionType.PRIMARY
+Hrvatska,2022-3-30,Hrvatska,45.5643442,17.0118954,1,MentionType.PRIMARY
+Chile,2022-3-30,Chile,-31.7613365,-71.3187697,2,MentionType.PRIMARY
+India,2022-3-30,India,22.3511148,78.6677428,3,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-30,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-30,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,2,MentionType.PRIMARY
+Africa,2022-3-30,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Australia,2022-3-30,Australia,-24.7761086,134.755,3,MentionType.PRIMARY
+Portugal,2022-3-30,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+Беларусь,2022-3-30,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Türkiye,2022-3-30,Türkiye,38.9597594,34.9249653,6,MentionType.PRIMARY
+Polska,2022-3-30,Polska,52.215933,19.134422,3,MentionType.PRIMARY
+中国,2022-3-30,中国,35.000074,104.999927,3,MentionType.PRIMARY
+United States,2022-3-30,United States,39.7837304,-100.445882,24,MentionType.PRIMARY
+Россия,2022-3-30,Россия,64.6863136,97.7453061,16,MentionType.PRIMARY
+Deutschland,2022-3-30,Deutschland,51.0834196,10.4234469,9,MentionType.PRIMARY
+United Kingdom,2022-3-30,United Kingdom,54.7023545,-3.2765753,11,MentionType.PRIMARY
+France,2022-3-30,France,46.603354,1.8883335,5,MentionType.PRIMARY
+Україна,2022-3-30,Україна,49.4871968,31.2718321,31,MentionType.PRIMARY
+România,2022-3-30,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Česko,2022-3-30,Česko,49.8167003,15.4749544,4,MentionType.PRIMARY
+Slovensko,2022-3-30,Slovensko,48.7411522,19.4528646,2,MentionType.PRIMARY
+Magyarország,2022-3-30,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+Azov Sea,2022-3-24,Azov Sea,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Djibouti جيبوتي,2022-3-24,Djibouti جيبوتي,11.8145966,42.8453061,1,MentionType.PRIMARY
+Северна Македонија,2022-3-24,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+Asia,2022-3-24,Asia,51.2086975,89.2343748,1,MentionType.PRIMARY
+Africa,2022-3-24,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Norge,2022-3-24,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+Moldova,2022-3-24,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+Slovensko,2022-3-24,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Nepal,2022-3-24,Nepal,26.4682942,87.2863365,1,MentionType.PRIMARY
+România,2022-3-24,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Shqipëria,2022-3-24,Shqipëria,41.000028,19.9999619,1,MentionType.PRIMARY
+Бългaрия,2022-3-24,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+Latvija,2022-3-24,Latvija,56.8406494,24.7537645,1,MentionType.PRIMARY
+España,2022-3-24,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+Кыргызстан,2022-3-24,Кыргызстан,41.5089324,74.724091,1,MentionType.PRIMARY
+Ελλάς,2022-3-24,Ελλάς,38.9953683,21.9877132,2,MentionType.PRIMARY
+México,2022-3-24,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-24,Sea Of Azov,46.196729,36.73570655151333,2,MentionType.PRIMARY
+France,2022-3-24,France,46.603354,1.8883335,4,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-24,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+ประเทศไทย,2022-3-24,ประเทศไทย,14.8971921,100.83273,1,MentionType.PRIMARY
+Panamá,2022-3-24,Panamá,8.559559,-81.1308434,1,MentionType.PRIMARY
+Liberia,2022-3-24,Liberia,5.7499721,-9.3658524,1,MentionType.PRIMARY
+臺灣,2022-3-24,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+日本,2022-3-24,日本,36.5748441,139.2394179,3,MentionType.PRIMARY
+Magyarország,2022-3-24,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+Česko,2022-3-24,Česko,49.8167003,15.4749544,3,MentionType.PRIMARY
+Australia,2022-3-24,Australia,-24.7761086,134.755,2,MentionType.PRIMARY
+Österreich,2022-3-24,Österreich,47.59397,14.12456,1,MentionType.PRIMARY
+Canada,2022-3-24,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+Burkina Faso,2022-3-24,Burkina Faso,12.0753083,-1.6880314,1,MentionType.PRIMARY
+ایران,2022-3-24,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+ישראל,2022-3-24,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+Palestinian Territory,2022-3-24,Palestinian Territory,32.0254688,35.2888075,1,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-24,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,1,MentionType.PRIMARY
+Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر,2022-3-24,Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر,28.0000272,2.9999825,1,MentionType.PRIMARY
+تونس,2022-3-24,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-24,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+قطر,2022-3-24,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Беларусь,2022-3-24,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-24,België / Belgique / Belgien,50.6402809,4.6667145,5,MentionType.PRIMARY
+Europe,2022-3-24,Europe,51.0,10.0,3,MentionType.PRIMARY
+Indonesia,2022-3-24,Indonesia,-2.4833826,117.8902853,3,MentionType.PRIMARY
+سوريا,2022-3-24,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-24,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+ኤርትራ Eritrea إرتريا,2022-3-24,ኤርትራ Eritrea إرتريا,15.9500319,37.9999668,1,MentionType.PRIMARY
+中国,2022-3-24,中国,35.000074,104.999927,7,MentionType.PRIMARY
+Italia,2022-3-24,Italia,42.6384261,12.674297,4,MentionType.PRIMARY
+Kenya,2022-3-24,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+Polska,2022-3-24,Polska,52.215933,19.134422,6,MentionType.PRIMARY
+Türkiye,2022-3-24,Türkiye,38.9597594,34.9249653,4,MentionType.PRIMARY
+Deutschland,2022-3-24,Deutschland,51.0834196,10.4234469,8,MentionType.PRIMARY
+United Kingdom,2022-3-24,United Kingdom,54.7023545,-3.2765753,9,MentionType.PRIMARY
+Россия,2022-3-24,Россия,64.6863136,97.7453061,10,MentionType.PRIMARY
+Black Sea,2022-3-24,Black Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+Україна,2022-3-24,Україна,49.4871968,31.2718321,30,MentionType.PRIMARY
+Portugal,2022-3-24,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+United States,2022-3-24,United States,39.7837304,-100.445882,23,MentionType.PRIMARY
+Australia,2022-3-23,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+Nigeria,2022-3-23,Nigeria,9.6000359,7.9999721,1,MentionType.PRIMARY
+South America,2022-3-23,South America,-21.0002179,-61.0006565,1,MentionType.PRIMARY
+Ecuador,2022-3-23,Ecuador,-1.3397668,-79.3666965,2,MentionType.PRIMARY
+Colombia,2022-3-23,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Brasil,2022-3-23,Brasil,-10.3333333,-53.2,1,MentionType.PRIMARY
+España,2022-3-23,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+ኢትዮጵያ,2022-3-23,ኢትዮጵያ,10.2116702,38.6521203,1,MentionType.PRIMARY
+سوريا,2022-3-23,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+ليبيا,2022-3-23,ليبيا,26.8234472,18.1236723,1,MentionType.PRIMARY
+Moldova,2022-3-23,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-23,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+ኤርትራ Eritrea إرتريا,2022-3-23,ኤርትራ Eritrea إرتريا,15.9500319,37.9999668,1,MentionType.PRIMARY
+Беларусь,2022-3-23,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+Северна Македонија,2022-3-23,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+Eesti,2022-3-23,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+Lietuva,2022-3-23,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Malawi,2022-3-23,Malawi,-13.2687204,33.9301963,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-23,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+ประเทศไทย,2022-3-23,ประเทศไทย,14.8971921,100.83273,1,MentionType.PRIMARY
+Türkiye,2022-3-23,Türkiye,38.9597594,34.9249653,1,MentionType.PRIMARY
+Azov Sea,2022-3-23,Azov Sea,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-23,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+日本,2022-3-23,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+Europe,2022-3-23,Europe,51.0,10.0,3,MentionType.PRIMARY
+中国,2022-3-23,中国,35.000074,104.999927,4,MentionType.PRIMARY
+Россия,2022-3-23,Россия,64.6863136,97.7453061,10,MentionType.PRIMARY
+Suomi / Finland,2022-3-23,Suomi / Finland,63.2467777,25.9209164,1,MentionType.PRIMARY
+Canada,2022-3-23,Canada,61.0666922,-107.991707,3,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-23,België / Belgique / Belgien,50.6402809,4.6667145,7,MentionType.PRIMARY
+Kenya,2022-3-23,Kenya,1.4419683,38.4313975,3,MentionType.PRIMARY
+Italia,2022-3-23,Italia,42.6384261,12.674297,4,MentionType.PRIMARY
+Norge,2022-3-23,Norge,60.5000209,9.0999715,2,MentionType.PRIMARY
+Česko,2022-3-23,Česko,49.8167003,15.4749544,3,MentionType.PRIMARY
+Бългaрия,2022-3-23,Бългaрия,42.6073975,25.4856617,3,MentionType.PRIMARY
+Magyarország,2022-3-23,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+România,2022-3-23,România,45.9852129,24.6859225,3,MentionType.PRIMARY
+Slovensko,2022-3-23,Slovensko,48.7411522,19.4528646,3,MentionType.PRIMARY
+Black Sea,2022-3-23,Black Sea,43.87280435,33.99381558677739,3,MentionType.PRIMARY
+Polska,2022-3-23,Polska,52.215933,19.134422,4,MentionType.PRIMARY
+France,2022-3-23,France,46.603354,1.8883335,5,MentionType.PRIMARY
+Indonesia,2022-3-23,Indonesia,-2.4833826,117.8902853,5,MentionType.PRIMARY
+افغانستان,2022-3-23,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+Тоҷикистон,2022-3-23,Тоҷикистон,38.6281733,70.8156541,1,MentionType.PRIMARY
+Latvija,2022-3-23,Latvija,56.8406494,24.7537645,2,MentionType.PRIMARY
+United States,2022-3-23,United States,39.7837304,-100.445882,26,MentionType.PRIMARY
+United Kingdom,2022-3-23,United Kingdom,54.7023545,-3.2765753,10,MentionType.PRIMARY
+Deutschland,2022-3-23,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+Portugal,2022-3-23,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+Україна,2022-3-23,Україна,49.4871968,31.2718321,29,MentionType.PRIMARY
+مصر,2022-3-15,مصر,26.2540493,29.2675469,1,MentionType.PRIMARY
+Κύπρος - Kıbrıs,2022-3-15,Κύπρος - Kıbrıs,34.9823018,33.1451285,1,MentionType.PRIMARY
+Pilipinas / Philippines,2022-3-15,Pilipinas / Philippines,12.7503486,122.7312101,1,MentionType.PRIMARY
+México,2022-3-15,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+Éire / Ireland,2022-3-15,Éire / Ireland,52.865196,-7.9794599,1,MentionType.PRIMARY
+Australia,2022-3-15,Australia,-24.7761086,134.755,2,MentionType.PRIMARY
+Italia,2022-3-15,Italia,42.6384261,12.674297,2,MentionType.PRIMARY
+日本,2022-3-15,日本,36.5748441,139.2394179,1,MentionType.PRIMARY
+Kenya,2022-3-15,Kenya,1.4419683,38.4313975,1,MentionType.PRIMARY
+پاکستان,2022-3-15,پاکستان,30.3308401,71.247499,1,MentionType.PRIMARY
+Moldova,2022-3-15,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+Chile,2022-3-15,Chile,-31.7613365,-71.3187697,1,MentionType.PRIMARY
+Հայաստան,2022-3-15,Հայաստան,40.7696272,44.6736646,1,MentionType.PRIMARY
+سوريا,2022-3-15,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Северна Македонија,2022-3-15,Северна Македонија,41.6171214,21.7168387,1,MentionType.PRIMARY
+Bosna i Hercegovina / Босна и Херцеговина,2022-3-15,Bosna i Hercegovina / Босна и Херцеговина,44.3053476,17.5961467,1,MentionType.PRIMARY
+4Th Russian,2022-3-15,4Th Russian,61.2187585,-149.8007104,1,MentionType.PRIMARY
+السعودية,2022-3-15,السعودية,25.6242618,42.3528328,3,MentionType.PRIMARY
+الإمارات العربية المتحدة,2022-3-15,الإمارات العربية المتحدة,24.0002488,53.9994829,2,MentionType.PRIMARY
+Black Sea,2022-3-15,Black Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+تونس,2022-3-15,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-15,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+قطر,2022-3-15,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Ecuador,2022-3-15,Ecuador,-1.3397668,-79.3666965,1,MentionType.PRIMARY
+Europe,2022-3-15,Europe,51.0,10.0,3,MentionType.PRIMARY
+Österreich,2022-3-15,Österreich,47.59397,14.12456,3,MentionType.PRIMARY
+Polska,2022-3-15,Polska,52.215933,19.134422,3,MentionType.PRIMARY
+Беларусь,2022-3-15,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+ایران,2022-3-15,ایران,32.6475314,54.5643516,2,MentionType.PRIMARY
+Canada,2022-3-15,Canada,61.0666922,-107.991707,4,MentionType.PRIMARY
+臺灣,2022-3-15,臺灣,23.9739374,120.9820179,3,MentionType.PRIMARY
+中国,2022-3-15,中国,35.000074,104.999927,4,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-15,België / Belgique / Belgien,50.6402809,4.6667145,5,MentionType.PRIMARY
+France,2022-3-15,France,46.603354,1.8883335,3,MentionType.PRIMARY
+Nederland,2022-3-15,Nederland,52.15517,5.38721,4,MentionType.PRIMARY
+Norge,2022-3-15,Norge,60.5000209,9.0999715,2,MentionType.PRIMARY
+Türkiye,2022-3-15,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Deutschland,2022-3-15,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+España,2022-3-15,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+Slovenija,2022-3-15,Slovenija,45.8133113,14.4808369,3,MentionType.PRIMARY
+Sverige,2022-3-15,Sverige,59.6749712,14.5208584,2,MentionType.PRIMARY
+Suomi / Finland,2022-3-15,Suomi / Finland,63.2467777,25.9209164,2,MentionType.PRIMARY
+Россия,2022-3-15,Россия,64.6863136,97.7453061,10,MentionType.PRIMARY
+România,2022-3-15,România,45.9852129,24.6859225,5,MentionType.PRIMARY
+Portugal,2022-3-15,Portugal,40.0332629,-7.8896263,5,MentionType.PRIMARY
+Česko,2022-3-15,Česko,49.8167003,15.4749544,5,MentionType.PRIMARY
+ישראל,2022-3-15,ישראל,31.5313113,34.8667654,2,MentionType.PRIMARY
+United States,2022-3-15,United States,39.7837304,-100.445882,23,MentionType.PRIMARY
+Україна,2022-3-15,Україна,49.4871968,31.2718321,24,MentionType.PRIMARY
+Eesti,2022-3-15,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+United Kingdom,2022-3-15,United Kingdom,54.7023545,-3.2765753,16,MentionType.PRIMARY
+Magyarország,2022-3-15,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Slovensko,2022-3-15,Slovensko,48.7411522,19.4528646,2,MentionType.PRIMARY
+Portugal,2022-3-12,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-12,België / Belgique / Belgien,50.6402809,4.6667145,1,MentionType.PRIMARY
+Беларусь,2022-3-12,Беларусь,53.4250605,27.6971358,1,MentionType.PRIMARY
+臺灣,2022-3-12,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+ایران,2022-3-12,ایران,32.6475314,54.5643516,2,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-12,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-12,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+Česko,2022-3-12,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+Ελλάς,2022-3-12,Ελλάς,38.9953683,21.9877132,1,MentionType.PRIMARY
+Nepal,2022-3-12,Nepal,28.0385572,83.13732865224037,1,MentionType.PRIMARY
+Civitas Vaticana - Città del Vaticano,2022-3-12,Civitas Vaticana - Città del Vaticano,41.903411,12.4528527,1,MentionType.PRIMARY
+قطر,2022-3-12,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+United Kingdom,2022-3-12,United Kingdom,54.7023545,-3.2765753,5,MentionType.PRIMARY
+Nederland,2022-3-12,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-12,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,1,MentionType.PRIMARY
+Sverige,2022-3-12,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Suomi / Finland,2022-3-12,Suomi / Finland,63.2467777,25.9209164,1,MentionType.PRIMARY
+Black Sea,2022-3-12,Black Sea,43.87280435,33.99381558677739,1,MentionType.PRIMARY
+México,2022-3-12,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+تونس,2022-3-12,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+Kenya,2022-3-12,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+Italia,2022-3-12,Italia,42.6384261,12.674297,6,MentionType.PRIMARY
+Кыргызстан,2022-3-12,Кыргызстан,41.5089324,74.724091,2,MentionType.PRIMARY
+Россия,2022-3-12,Россия,64.6863136,97.7453061,11,MentionType.PRIMARY
+ישראל,2022-3-12,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+中国,2022-3-12,中国,35.000074,104.999927,4,MentionType.PRIMARY
+Europe,2022-3-12,Europe,51.0,10.0,3,MentionType.PRIMARY
+France,2022-3-12,France,46.603354,1.8883335,4,MentionType.PRIMARY
+Pilipinas / Philippines,2022-3-12,Pilipinas / Philippines,12.7503486,122.7312101,1,MentionType.PRIMARY
+Polska,2022-3-12,Polska,52.215933,19.134422,10,MentionType.PRIMARY
+Deutschland,2022-3-12,Deutschland,51.0834196,10.4234469,5,MentionType.PRIMARY
+România,2022-3-12,România,45.9852129,24.6859225,4,MentionType.PRIMARY
+Türkiye,2022-3-12,Türkiye,38.9597594,34.9249653,4,MentionType.PRIMARY
+Magyarország,2022-3-12,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+Moldova,2022-3-12,Moldova,47.2879608,28.5670941,4,MentionType.PRIMARY
+Guatemala,2022-3-12,Guatemala,15.687100699999998,-90.12265453178017,1,MentionType.PRIMARY
+United States,2022-3-12,United States,39.7837304,-100.445882,23,MentionType.PRIMARY
+Україна,2022-3-12,Україна,49.4871968,31.2718321,30,MentionType.PRIMARY
+Australia,2022-3-13,Australia,-24.7761086,134.755,1,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-13,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Κύπρος - Kıbrıs,2022-3-13,Κύπρος - Kıbrıs,34.9823018,33.1451285,1,MentionType.PRIMARY
+Moldova,2022-3-13,Moldova,47.2879608,28.5670941,2,MentionType.PRIMARY
+Latvija,2022-3-13,Latvija,56.8406494,24.7537645,2,MentionType.PRIMARY
+Éire / Ireland,2022-3-13,Éire / Ireland,52.865196,-7.9794599,2,MentionType.PRIMARY
+Danmark,2022-3-13,Danmark,55.670249,10.3333283,1,MentionType.PRIMARY
+Suomi / Finland,2022-3-13,Suomi / Finland,63.2467777,25.9209164,1,MentionType.PRIMARY
+Eesti,2022-3-13,Eesti,58.7523778,25.3319078,1,MentionType.PRIMARY
+Ísland,2022-3-13,Ísland,64.9841821,-18.1059013,1,MentionType.PRIMARY
+Lietuva,2022-3-13,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Sverige,2022-3-13,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Norge,2022-3-13,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+Grenada,2022-3-13,Grenada,12.1360374,-61.6904045,1,MentionType.PRIMARY
+South Africa,2022-3-13,South Africa,-28.8166236,24.991639,1,MentionType.PRIMARY
+Malaysia,2022-3-13,Malaysia,4.5693754,102.2656823,1,MentionType.PRIMARY
+République démocratique du Congo,2022-3-13,République démocratique du Congo,-2.9814344,23.8222636,1,MentionType.PRIMARY
+افغانستان,2022-3-13,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+Ayiti,2022-3-13,Ayiti,19.1399952,-72.3570972,1,MentionType.PRIMARY
+مصر,2022-3-13,مصر,26.2540493,29.2675469,1,MentionType.PRIMARY
+ليبيا,2022-3-13,ليبيا,26.8234472,18.1236723,1,MentionType.PRIMARY
+México,2022-3-13,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+Nepal,2022-3-13,Nepal,27.317388549999997,86.62579795887953,1,MentionType.PRIMARY
+Бългaрия,2022-3-13,Бългaрия,42.6073975,25.4856617,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-13,België / Belgique / Belgien,50.6402809,4.6667145,1,MentionType.PRIMARY
+Slovensko,2022-3-13,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+العراق,2022-3-13,العراق,33.0955793,44.1749775,2,MentionType.PRIMARY
+لبنان,2022-3-13,لبنان,33.8750629,35.843409,1,MentionType.PRIMARY
+اليمن,2022-3-13,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+Palestinian Territory,2022-3-13,Palestinian Territory,32.4618837,35.297566,1,MentionType.PRIMARY
+Türkiye,2022-3-13,Türkiye,38.9597594,34.9249653,2,MentionType.PRIMARY
+France,2022-3-13,France,46.603354,1.8883335,4,MentionType.PRIMARY
+España,2022-3-13,España,39.3260685,-4.8379791,1,MentionType.PRIMARY
+Ελλάς,2022-3-13,Ελλάς,38.9953683,21.9877132,1,MentionType.PRIMARY
+Canada,2022-3-13,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+Black Sea,2022-3-13,Black Sea,43.87280435,33.99381558677739,3,MentionType.PRIMARY
+Nederland,2022-3-13,Nederland,52.15517,5.38721,2,MentionType.PRIMARY
+Česko,2022-3-13,Česko,49.8167003,15.4749544,1,MentionType.PRIMARY
+日本,2022-3-13,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+سوريا,2022-3-13,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+中国,2022-3-13,中国,35.000074,104.999927,5,MentionType.PRIMARY
+Kenya,2022-3-13,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+ایران,2022-3-13,ایران,32.6475314,54.5643516,2,MentionType.PRIMARY
+ישראל,2022-3-13,ישראל,31.5313113,34.8667654,3,MentionType.PRIMARY
+Europe,2022-3-13,Europe,51.0,10.0,2,MentionType.PRIMARY
+Polska,2022-3-13,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+臺灣,2022-3-13,臺灣,23.9739374,120.9820179,2,MentionType.PRIMARY
+Беларусь,2022-3-13,Беларусь,53.4250605,27.6971358,3,MentionType.PRIMARY
+Deutschland,2022-3-13,Deutschland,51.0834196,10.4234469,4,MentionType.PRIMARY
+Pilipinas / Philippines,2022-3-13,Pilipinas / Philippines,12.7503486,122.7312101,2,MentionType.PRIMARY
+România,2022-3-13,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Россия,2022-3-13,Россия,64.6863136,97.7453061,16,MentionType.PRIMARY
+Україна,2022-3-13,Україна,49.4871968,31.2718321,35,MentionType.PRIMARY
+United Kingdom,2022-3-13,United Kingdom,54.7023545,-3.2765753,10,MentionType.PRIMARY
+United States,2022-3-13,United States,39.7837304,-100.445882,24,MentionType.PRIMARY
+Italia,2022-3-13,Italia,42.6384261,12.674297,4,MentionType.PRIMARY
+대한민국,2022-3-14,대한민국,36.638392,127.6961188,2,MentionType.PRIMARY
+North America,2022-3-14,North America,51.0000002,-109.0,1,MentionType.PRIMARY
+Pacific Ocean,2022-3-14,Pacific Ocean,-0.703107,-120.9375,1,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-14,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,2022-3-14,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,31.1728205,-7.3362482,1,MentionType.PRIMARY
+Asia,2022-3-14,Asia,51.2086975,89.2343748,1,MentionType.PRIMARY
+Moldova,2022-3-14,Moldova,47.2879608,28.5670941,1,MentionType.PRIMARY
+Lietuva,2022-3-14,Lietuva,55.3500003,23.7499997,1,MentionType.PRIMARY
+Danmark,2022-3-14,Danmark,55.670249,10.3333283,1,MentionType.PRIMARY
+Österreich,2022-3-14,Österreich,47.59397,14.12456,1,MentionType.PRIMARY
+Hrvatska,2022-3-14,Hrvatska,45.5643442,17.0118954,1,MentionType.PRIMARY
+Portugal,2022-3-14,Portugal,40.0332629,-7.8896263,1,MentionType.PRIMARY
+Sverige,2022-3-14,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+South Africa,2022-3-14,South Africa,-28.8166236,24.991639,1,MentionType.PRIMARY
+Slovenija,2022-3-14,Slovenija,45.8133113,14.4808369,1,MentionType.PRIMARY
+Magyarország,2022-3-14,Magyarország,47.1817585,19.5060937,2,MentionType.PRIMARY
+Česko,2022-3-14,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Հայաստան,2022-3-14,Հայաստան,40.7696272,44.6736646,1,MentionType.PRIMARY
+Қазақстан,2022-3-14,Қазақстан,47.2286086,65.2093197,2,MentionType.PRIMARY
+Кыргызстан,2022-3-14,Кыргызстан,41.5089324,74.724091,1,MentionType.PRIMARY
+سوريا,2022-3-14,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Italia,2022-3-14,Italia,42.6384261,12.674297,3,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-14,België / Belgique / Belgien,50.6402809,4.6667145,3,MentionType.PRIMARY
+Canada,2022-3-14,Canada,61.0666922,-107.991707,3,MentionType.PRIMARY
+السعودية,2022-3-14,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+الأردن,2022-3-14,الأردن,31.1667049,36.941628,2,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-14,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+Беларусь,2022-3-14,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+France,2022-3-14,France,46.603354,1.8883335,5,MentionType.PRIMARY
+Việt Nam,2022-3-14,Việt Nam,13.2904027,108.4265113,1,MentionType.PRIMARY
+Türkiye,2022-3-14,Türkiye,38.9597594,34.9249653,5,MentionType.PRIMARY
+New Zealand / Aotearoa,2022-3-14,New Zealand / Aotearoa,-41.5000831,172.8344077,1,MentionType.PRIMARY
+Éire / Ireland,2022-3-14,Éire / Ireland,52.865196,-7.9794599,3,MentionType.PRIMARY
+日本,2022-3-14,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+España,2022-3-14,España,39.3260685,-4.8379791,3,MentionType.PRIMARY
+Venezuela,2022-3-14,Venezuela,8.0018709,-66.1109318,2,MentionType.PRIMARY
+Burkina Faso,2022-3-14,Burkina Faso,12.0753083,-1.6880314,2,MentionType.PRIMARY
+لبنان,2022-3-14,لبنان,33.8750629,35.843409,1,MentionType.PRIMARY
+تونس,2022-3-14,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-14,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+México,2022-3-14,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+قطر,2022-3-14,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Eesti,2022-3-14,Eesti,58.7523778,25.3319078,2,MentionType.PRIMARY
+India,2022-3-14,India,22.3511148,78.6677428,2,MentionType.PRIMARY
+Бългaрия,2022-3-14,Бългaрия,42.6073975,25.4856617,3,MentionType.PRIMARY
+Kenya,2022-3-14,Kenya,1.4419683,38.4313975,3,MentionType.PRIMARY
+Ελλάς,2022-3-14,Ελλάς,38.9953683,21.9877132,1,MentionType.PRIMARY
+Slovensko,2022-3-14,Slovensko,48.7411522,19.4528646,2,MentionType.PRIMARY
+Polska,2022-3-14,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+Europe,2022-3-14,Europe,51.0,10.0,3,MentionType.PRIMARY
+Nederland,2022-3-14,Nederland,52.15517,5.38721,3,MentionType.PRIMARY
+中国,2022-3-14,中国,35.000074,104.999927,6,MentionType.PRIMARY
+United Kingdom,2022-3-14,United Kingdom,54.7023545,-3.2765753,11,MentionType.PRIMARY
+Россия,2022-3-14,Россия,64.6863136,97.7453061,12,MentionType.PRIMARY
+ישראל,2022-3-14,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+România,2022-3-14,România,45.9852129,24.6859225,2,MentionType.PRIMARY
+Deutschland,2022-3-14,Deutschland,51.0834196,10.4234469,9,MentionType.PRIMARY
+United States,2022-3-14,United States,39.7837304,-100.445882,24,MentionType.PRIMARY
+Україна,2022-3-14,Україна,49.4871968,31.2718321,27,MentionType.PRIMARY
+조선민주주의인민공화국,2022-3-22,조선민주주의인민공화국,40.3736611,127.0870417,1,MentionType.PRIMARY
+Norge,2022-3-22,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+السعودية,2022-3-22,السعودية,25.6242618,42.3528328,1,MentionType.PRIMARY
+Éire / Ireland,2022-3-22,Éire / Ireland,52.865196,-7.9794599,1,MentionType.PRIMARY
+Azov Sea,2022-3-22,Azov Sea,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-22,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+سوريا,2022-3-22,سوريا,34.6401861,39.0494106,1,MentionType.PRIMARY
+Africa,2022-3-22,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-22,België / Belgique / Belgien,50.6402809,4.6667145,3,MentionType.PRIMARY
+Colombia,2022-3-22,Colombia,4.099917,-72.9088133,1,MentionType.PRIMARY
+Portugal,2022-3-22,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+Sverige,2022-3-22,Sverige,59.6749712,14.5208584,1,MentionType.PRIMARY
+Nigeria,2022-3-22,Nigeria,9.6000359,7.9999721,1,MentionType.PRIMARY
+Magyarország,2022-3-22,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+România,2022-3-22,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+Slovensko,2022-3-22,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Canada,2022-3-22,Canada,61.0666922,-107.991707,2,MentionType.PRIMARY
+قطر,2022-3-22,قطر,25.3336984,51.2295295,1,MentionType.PRIMARY
+Česko,2022-3-22,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Baltic Sea,2022-3-22,Baltic Sea,56.0,18.0,1,MentionType.PRIMARY
+Asia,2022-3-22,Asia,51.2086975,89.2343748,1,MentionType.PRIMARY
+日本,2022-3-22,日本,36.5748441,139.2394179,2,MentionType.PRIMARY
+پاکستان,2022-3-22,پاکستان,30.3308401,71.247499,1,MentionType.PRIMARY
+Indonesia,2022-3-22,Indonesia,-2.4833826,117.8902853,3,MentionType.PRIMARY
+Kenya,2022-3-22,Kenya,1.4419683,38.4313975,2,MentionType.PRIMARY
+Việt Nam,2022-3-22,Việt Nam,13.2904027,108.4265113,2,MentionType.PRIMARY
+Lëtzebuerg,2022-3-22,Lëtzebuerg,49.8158683,6.1296751,1,MentionType.PRIMARY
+ישראל,2022-3-22,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+Brasil,2022-3-22,Brasil,-10.3333333,-53.2,3,MentionType.PRIMARY
+تونس,2022-3-22,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+اليمن,2022-3-22,اليمن,16.3471243,47.8915271,1,MentionType.PRIMARY
+Ecuador,2022-3-22,Ecuador,-1.3397668,-79.3666965,1,MentionType.PRIMARY
+臺灣,2022-3-22,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+Europe,2022-3-22,Europe,51.0,10.0,3,MentionType.PRIMARY
+Türkiye,2022-3-22,Türkiye,38.9597594,34.9249653,1,MentionType.PRIMARY
+Australia,2022-3-22,Australia,-24.7761086,134.755,2,MentionType.PRIMARY
+Беларусь,2022-3-22,Беларусь,53.4250605,27.6971358,4,MentionType.PRIMARY
+Polska,2022-3-22,Polska,52.215933,19.134422,5,MentionType.PRIMARY
+France,2022-3-22,France,46.603354,1.8883335,7,MentionType.PRIMARY
+Deutschland,2022-3-22,Deutschland,51.0834196,10.4234469,4,MentionType.PRIMARY
+Madagasikara,2022-3-22,Madagasikara,-18.9249604,46.4416422,1,MentionType.PRIMARY
+Бългaрия,2022-3-22,Бългaрия,42.6073975,25.4856617,2,MentionType.PRIMARY
+中国,2022-3-22,中国,35.000074,104.999927,5,MentionType.PRIMARY
+Россия,2022-3-22,Россия,64.6863136,97.7453061,8,MentionType.PRIMARY
+ایران,2022-3-22,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+افغانستان,2022-3-22,افغانستان,33.7680065,66.2385139,1,MentionType.PRIMARY
+Black Sea,2022-3-22,Black Sea,43.87280435,33.99381558677739,3,MentionType.PRIMARY
+United Kingdom,2022-3-22,United Kingdom,54.7023545,-3.2765753,9,MentionType.PRIMARY
+Italia,2022-3-22,Italia,42.6384261,12.674297,6,MentionType.PRIMARY
+Україна,2022-3-22,Україна,49.4871968,31.2718321,29,MentionType.PRIMARY
+United States,2022-3-22,United States,39.7837304,-100.445882,22,MentionType.PRIMARY
+México,2022-3-22,México,23.6585116,-102.0077097,1,MentionType.PRIMARY
+Uganda,2022-3-25,Uganda,1.5333554,32.2166578,1,MentionType.PRIMARY
+Africa,2022-3-25,Africa,11.5024338,17.7578122,1,MentionType.PRIMARY
+Magyarország,2022-3-25,Magyarország,47.1817585,19.5060937,1,MentionType.PRIMARY
+Sea Of Azov,2022-3-25,Sea Of Azov,46.196729,36.73570655151333,1,MentionType.PRIMARY
+Suomi / Finland,2022-3-25,Suomi / Finland,63.2467777,25.9209164,2,MentionType.PRIMARY
+Schweiz/Suisse/Svizzera/Svizra,2022-3-25,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,1,MentionType.PRIMARY
+中国,2022-3-25,中国,35.000074,104.999927,3,MentionType.PRIMARY
+Norge,2022-3-25,Norge,60.5000209,9.0999715,1,MentionType.PRIMARY
+ישראל,2022-3-25,ישראל,31.5313113,34.8667654,1,MentionType.PRIMARY
+France,2022-3-25,France,46.603354,1.8883335,3,MentionType.PRIMARY
+ایران,2022-3-25,ایران,32.6475314,54.5643516,1,MentionType.PRIMARY
+Česko,2022-3-25,Česko,49.8167003,15.4749544,2,MentionType.PRIMARY
+Portugal,2022-3-25,Portugal,40.0332629,-7.8896263,2,MentionType.PRIMARY
+Кыргызстан,2022-3-25,Кыргызстан,41.5089324,74.724091,1,MentionType.PRIMARY
+România,2022-3-25,România,45.9852129,24.6859225,1,MentionType.PRIMARY
+قطر,2022-3-25,قطر,25.3336984,51.2295295,2,MentionType.PRIMARY
+Slovensko,2022-3-25,Slovensko,48.7411522,19.4528646,1,MentionType.PRIMARY
+Ελλάς,2022-3-25,Ελλάς,38.9953683,21.9877132,2,MentionType.PRIMARY
+تونس,2022-3-25,تونس,33.8439408,9.400138,1,MentionType.PRIMARY
+México,2022-3-25,México,23.6585116,-102.0077097,3,MentionType.PRIMARY
+臺灣,2022-3-25,臺灣,23.9739374,120.9820179,1,MentionType.PRIMARY
+Chile,2022-3-25,Chile,-31.7613365,-71.3187697,1,MentionType.PRIMARY
+België / Belgique / Belgien,2022-3-25,België / Belgique / Belgien,50.6402809,4.6667145,5,MentionType.PRIMARY
+Deutschland,2022-3-25,Deutschland,51.0834196,10.4234469,6,MentionType.PRIMARY
+Россия,2022-3-25,Россия,64.6863136,97.7453061,12,MentionType.PRIMARY
+Kenya,2022-3-25,Kenya,1.4419683,38.4313975,3,MentionType.PRIMARY
+سوريا,2022-3-25,سوريا,34.6401861,39.0494106,2,MentionType.PRIMARY
+Türkiye,2022-3-25,Türkiye,38.9597594,34.9249653,3,MentionType.PRIMARY
+Europe,2022-3-25,Europe,51.0,10.0,3,MentionType.PRIMARY
+Black Sea,2022-3-25,Black Sea,43.87280435,33.99381558677739,4,MentionType.PRIMARY
+日本,2022-3-25,日本,36.5748441,139.2394179,6,MentionType.PRIMARY
+Беларусь,2022-3-25,Беларусь,53.4250605,27.6971358,2,MentionType.PRIMARY
+Indonesia,2022-3-25,Indonesia,-2.4833826,117.8902853,1,MentionType.PRIMARY
+United Kingdom,2022-3-25,United Kingdom,54.7023545,-3.2765753,10,MentionType.PRIMARY
+Україна,2022-3-25,Україна,49.4871968,31.2718321,20,MentionType.PRIMARY
+Nederland,2022-3-25,Nederland,52.15517,5.38721,1,MentionType.PRIMARY
+United States,2022-3-25,United States,39.7837304,-100.445882,29,MentionType.PRIMARY
+Polska,2022-3-25,Polska,52.215933,19.134422,10,MentionType.PRIMARY
