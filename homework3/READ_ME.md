@@ -89,3 +89,13 @@ Mapping utility to display geolocated data on a map using plotly:
     Requirements: plotly, pandas
 
     Inputs:  A csv json file in the map_plotting/output directory containing lat/long, date, country and label data.
+
+Script to sum up references per date and new source:
+    
+    map_plotting/loc_gpe_counts.py
+
+    Requirements: json, os, string, datetime
+
+    Inputs:  A locations json file in the map_plotting/input directory
+
+    Output:  Creates two csv files containing the GPE and LOC data respectively.
